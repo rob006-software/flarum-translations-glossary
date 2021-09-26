@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Categories</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>板块</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Navigation</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>导航栏</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Layout</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>布局</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Discussions</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>主题</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Posts</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>帖子</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>may not have more than</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>不得多于</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>must be less than or equal</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>不得多于</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>must be less than or equal</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>不得大于</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>kilobytes</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>KB</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>must have more than</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>必须多于</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>must be greater than or equal</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>必须大于等于</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>must be greater than or equal</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>不得小于</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>The selected</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>所选的</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Login Settings</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>登录 - 设置</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Private Messaging</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>私人消息</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Private Messaging</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>私信</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>private conversations</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>私人会话</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

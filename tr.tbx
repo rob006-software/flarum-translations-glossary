@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>anonim</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>bilinmeyen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>spam</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>istenmeyen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>tatkaçıran</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>composer</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>düzenleyici</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>header</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>üst bilgi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>footer</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>alt bilgi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>body</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>gövde</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fontend</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>ön uç</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>backend</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>arka uç</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>namespace</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>ad alanı</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>buton</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>düğme</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

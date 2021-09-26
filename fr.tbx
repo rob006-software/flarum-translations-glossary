@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Account</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Compte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Address</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Adresse</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Admin</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Administrateur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Administrator</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Administrateur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>App</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Application</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Application</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Application</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Asset</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ressource</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Authentication</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Authentification</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Banner</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Bannière</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bypass</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Contourner</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Categorize</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Catégoriser</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Close</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Fermer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cluster</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Grappe de serveurs</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Configuration</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Configuration</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Control</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Commande</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dark Mode</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Mode sombre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dashboard</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Tableau de bord</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Database</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Base de données</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Delete</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Supprimer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Description</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Description</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Disable</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Désactiver</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Discussion</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Discussion</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Display Name</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Nom d’affichage</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Domain</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Domaine</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Donate</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Faire un don</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Télécharger</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Driver</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Pilote</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Email</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Courriel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Email address</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Adresse de courriel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Emoji</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Émoji</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Enable</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Activer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Encryption</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Chiffrement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Extension</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Extension</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Favicon</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Favicon</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Feature</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Fonctionnalité</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Flag</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Signaler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Follow</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>S’abonner</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Footer</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Pied de page</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Formatting</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Mise en page</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Forum</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Forum</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Full Screen</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Mode plein écran</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Group</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Groupe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Guest</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Invité</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Header</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>En-tête</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hide</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Masquer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hierarchy</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Hiérarchie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Home</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Accueil</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Host</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Hôte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Highlight color</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Couleur de surbrillance</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Icon</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Icône</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Indentation</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Indentation</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Install</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Installer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Key</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Clé</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Language</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Langue</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lock</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Verrouiller</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Log In</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Connexion</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Log Out</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Déconnexion</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Logo</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Logo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Member</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Membre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Mention</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Mentionner</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Minimize</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Réduire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Mod</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Modérateur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Moderator</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Modérateur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Name</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Nom</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Next</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Suivant</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Nickname</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Pseudonyme</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Online</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>En ligne</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Password</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Mot de passe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Permission</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Permission</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Post</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Message</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Post</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Publier</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Preview</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Prévisualiser</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Previous</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Précédent</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Primary</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Primaire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Privacy</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Confidentialité</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Refresh</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Actualiser</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Relevance</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Pertinence</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Remove</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Supprimer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reply</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Répondre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Requirement</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Restriction</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Restrict</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Restreindre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Restore</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Restaurer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Secondary</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Secondaire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Send</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Envoyer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sender</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Expéditeur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Setting</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Paramètre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sign Up</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Inscription</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Slug</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Identifiant texte unique</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Status</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Statut</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sticky</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Épingler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Suspension</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Suspension</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tag</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Balise</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Tag</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Étiquette</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Textarea</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Zone de texte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Theme</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Thème</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Title</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Titre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tools</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Outils</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Upload</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Transférer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Unfollow</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Se désabonner</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Unignore</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ne plus ignorer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Uninstall</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Désinstaller</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Unlock</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Déverrouiller</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Unsticky</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Désépingler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>User</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Utilisateur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Username</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Nom d'utilisateur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Website</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Site internet</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ad</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Publicité</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Block</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Bloquer</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Block</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Empêcher</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Categorie</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Catégorie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Device</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Appareil</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Excerpt</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Extrait</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Feed</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Flux</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Frontpage</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Page d'accueil</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ID</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Identifiant</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>ID</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Référence</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Maintenance</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Maintenance</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Opt In</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Participer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Option</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Option</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Save</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Enregistrer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Syndication</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Syndication</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Widget</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Widget</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Add</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ajouter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bookmark</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Favori</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cancel</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Annuler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Continue</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Continuer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Create</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Créer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Customize</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Personnaliser</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Edit</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Modifier</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Event</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Événement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Guideline</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Règlement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Random</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Aléatoire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Schedule</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Planifier</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sign In</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Connexion</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Envoyer</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Soumettre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Webhook</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Webhook</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Extender</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Prolongateur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hero</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Bandeau</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Inspect</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Contrôler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Scratchpad</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Bloc-notes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Subscription</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Abonnement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Access</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Accès</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Background</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Arrière-plan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Backup</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Sauvegarde</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Badge</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Container</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Conteneur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>DB</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Base de données</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Endpoint</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Point d'accès</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>File</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Fichier</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Generate</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Générer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hostname</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Nom d'hôte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Location</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Emplacement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Mode</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Mode</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Optional</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Facultatif</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Path</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Chemin</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Popup</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Fenêtre intruse</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Port</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Port</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Position</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Position</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Prefix</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Préfixe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reason</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Motif</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Schedule</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Planifier</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Server</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Serveur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Spacer</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Espacement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Start</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Démarrer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Store</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Conserver</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Timeout</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Délai d'expiration</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Token</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Jeton</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Body</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Corps</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Filter</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Filtre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>String</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Chaîne</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Sujet</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Follow</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Suivre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lurk</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Surveiller</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Unfollow</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ne plus suivre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Advertorial</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Publireportage</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Criterion</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Critère</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Export</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Exporter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Frontend</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Application frontale</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Import</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Importer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Label</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Libellé</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Locale</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Variable linguistique</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Paywall</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Péage de lecture numérique</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Placeholder</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Paramètre fictif</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Switch</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Interrupteur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Translate</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Traduire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Attach</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Joindre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Backend</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Application dorsale</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bucket</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Espace de stockage mémoire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gamification</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ludification</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hotlink</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Lien hypertexte automatique</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Split</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Séparer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Thumbnail</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Vignette</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bio</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Biographie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Définition</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Directory</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Répertoire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Editor</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Éditeur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Extra</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Supplémentaire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hashtag</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Mot-dièse</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Item</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Élément</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Line</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ligne</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Modal</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Fenêtre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Newsletter</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Lettre d'information</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Revision</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Révision</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Role</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Rôle</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Shortcode</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Shortcode</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Syntax</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Syntaxe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>’</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>'</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>"</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>«</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>"</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>»</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Box</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Zone</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Compositeur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Form</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Formulaire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Payload</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Charge utile</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Standalone</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Autonome</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Template</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Modèle</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Toast</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Bulle de notification</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Manager</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Gestionnaire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Metadata</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Métadonnées</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>iFrame</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Fenêtre imbriquée</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Issue</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Erreur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Node</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Nœud</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Plugin</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Plugin</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Thread</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Fil</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Wizard</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Assistant</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Abbreviate</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Abréger</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Achievement</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Succès</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Author</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Auteur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Channel</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Chaîne</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Clear</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Effacer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Collection</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Collection</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cover</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Couverture</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Delimiter</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Délimiteur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dismiss</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Rejeter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Feedback</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Retour d'expérience</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fullscreen</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Mode plein écran</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Issuer</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Émetteur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Kick</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Expulser</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Leave</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Quitter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Milestone</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Milestone</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Rating</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Évaluation</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Repository</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Dépôt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reverse Proxy</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Proxy inverse</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Summary</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Résumé</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Thickness</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Épaisseur</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Thumbnail</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Miniature</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ticket</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ticket</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Toggle</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Commuter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Variable</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Variable</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Vendor</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Bibliothèque tierce</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Video</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Vidéo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>A2F</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bug</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Bogue</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gallery</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Galerie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Provider</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Fournisseur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Graph</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Graphique</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Interval</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Intervalle</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Statistic</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Statistique</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>From</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>De</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Until</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Jusqu'à</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

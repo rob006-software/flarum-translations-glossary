@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>тег</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>discussions</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>дискуссии</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>e-mail</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>delete</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>удалить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>править</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notifications</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>уведомления</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>пароль</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>posts</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>сообщения</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>post</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>сообщение</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tags</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>теги</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remove</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>удалить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reply</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ответить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>restore</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>восстановить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>save</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>сохранить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>settings</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>настройки</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>имя пользователя</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>users</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>пользователи</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>like</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>нравится</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mention</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>упоминание</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>discussion</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>дискуссия</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>пользователь</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>
