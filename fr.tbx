@@ -281,6 +281,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Reply</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Répondre</term></tig></langSet>
+                <descrip>Cevap kelimesi Arapçadır. Mümkün olduğunca Öz Türkçe kullanımına özen göstermek için Reply kelimesini Yanıt olarak çevirelim.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Requirement</term></tig></langSet>
@@ -329,10 +330,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Tag</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Balise</term></tig></langSet>
+                <descrip>Značenje reči "Tag" može da ima dva značenja. Prvo značenje se odnosi na kategorije (Flarum Tags), a drugi na oznake (tagovi).</descrip>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Tag</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Étiquette</term></tig></langSet>
+                <descrip>Flarum Tags - Flarum kategorije u kojima se započinje diskusija.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Textarea</term></tig></langSet>
@@ -413,6 +416,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Feed</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Flux</term></tig></langSet>
+                <descrip>Feed için besleme değil Akış ifadesi kullanılmalıdır</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Frontpage</term></tig></langSet>
@@ -577,6 +581,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Position</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Position</term></tig></langSet>
+                <descrip>Pozisyon olarak karşılı olsa da genelde "konum" anlamında kullanılır.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Prefix</term></tig></langSet>
@@ -745,6 +750,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Modal</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Fenêtre</term></tig></langSet>
+                <descrip>Açılan pencereler için kullanılır</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Newsletter</term></tig></langSet>
