@@ -14,6 +14,10 @@
                 <langSet xml:lang="en"><tig><term>Set your forum title, language, and other basic settings.</term></tig></langSet>
                 <langSet xml:lang="fa"><tig><term>عنوان انجمن ، زبان و سایر تنظیمات اساسی خود را تنظیم کنید.</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
+                <langSet xml:lang="fa"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
