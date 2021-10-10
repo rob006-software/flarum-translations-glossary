@@ -14,6 +14,10 @@
                 <langSet xml:lang="en"><tig><term>This applies to the footer viewlist and the sidebar viewlist</term></tig></langSet>
                 <langSet xml:lang="vi"><tig><term>Điều này cũng sẽ áp dụng cho danh sách lượt xem ở dưới bài viết và thanh bên cuộc thảo luận</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
