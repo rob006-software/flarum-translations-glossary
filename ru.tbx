@@ -124,7 +124,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>approval</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>разрешение</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>одобрение</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Group</term></tig></langSet>
