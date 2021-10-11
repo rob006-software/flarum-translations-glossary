@@ -98,6 +98,62 @@
                 <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Отправить</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Тема</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Show</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Показать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Send</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Отправить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Add</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Добавить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>side navigation</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>боковое меню</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>other</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>другие</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>approval</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>разрешение</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Group</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Группа</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Recipients</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Получатели</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>list</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>список</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>badge</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>жетон</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>See</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Посмотреть</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Message</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Сообщение</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>avatar</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>аватар</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
