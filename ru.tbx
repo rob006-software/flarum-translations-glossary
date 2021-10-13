@@ -154,6 +154,14 @@
                 <langSet xml:lang="en"><tig><term>avatar</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>аватар</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Default</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>по умолчанию</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Milestone</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Отметка</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
