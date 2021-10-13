@@ -178,6 +178,14 @@
                 <langSet xml:lang="en"><tig><term>Open</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Открыть</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Copy</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Копировать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>clipboard</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>буфер обмена</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
