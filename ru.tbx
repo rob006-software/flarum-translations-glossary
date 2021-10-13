@@ -162,6 +162,22 @@
                 <langSet xml:lang="en"><tig><term>Milestone</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Отметка</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Confirm</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Подтвердить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>All</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Все</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hide</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Скрыть</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Open</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Открыть</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
