@@ -218,6 +218,18 @@
                 <langSet xml:lang="en"><tig><term>Signup</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Регистрация</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Container</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Контейнер</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Version</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Версия</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Configure</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Конфигурировать {adapter}</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
