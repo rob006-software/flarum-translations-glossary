@@ -194,6 +194,14 @@
                 <langSet xml:lang="en"><tig><term>Set</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Установить</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hashtag</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>хэштег</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Search</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Искать</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
