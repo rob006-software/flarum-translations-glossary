@@ -186,6 +186,10 @@
                 <langSet xml:lang="en"><tig><term>clipboard</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>буфер обмена</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Subdirectory</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Подкаталог</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
