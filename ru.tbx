@@ -210,6 +210,14 @@
                 <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>расширение</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Level</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Уровень</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Signup</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Регистрация</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
