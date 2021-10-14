@@ -202,6 +202,10 @@
                 <langSet xml:lang="en"><tig><term>Search</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Искать</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Money</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Монетки</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
