@@ -234,6 +234,10 @@
                 <langSet xml:lang="en"><tig><term>Specify</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Укажите</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unknown</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>неизвестный</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
