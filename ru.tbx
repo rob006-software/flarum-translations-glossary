@@ -258,6 +258,38 @@
                 <langSet xml:lang="en"><tig><term>General</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Общие</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Api Key</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>API ключ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Saturday</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Суббота</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tuesday</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Вторник</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Monday</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Понедельник</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Thursday</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Четверг</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Wednesday</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Среда</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Friday</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Пятница</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sunday</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Воскресенье</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
