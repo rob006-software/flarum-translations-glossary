@@ -322,6 +322,18 @@
                 <langSet xml:lang="en"><tig><term>changes</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>изменения</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fields</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>поля</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Share</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Поделиться</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>option</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Опция</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
