@@ -246,6 +246,18 @@
                 <langSet xml:lang="en"><tig><term>Topic starter</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Топикстартер</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>info</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>сведения</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Author</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Автор</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>General</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Общие</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
