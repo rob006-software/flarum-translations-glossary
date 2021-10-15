@@ -290,6 +290,14 @@
                 <langSet xml:lang="en"><tig><term>Sunday</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Воскресенье</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>button</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Кнопка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>spacer</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>разделитель</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
