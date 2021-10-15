@@ -298,6 +298,22 @@
                 <langSet xml:lang="en"><tig><term>spacer</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>разделитель</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>preview</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Предпросмотр</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Move</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Переместить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Position</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Позиция</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Saving</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Сохраняю</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
