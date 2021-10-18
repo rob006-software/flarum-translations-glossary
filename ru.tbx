@@ -342,6 +342,10 @@
                 <langSet xml:lang="en"><tig><term>Youtube</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Youtube</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Widget</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>виджет</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
