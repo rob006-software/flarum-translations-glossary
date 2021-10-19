@@ -358,6 +358,10 @@
                 <langSet xml:lang="en"><tig><term>login link</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Ссылка для входа</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>single-use</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>одноразовый</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
