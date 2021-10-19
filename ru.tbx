@@ -346,6 +346,10 @@
                 <langSet xml:lang="en"><tig><term>Widget</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>виджет</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>comment</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>комментарий</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
