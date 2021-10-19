@@ -354,6 +354,10 @@
                 <langSet xml:lang="en"><tig><term>Secret Key</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Секретный ключ</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>login link</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Ссылка для входа</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
