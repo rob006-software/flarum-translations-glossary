@@ -362,6 +362,10 @@
                 <langSet xml:lang="en"><tig><term>single-use</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>одноразовый</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Image</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>изображение</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
