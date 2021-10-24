@@ -490,6 +490,10 @@
                 <langSet xml:lang="en"><tig><term>badges</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>жетоны</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reason</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>причина</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
