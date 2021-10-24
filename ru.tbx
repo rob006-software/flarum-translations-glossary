@@ -418,6 +418,18 @@
                 <langSet xml:lang="en"><tig><term>editor</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>редактор</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Seconds</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Секунд</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Minutes</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Минут</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hours</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Часов</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
