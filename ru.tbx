@@ -390,6 +390,10 @@
                 <langSet xml:lang="en"><tig><term>Hot</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Активный</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Glossary</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Глоссарий</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
