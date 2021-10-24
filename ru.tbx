@@ -410,6 +410,14 @@
                 <langSet xml:lang="en"><tig><term>Please wait</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Пожалуйста ждите</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>width</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ширина</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>editor</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>редактор</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
