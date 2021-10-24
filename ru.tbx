@@ -478,6 +478,18 @@
                 <langSet xml:lang="en"><tig><term>Enabled</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Разрешить</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Select</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Выбрать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>received</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>получено</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>badges</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>жетоны</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
