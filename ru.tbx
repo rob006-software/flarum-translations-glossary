@@ -450,6 +450,18 @@
                 <langSet xml:lang="en"><tig><term>category</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>категория</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>icon</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>иконка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Visible</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Видимый</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>irreversible</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>действие нельзя отменить</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
