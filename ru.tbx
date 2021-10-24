@@ -430,6 +430,26 @@
                 <langSet xml:lang="en"><tig><term>Hours</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Часов</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Create</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Создать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>No</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Нет</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Yes</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Да</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Update</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Обновить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>category</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>категория</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
