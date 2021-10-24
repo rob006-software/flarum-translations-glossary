@@ -462,6 +462,22 @@
                 <langSet xml:lang="en"><tig><term>irreversible</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>действие нельзя отменить</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Install</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Установить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Automatically</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Автоматически</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Do not show again</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Не показывать вновь</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Enabled</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Разрешить</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
