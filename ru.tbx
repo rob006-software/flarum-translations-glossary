@@ -510,6 +510,10 @@
                 <langSet xml:lang="en"><tig><term>Purge</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Очистка</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Upvotes</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Одобрения</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
