@@ -546,6 +546,18 @@
                 <langSet xml:lang="en"><tig><term>Debug</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Отладка</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Header</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Заголовок</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>item</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>элемент</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Active</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Активный</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
