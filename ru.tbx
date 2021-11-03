@@ -542,6 +542,10 @@
                 <langSet xml:lang="en"><tig><term>Square</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Квадрат</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Debug</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Отладка</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
