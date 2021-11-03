@@ -526,6 +526,22 @@
                 <langSet xml:lang="en"><tig><term>Unlike</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Не нравится</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Participate</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Участвовать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Moderate</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Модерировать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Circle</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Круг</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Square</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Квадрат</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
