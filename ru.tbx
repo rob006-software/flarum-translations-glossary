@@ -562,6 +562,10 @@
                 <langSet xml:lang="en"><tig><term>feedback</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Обратная связь</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Redirection</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>перенаправление</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
