@@ -570,6 +570,10 @@
                 <langSet xml:lang="en"><tig><term>miserable user</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>пользователь-изгой</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Navigation Drawer</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Навигационная секция</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
