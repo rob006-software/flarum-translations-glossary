@@ -574,6 +574,18 @@
                 <langSet xml:lang="en"><tig><term>Navigation Drawer</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Навигационная секция</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>categories</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>категории</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Blog</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Блог</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>articles</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>статьи</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
