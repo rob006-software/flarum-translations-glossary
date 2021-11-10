@@ -586,6 +586,10 @@
                 <langSet xml:lang="en"><tig><term>articles</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>статьи</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>comments</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>комментарии</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
