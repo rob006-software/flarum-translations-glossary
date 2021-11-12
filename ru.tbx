@@ -594,6 +594,10 @@
                 <langSet xml:lang="en"><tig><term>sidebar</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>боковая панель</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Close</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Закрыть</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
