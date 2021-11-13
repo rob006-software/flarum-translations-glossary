@@ -1050,6 +1050,10 @@
                 <langSet xml:lang="en"><tig><term>Until</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Jusqu'à</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Email Address</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
