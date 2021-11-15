@@ -616,11 +616,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Delete</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Удалить</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Email Address</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Адрес эл.почты</term></tig></langSet>
             </termEntry>
         </body>
     </text>
