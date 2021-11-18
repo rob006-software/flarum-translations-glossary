@@ -634,6 +634,10 @@
                 <langSet xml:lang="en"><tig><term>Value</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Значение</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Please</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Пожалуйста</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
