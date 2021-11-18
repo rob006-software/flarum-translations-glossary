@@ -622,6 +622,18 @@
                 <langSet xml:lang="en"><tig><term>Email Address</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Адрес эл.почты</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Country</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Страна</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Code</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Код</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Value</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Значение</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
