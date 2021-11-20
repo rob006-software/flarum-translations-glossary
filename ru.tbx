@@ -638,6 +638,14 @@
                 <langSet xml:lang="en"><tig><term>Please</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Пожалуйста</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Achievements</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Достижения</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Instructions</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Инструкции</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
