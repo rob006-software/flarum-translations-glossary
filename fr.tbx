@@ -1058,6 +1058,14 @@
                 <langSet xml:lang="en"><tig><term>Whitelist</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Liste blanche</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>General</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Général</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Probability</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Probabilité</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
