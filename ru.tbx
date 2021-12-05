@@ -312,7 +312,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Saving</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>Сохраняю</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Сохраняется</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>link</term></tig></langSet>
@@ -372,7 +372,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular Expression</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>регулярное выражение</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Регулярное Выражение</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>newsletter</term></tig></langSet>
@@ -564,7 +564,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Redirection</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>перенаправление</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Перенаправление</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>miserable user</term></tig></langSet>
@@ -608,7 +608,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Slide</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>слайд</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Слайд</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slideshow</term></tig></langSet>
