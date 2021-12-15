@@ -662,6 +662,10 @@
                 <langSet xml:lang="en"><tig><term>color</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Цвет</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bookmark</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Закладка</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
