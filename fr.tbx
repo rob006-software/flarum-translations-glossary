@@ -1078,6 +1078,10 @@
                 <langSet xml:lang="en"><tig><term>Text</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Texte</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tier</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Échelon</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
