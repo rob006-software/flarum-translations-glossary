@@ -1070,6 +1070,10 @@
                 <langSet xml:lang="en"><tig><term>unread</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>non-lu</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Level</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Niveau</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
