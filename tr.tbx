@@ -13,6 +13,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>anonim</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Bilinmeyen</term></tig></langSet>
+                <note from="translator">Yazanı ya da yaratıcısı belli olmayan</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spam</term></tig></langSet>
