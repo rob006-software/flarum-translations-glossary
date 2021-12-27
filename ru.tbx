@@ -666,6 +666,10 @@
                 <langSet xml:lang="en"><tig><term>Bookmark</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Закладка</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Scroll</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Прокрутка</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
