@@ -1094,6 +1094,18 @@
                 <langSet xml:lang="en"><tig><term>Notifications</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Notifications</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dropdown</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Liste déroulante</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Back</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Retour</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Login</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Connexion</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
