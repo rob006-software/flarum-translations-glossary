@@ -1086,6 +1086,14 @@
                 <langSet xml:lang="en"><tig><term>Authors</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Auteurs</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Search</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Rechercher</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Notifications</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Notifications</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
