@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term/></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Zatwierdź</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Delete</term></tig></langSet>
