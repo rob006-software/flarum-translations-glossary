@@ -674,6 +674,10 @@
                 <langSet xml:lang="en"><tig><term>Warning</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Внимание</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>birthday</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>день рождения</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
