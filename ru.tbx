@@ -678,6 +678,10 @@
                 <langSet xml:lang="en"><tig><term>birthday</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>день рождения</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Back</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Назад</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
