@@ -694,6 +694,10 @@
                 <langSet xml:lang="en"><tig><term>Tier</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Уровень</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>snippet</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>фрагмент</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
