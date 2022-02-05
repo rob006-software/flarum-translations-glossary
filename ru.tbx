@@ -682,6 +682,18 @@
                 <langSet xml:lang="en"><tig><term>Back</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Назад</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Manager</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Менеджер</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Label</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ярлык</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tier</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Уровень</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
