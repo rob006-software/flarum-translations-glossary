@@ -30,6 +30,14 @@
                 <langSet xml:lang="en"><tig><term>Cache</term></tig></langSet>
                 <langSet xml:lang="sr"><tig><term>Keš memorija</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Tag</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>Kategorija</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tag</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>oznaka</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
