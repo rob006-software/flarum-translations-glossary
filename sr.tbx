@@ -12,15 +12,23 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Email Address</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Delete</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Purge</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>Očistite</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cache</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>Keš memorija</term></tig></langSet>
             </termEntry>
         </body>
     </text>
