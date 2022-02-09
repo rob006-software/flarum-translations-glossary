@@ -38,6 +38,10 @@
                 <langSet xml:lang="en"><tig><term>Tag</term></tig></langSet>
                 <langSet xml:lang="sr"><tig><term>oznaka</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tags</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>Označavati</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
