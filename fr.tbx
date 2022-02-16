@@ -1106,6 +1106,10 @@
                 <langSet xml:lang="en"><tig><term>Login</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Connexion</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Blacklist</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Liste noire</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
