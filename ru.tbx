@@ -702,6 +702,10 @@
                 <langSet xml:lang="en"><tig><term>Your</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Ваша</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Someone</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Кто-то</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
