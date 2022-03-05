@@ -698,6 +698,10 @@
                 <langSet xml:lang="en"><tig><term>snippet</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>фрагмент</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Your</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Ваша</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
