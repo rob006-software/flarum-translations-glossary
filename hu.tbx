@@ -22,6 +22,10 @@
                 <langSet xml:lang="en"><tig><term>Email Address</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>E-mail cím</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Discussion</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Téma</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
