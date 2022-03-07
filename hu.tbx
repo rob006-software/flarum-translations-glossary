@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>Elküld</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Elküldés</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Delete</term></tig></langSet>
@@ -20,7 +20,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Email Address</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>E-mail cím</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>E-mail-cím</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Discussion</term></tig></langSet>
@@ -32,7 +32,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term></term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>hivatkozás</term></tig></langSet>
             </termEntry>
         </body>
     </text>
