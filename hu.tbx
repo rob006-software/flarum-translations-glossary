@@ -30,6 +30,10 @@
                 <langSet xml:lang="en"><tig><term>widget</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>modul</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
