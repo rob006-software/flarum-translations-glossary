@@ -706,6 +706,10 @@
                 <langSet xml:lang="en"><tig><term>Someone</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Кто-то</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unread</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>непрочтенное</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
