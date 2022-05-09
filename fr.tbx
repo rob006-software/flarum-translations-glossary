@@ -1110,6 +1110,10 @@
                 <langSet xml:lang="en"><tig><term>Blacklist</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Liste noire</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Apply</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Appliquer</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
