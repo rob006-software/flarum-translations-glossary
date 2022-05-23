@@ -710,6 +710,30 @@
                 <langSet xml:lang="en"><tig><term>unread</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>непрочтенное</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Insert</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Вставить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>numbered</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>нумерованный</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>quote</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>цитата</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>strikethrough</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>перечеркнутый</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>спойлер</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bulleted list</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>маркированный список</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
