@@ -90,6 +90,10 @@
                 <langSet xml:lang="en"><tig><term>Discussion</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Tartışma</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Highlight</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Öne çıkan</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
