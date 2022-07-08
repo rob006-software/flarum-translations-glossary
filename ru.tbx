@@ -734,6 +734,26 @@
                 <langSet xml:lang="en"><tig><term>bulleted list</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>маркированный список</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Top</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Популярное</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Oldest</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Старое</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Trending</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Набирающее популярность</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Newest</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Новое</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>latest</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>По обновлению</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
