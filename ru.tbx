@@ -754,6 +754,10 @@
                 <langSet xml:lang="en"><tig><term>latest</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>По обновлению</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Always</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Всегда</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
