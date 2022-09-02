@@ -1658,6 +1658,106 @@
                 <langSet xml:lang="en"><tig><term>Guidelines</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Directives</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Quote</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Citer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Validation</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Validation</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Like</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Aimer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Display</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Afficher</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Mention</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Mention</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Pusher</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Pusher</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Usernames</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Noms d'utilisateur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Number</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Nombre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tags</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Étiquettes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Notification</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Notification</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Statistics</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Statistiques</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Requirements</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Exigences</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Mentions</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Mentions</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Rules</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Règles</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Italic</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Italique</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bold</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Gras</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Choose</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Sélectionner</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Random</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Aléatoire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Off-topic</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Hors-sujet</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Suspend</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Suspendre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Unknown</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Inconnu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Regular expression</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Expression régulière</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Contact</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Contacter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Message</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Message</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Length</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Longueur</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
