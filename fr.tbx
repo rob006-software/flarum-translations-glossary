@@ -1118,6 +1118,18 @@
                 <langSet xml:lang="en"><tig><term>Spoiler</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Divulgâcher</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Basic</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Essentiel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Model</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Modèle</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Selector</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Sélecteur</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
