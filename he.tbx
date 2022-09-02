@@ -38,6 +38,10 @@
                 <langSet xml:lang="en"><tig><term>kilobytes.</term></tig></langSet>
                 <langSet xml:lang="he"><tig><term>קילובייטים.</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>The :attribute</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>ה:attribute</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
