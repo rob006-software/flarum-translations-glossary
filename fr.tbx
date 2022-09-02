@@ -1286,6 +1286,62 @@
                 <langSet xml:lang="en"><tig><term>Moderation</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Modération</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Global</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Général</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Participate</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Participer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Read</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Lire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>New</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Nouveau</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Rename</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Renommer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Credentials</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Identifiants</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Moderate</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Modérer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Multiple</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Plusieurs</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Credential</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Identifiant</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Groups</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Groupes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Attribute</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Attribut</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Attributes</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Attributs</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Configure</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Configurer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Posts</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Messages</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
