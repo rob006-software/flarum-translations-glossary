@@ -283,10 +283,6 @@
                 <langSet xml:lang="fr"><tig><term>Mot de passe</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Permission</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Permission</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Post</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Message</term></tig></langSet>
             </termEntry>
