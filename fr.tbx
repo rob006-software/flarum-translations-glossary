@@ -1370,6 +1370,18 @@
                 <langSet xml:lang="en"><tig><term>None</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Aucun</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Invalid</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Invalide</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Profile</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Profil</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Page</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Page</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
