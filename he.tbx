@@ -42,6 +42,14 @@
                 <langSet xml:lang="en"><tig><term>The :attribute</term></tig></langSet>
                 <langSet xml:lang="he"><tig><term>ה:attribute</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>less than</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>פחות מ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>characters</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>תווים</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
