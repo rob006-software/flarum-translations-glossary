@@ -1442,6 +1442,154 @@
                 <langSet xml:lang="en"><tig><term>Control</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Commande</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Confirmation</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Confirmation</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Confirm</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Confirmer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Seconds</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Secondes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Button</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Bouton</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Set</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Définir</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Package</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Paquet</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Console</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Console</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Infos</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Informations</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Alert</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Alerte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Information</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Information</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Log</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Journal</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dependencies</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Dépendances</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Debug</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Déboguer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dependency</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Dépendance</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Buttons</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Boutons</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reload</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Actualiser</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>JavaScript</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>JavaScript</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Browser</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Navigateur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Above</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ci-dessus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Activate</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Activer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Resources</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ressources</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Resource</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ressource</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Click</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Cliquer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Load</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Charger</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Site</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Site</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Modern</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Moderne</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Files</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Fichiers</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Drawer</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Tiroir</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sorry</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Désolé</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Logs</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Journaux</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Initialize</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Initialiser</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Version</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Version</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Navigation</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Navigation</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Info</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Information</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>File</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Fichier</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Below</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ci-dessous</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Second</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Seconde</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
