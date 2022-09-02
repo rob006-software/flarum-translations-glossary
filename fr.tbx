@@ -1392,7 +1392,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Spam</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Message indésirable</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Indésirable</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Administration</term></tig></langSet>
@@ -1656,7 +1656,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Guidelines</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Directives</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Règles</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Quote</term></tig></langSet>
