@@ -30,6 +30,14 @@
                 <langSet xml:lang="en"><tig><term>Hey</term></tig></langSet>
                 <langSet xml:lang="he"><tig><term>שלום</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>The :attribute must be greater than or equal :value</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>ה:attribute חייב להיות גבוה או שווה ל:value</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>kilobytes.</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>קילובייטים.</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
