@@ -1342,6 +1342,26 @@
                 <langSet xml:lang="en"><tig><term>Posts</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Messages</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Users</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Utilisateurs</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Hide</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Masquer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Indefinitely</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Indéfiniment</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>View</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Voir</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Sign up</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>S'inscrire</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
