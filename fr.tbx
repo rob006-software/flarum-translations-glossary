@@ -1130,6 +1130,30 @@
                 <langSet xml:lang="en"><tig><term>Selector</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Sélecteur</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cache</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Cache</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Plural</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Pluriel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Singular</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Singulier</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Guest</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Invité</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Address</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Adresse</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Mods</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Modérateurs</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
