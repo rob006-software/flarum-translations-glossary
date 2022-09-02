@@ -1586,6 +1586,38 @@
                 <langSet xml:lang="en"><tig><term>Second</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Seconde</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Log Out</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Se déconnecter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Changes</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Modifications</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Return</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Revenir</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Log In</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Se connecter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Loading</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Chargement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Class</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Classe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Color</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Couleur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>OK</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Valider</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
