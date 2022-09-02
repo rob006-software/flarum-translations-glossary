@@ -1406,6 +1406,46 @@
                 <langSet xml:lang="en"><tig><term>Spam</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Pourriel</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Administration</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Administration</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Recover</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Récupérer</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Option</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Option</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Controls</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Commandes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sessions</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Sessions</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Options</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Options</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Web</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Web</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Query</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Requête</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Session</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Session</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Control</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Commande</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
