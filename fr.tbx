@@ -1154,6 +1154,50 @@
                 <langSet xml:lang="en"><tig><term>Mods</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Modérateurs</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Settings</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Paramètres</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Error</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Erreur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Test</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Test</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Mailgun</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Mailgun</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Scopes</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Scopes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Emails</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Courriels</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>SMTP</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>SMTP</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Composer</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Asset</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ressource</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Flarum</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Flarum</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Assets</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ressources</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
