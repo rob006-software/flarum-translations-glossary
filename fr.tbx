@@ -1398,6 +1398,14 @@
                 <langSet xml:lang="en"><tig><term>Reset</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Réinitialiser</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Lien</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Spam</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Pourriel</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
