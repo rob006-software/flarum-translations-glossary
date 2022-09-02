@@ -1242,6 +1242,50 @@
                 <langSet xml:lang="en"><tig><term>Support</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Support</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Forever</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Définitivement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Features</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Fonctionnalités</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Languages</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Langues</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Admins</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Administrateurs</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Allow</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Autoriser</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Extensions</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Extensions</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Other</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Autre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Discussions</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Discussions</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Themes</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Thèmes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Renaming</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Renommage</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Moderation</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Modération</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
