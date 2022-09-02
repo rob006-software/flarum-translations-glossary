@@ -1198,6 +1198,50 @@
                 <langSet xml:lang="en"><tig><term>Assets</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Ressources</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Permissions</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Permissions</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Modifier</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Purge</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Purger</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Open</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ouvrir</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Discuss</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Discuter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Source</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Source</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Disable</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Désactiver</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>README</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Lisez-moi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Documentation</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Documentation</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Permission</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Permission</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Support</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Support</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
