@@ -1622,6 +1622,22 @@
                 <langSet xml:lang="en"><tig><term>Members</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Membres</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Akismet</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Akismet</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>API</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>API</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Comment</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Commentaire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Blatant</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Flagrant</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
