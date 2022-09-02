@@ -1362,6 +1362,14 @@
                 <langSet xml:lang="en"><tig><term>Sign up</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>S'inscrire</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>List</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Liste</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>None</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Aucun</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
