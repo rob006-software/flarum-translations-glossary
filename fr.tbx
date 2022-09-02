@@ -179,10 +179,6 @@
                 <langSet xml:lang="fr"><tig><term>Groupe</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Guest</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Invité</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Header</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>En-tête</term></tig></langSet>
             </termEntry>
