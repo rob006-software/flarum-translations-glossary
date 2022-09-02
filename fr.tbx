@@ -1382,6 +1382,22 @@
                 <langSet xml:lang="en"><tig><term>Page</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Page</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Write</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Rédiger</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Exit</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Quitter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Total</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Total</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reset</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Réinitialiser</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
