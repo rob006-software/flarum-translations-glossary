@@ -22,6 +22,14 @@
                 <langSet xml:lang="en"><tig><term>Email Address</term></tig></langSet>
                 <langSet xml:lang="he"><tig><term>דואר אלקטרוני</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>topic</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>נושא</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hey</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>שלום</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
