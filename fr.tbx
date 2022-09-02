@@ -1346,10 +1346,6 @@
                 <langSet xml:lang="en"><tig><term>Users</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Utilisateurs</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Hide</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Masquer</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Indefinitely</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Indéfiniment</term></tig></langSet>
