@@ -1614,6 +1614,14 @@
                 <langSet xml:lang="en"><tig><term>OK</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Valider</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Guests</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Invités</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Members</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Membres</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
