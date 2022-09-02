@@ -1638,6 +1638,22 @@
                 <langSet xml:lang="en"><tig><term>Blatant</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Flagrant</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Insert</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Insérer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Community</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Communauté</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Approve</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Approuver</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Approval</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Approbation</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
