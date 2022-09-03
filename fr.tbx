@@ -1782,6 +1782,26 @@
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Lier</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Boards</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Tableaux</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Mapping</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Correspondance</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Organization</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Organisation</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Include</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Inclure</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Labels</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Libellés</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
