@@ -551,10 +551,6 @@
                 <langSet xml:lang="fr"><tig><term>Point d'accès</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>File</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Fichier</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Generate</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Générer</term></tig></langSet>
             </termEntry>
