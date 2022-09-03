@@ -1758,6 +1758,14 @@
                 <langSet xml:lang="en"><tig><term>Length</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Longueur</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Board</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Tableau</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Trello</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Trello</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
