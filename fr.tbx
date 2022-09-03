@@ -103,10 +103,6 @@
                 <langSet xml:lang="fr"><tig><term>Courriel</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Email address</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Adresse de courriel</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Emoji</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Émoji</term></tig></langSet>
             </termEntry>
