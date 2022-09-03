@@ -15,10 +15,6 @@
                 <langSet xml:lang="fr"><tig><term>Compte</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Address</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Adresse</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Admin</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Administrateur</term></tig></langSet>
             </termEntry>
