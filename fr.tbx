@@ -694,10 +694,6 @@
                 <langSet xml:lang="en"><tig><term>Lurk</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Surveiller</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Unfollow</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Ne plus suivre</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Advertorial</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Publireportage</term></tig></langSet>
