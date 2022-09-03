@@ -83,10 +83,6 @@
                 <langSet xml:lang="fr"><tig><term>Discussion</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Display Name</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Nom d’affichage</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Domain</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Domaine</term></tig></langSet>
             </termEntry>
