@@ -1826,6 +1826,18 @@
                 <langSet xml:lang="en"><tig><term>Show</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Afficher</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>GPX</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>GPX</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Route</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Itinéraire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>See</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Voir</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
