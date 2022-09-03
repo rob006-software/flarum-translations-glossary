@@ -520,7 +520,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Guideline</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Règlement</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Règle</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Random</term></tig></langSet>
@@ -532,7 +532,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sign In</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Connexion</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Se connecter</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
