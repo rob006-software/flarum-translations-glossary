@@ -1838,6 +1838,14 @@
                 <langSet xml:lang="en"><tig><term>See</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Voir</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Taxonomies</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Taxonomies</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Taxonomy</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Taxonomie</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
