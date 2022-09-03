@@ -511,10 +511,6 @@
                 <langSet xml:lang="fr"><tig><term>Règle</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Schedule</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Planifier</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Sign In</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Se connecter</term></tig></langSet>
             </termEntry>
