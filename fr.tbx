@@ -59,10 +59,6 @@
                 <langSet xml:lang="fr"><tig><term>Configuration</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Control</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Commande</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Dark Mode</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Mode sombre</term></tig></langSet>
             </termEntry>
