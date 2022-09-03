@@ -1818,6 +1818,10 @@
                 <langSet xml:lang="en"><tig><term>Lane</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Ligne</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Login</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Session</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
