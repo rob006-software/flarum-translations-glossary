@@ -979,10 +979,6 @@
                 <langSet xml:lang="fr"><tig><term>Jusqu'à</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Email Address</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Adresse de courriel</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Whitelist</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Liste blanche</term></tig></langSet>
             </termEntry>
