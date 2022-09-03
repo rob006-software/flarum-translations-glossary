@@ -1766,6 +1766,22 @@
                 <langSet xml:lang="en"><tig><term>Trello</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Trello</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Workspace</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Espace de travail</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Connect</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Connecter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Enter</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Saisir</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Lier</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
