@@ -827,10 +827,6 @@
                 <langSet xml:lang="fr"><tig><term>Syntaxe</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>’</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>'</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Box</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Zone</term></tig></langSet>
             </termEntry>
