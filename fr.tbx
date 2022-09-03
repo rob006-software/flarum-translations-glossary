@@ -223,10 +223,6 @@
                 <langSet xml:lang="fr"><tig><term>Verrouiller</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Log In</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Connexion</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Log Out</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Déconnexion</term></tig></langSet>
             </termEntry>
