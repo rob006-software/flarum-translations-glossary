@@ -1822,6 +1822,10 @@
                 <langSet xml:lang="en"><tig><term>Login</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Session</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Show</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Afficher</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
