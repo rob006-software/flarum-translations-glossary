@@ -131,10 +131,6 @@
                 <langSet xml:lang="fr"><tig><term>Signaler</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Follow</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>S’abonner</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Footer</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Pied de page</term></tig></langSet>
             </termEntry>
