@@ -31,10 +31,6 @@
                 <langSet xml:lang="fr"><tig><term>Application</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Asset</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Ressource</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Authentication</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Authentification</term></tig></langSet>
             </termEntry>
