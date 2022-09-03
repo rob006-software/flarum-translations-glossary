@@ -1802,6 +1802,22 @@
                 <langSet xml:lang="en"><tig><term>Labels</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Libellés</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Select</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Sélectionner</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Warning</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Avertissement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Warn</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Avertir</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lane</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ligne</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
