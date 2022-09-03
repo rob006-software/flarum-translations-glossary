@@ -335,10 +335,6 @@
                 <langSet xml:lang="fr"><tig><term>Paramètre</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Sign Up</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Inscription</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Slug</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Identifiant texte unique</term></tig></langSet>
             </termEntry>
