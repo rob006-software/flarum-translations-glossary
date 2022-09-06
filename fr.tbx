@@ -1846,6 +1846,10 @@
                 <langSet xml:lang="en"><tig><term>Push</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Pousser</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Network</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Réseau</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
