@@ -1826,6 +1826,10 @@
                 <langSet xml:lang="en"><tig><term>Icons</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Icônes</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Pixels</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Pixels</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
