@@ -1830,6 +1830,10 @@
                 <langSet xml:lang="en"><tig><term>Pixels</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Pixels</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>URL</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
