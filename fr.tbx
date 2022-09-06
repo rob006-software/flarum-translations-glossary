@@ -1818,6 +1818,14 @@
                 <langSet xml:lang="en"><tig><term>Check</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Vérifier</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Logos</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Logos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Icons</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Icônes</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
