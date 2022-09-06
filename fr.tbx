@@ -1786,6 +1786,10 @@
                 <langSet xml:lang="en"><tig><term>Rows</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Lignes</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cells</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Cellules</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
