@@ -1914,6 +1914,10 @@
                 <langSet xml:lang="en"><tig><term>Authorization</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Autorisation</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Unban</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Débannir</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
