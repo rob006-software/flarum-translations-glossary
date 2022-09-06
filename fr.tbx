@@ -1798,6 +1798,10 @@
                 <langSet xml:lang="en"><tig><term>Row</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Ligne</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Table</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Tableau</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
