@@ -1870,6 +1870,10 @@
                 <langSet xml:lang="en"><tig><term>Subscript</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Indice</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Superscript</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Exposant</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
