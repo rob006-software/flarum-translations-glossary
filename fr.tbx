@@ -1902,6 +1902,14 @@
                 <langSet xml:lang="en"><tig><term>Ban</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Bannir</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Creator</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Créateur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>IP</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>IP</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
