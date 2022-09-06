@@ -1878,6 +1878,10 @@
                 <langSet xml:lang="en"><tig><term>Date</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Date</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sync</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Synchroniser</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
