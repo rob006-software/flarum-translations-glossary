@@ -1802,6 +1802,10 @@
                 <langSet xml:lang="en"><tig><term>Table</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Tableau</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>About</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>À propos</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
