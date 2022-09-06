@@ -1874,6 +1874,10 @@
                 <langSet xml:lang="en"><tig><term>Superscript</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Exposant</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Date</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Date</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
