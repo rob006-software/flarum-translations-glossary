@@ -1852,11 +1852,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Email Address</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rule</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Règle</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Image</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Image</term></tig></langSet>
             </termEntry>
         </body>
     </text>
