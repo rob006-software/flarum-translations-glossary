@@ -1806,6 +1806,10 @@
                 <langSet xml:lang="en"><tig><term>About</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>À propos</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Colors</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Couleurs</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
