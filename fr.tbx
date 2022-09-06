@@ -1890,6 +1890,10 @@
                 <langSet xml:lang="en"><tig><term>Update</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Mettre à jour</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Alias</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Alias</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
