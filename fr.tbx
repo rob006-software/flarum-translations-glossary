@@ -1850,6 +1850,10 @@
                 <langSet xml:lang="en"><tig><term>Network</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Réseau</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Connection</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Connexion</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
