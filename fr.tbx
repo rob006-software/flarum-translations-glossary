@@ -1886,6 +1886,10 @@
                 <langSet xml:lang="en"><tig><term>Characters</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Caractères</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Update</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Mettre à jour</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
