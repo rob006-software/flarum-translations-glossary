@@ -1898,6 +1898,10 @@
                 <langSet xml:lang="en"><tig><term>Track</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Suivre</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ban</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Bannir</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
