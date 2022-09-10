@@ -1914,6 +1914,18 @@
                 <langSet xml:lang="en"><tig><term>Unban</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Débannir</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Scroll</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Défiler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Email Address</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Top</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Haut</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
