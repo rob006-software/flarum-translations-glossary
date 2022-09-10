@@ -1926,6 +1926,10 @@
                 <langSet xml:lang="en"><tig><term>Top</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Haut</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bottom</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Bas</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
