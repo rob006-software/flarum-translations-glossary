@@ -12,15 +12,15 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term></term></tig></langSet>
+                <langSet xml:lang="be"><tig><term>Адправіць</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Email Address</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term></term></tig></langSet>
+                <langSet xml:lang="be"><tig><term>Электронная пошта</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Delete</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term></term></tig></langSet>
+                <langSet xml:lang="be"><tig><term>Выдаліць</term></tig></langSet>
             </termEntry>
         </body>
     </text>
