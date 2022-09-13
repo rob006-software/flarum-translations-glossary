@@ -1930,6 +1930,14 @@
                 <langSet xml:lang="en"><tig><term>Terms</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Conditions</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Visibility</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Visibilité</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bounty</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Prime</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
