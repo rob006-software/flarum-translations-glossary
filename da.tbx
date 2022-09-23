@@ -12,15 +12,19 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term></term></tig></langSet>
+                <langSet xml:lang="da"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Email Address</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term></term></tig></langSet>
+                <langSet xml:lang="da"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Delete</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term></term></tig></langSet>
+                <langSet xml:lang="da"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>udvidelse</term></tig></langSet>
             </termEntry>
         </body>
     </text>
