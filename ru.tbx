@@ -758,6 +758,10 @@
                 <langSet xml:lang="en"><tig><term>Always</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Всегда</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>validation</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>одобренные</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
