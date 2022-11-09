@@ -762,6 +762,10 @@
                 <langSet xml:lang="en"><tig><term>validation</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>одобренные</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Votes</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Голосов</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
