@@ -1942,6 +1942,14 @@
                 <langSet xml:lang="en"><tig><term>Expand</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Développer</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Range</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Plage</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Chart</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Graphique</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
