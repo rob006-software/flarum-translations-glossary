@@ -1950,6 +1950,10 @@
                 <langSet xml:lang="en"><tig><term>Chart</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Graphique</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Period</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Période</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
