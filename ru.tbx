@@ -766,6 +766,10 @@
                 <langSet xml:lang="en"><tig><term>Votes</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Голосов</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ratings</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>рейтинг</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
