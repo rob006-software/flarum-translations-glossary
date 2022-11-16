@@ -2038,6 +2038,10 @@
                 <langSet xml:lang="en"><tig><term>Cookie</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Cookie</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>SSO</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
