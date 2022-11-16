@@ -2010,6 +2010,26 @@
                 <langSet xml:lang="en"><tig><term>Amount</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Montant</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Scope</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Champ d'application</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Backoffice</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Backoffice</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Product</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Produit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Filling</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Remplissage</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Browsing</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Navigation</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
