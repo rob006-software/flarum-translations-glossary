@@ -2002,6 +2002,10 @@
                 <langSet xml:lang="en"><tig><term>Rewards</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Récompenses</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Public</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Public</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
