@@ -2034,6 +2034,10 @@
                 <langSet xml:lang="en"><tig><term>Recount</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Recompter</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cookie</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Cookie</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
