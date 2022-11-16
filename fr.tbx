@@ -1986,6 +1986,22 @@
                 <langSet xml:lang="en"><tig><term>Register</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Enregistrer</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reward</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Récompenser</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Money</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Argent</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Balance</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Solde</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Rewards</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Récompenses</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
