@@ -774,6 +774,10 @@
                 <langSet xml:lang="en"><tig><term>Subscribed</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Подписки</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Endpoint</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Конечная точка</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
