@@ -2062,6 +2062,10 @@
                 <langSet xml:lang="en"><tig><term>Scheduler</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Planificateur</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Translation</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Traduction</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
