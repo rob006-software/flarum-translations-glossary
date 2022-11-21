@@ -786,6 +786,10 @@
                 <langSet xml:lang="en"><tig><term>Translation</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Перевод</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>значение</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
