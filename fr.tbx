@@ -2070,6 +2070,14 @@
                 <langSet xml:lang="en"><tig><term>Indicator</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Indicateur</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>English</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Anglais</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Variant</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Variante</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
