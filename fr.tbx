@@ -2078,6 +2078,22 @@
                 <langSet xml:lang="en"><tig><term>Variant</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Variante</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Default</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Par défaut</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Less</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Moins</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Formality</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Formalité</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>More</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Plus</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
