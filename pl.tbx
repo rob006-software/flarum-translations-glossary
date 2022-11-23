@@ -22,6 +22,10 @@
                 <langSet xml:lang="en"><tig><term>Email Address</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>Adres e-mail</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>optional</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>opcjonalne</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
