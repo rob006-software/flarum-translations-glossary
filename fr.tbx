@@ -2094,6 +2094,10 @@
                 <langSet xml:lang="en"><tig><term>More</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Plus</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Anonymous</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Anonyme</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
