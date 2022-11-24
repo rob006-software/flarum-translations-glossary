@@ -492,7 +492,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Soumettre</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Envoyer</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Webhook</term></tig></langSet>
