@@ -486,10 +486,6 @@
                 <langSet xml:lang="en"><tig><term>Sign In</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Se connecter</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Envoyer</term></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Envoyer</term></tig></langSet>
