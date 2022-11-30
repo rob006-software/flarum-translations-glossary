@@ -2099,10 +2099,6 @@
                 <langSet xml:lang="fr"><tig><term>Valeur</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Pay</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Payer</term></tig></langSet>
             </termEntry>
