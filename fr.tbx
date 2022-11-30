@@ -2138,6 +2138,10 @@
                 <langSet xml:lang="en"><tig><term>History</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Historique</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Conversation</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Conversation</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
