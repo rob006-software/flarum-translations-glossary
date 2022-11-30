@@ -2122,6 +2122,14 @@
                 <langSet xml:lang="en"><tig><term>Modify</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Modifier</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fund</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Fonds</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Unlocked</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Déverrouillé</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
