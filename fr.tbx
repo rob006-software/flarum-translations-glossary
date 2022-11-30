@@ -2100,7 +2100,27 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Pay</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Payer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Content</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Contenu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Purchase</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Achat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Price</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Prix</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Modify</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Modifier</term></tig></langSet>
             </termEntry>
         </body>
     </text>
