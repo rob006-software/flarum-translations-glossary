@@ -2130,6 +2130,14 @@
                 <langSet xml:lang="en"><tig><term>Unlocked</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Déverrouillé</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Empty</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Vide</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>History</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Historique</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
