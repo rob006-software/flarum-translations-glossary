@@ -2154,6 +2154,18 @@
                 <langSet xml:lang="en"><tig><term>Increase</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Augmenter</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ignore</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ignorer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Generation</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Génération</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bots</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Robots</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
