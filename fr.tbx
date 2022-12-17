@@ -2138,10 +2138,6 @@
                 <langSet xml:lang="en"><tig><term>Conversation</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Conversation</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Copy</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Copier</term></tig></langSet>
