@@ -2186,6 +2186,22 @@
                 <langSet xml:lang="en"><tig><term>Videos</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Vidéos</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Go</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Aller</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Comments</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Commentaires</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Views</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Vues</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Uploads</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Transferts</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
