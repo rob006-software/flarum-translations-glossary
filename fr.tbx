@@ -2162,6 +2162,22 @@
                 <langSet xml:lang="en"><tig><term>Bots</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Robots</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Current</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Actuel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Transfer</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Transfert</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Transfer</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Transférer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Insufficient</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Insuffisant</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
