@@ -790,6 +790,10 @@
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>значение</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>picture</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>изображение</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
