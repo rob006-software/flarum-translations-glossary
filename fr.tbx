@@ -2246,6 +2246,18 @@
                 <langSet xml:lang="en"><tig><term>Detach</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Détacher</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Data</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Données</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Copyright</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Droits d'auteur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Albums</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Albums</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
