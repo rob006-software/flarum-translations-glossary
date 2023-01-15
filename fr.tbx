@@ -2282,6 +2282,22 @@
                 <langSet xml:lang="en"><tig><term>License</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Licence</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Stickers</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Autocollants</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sticker</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Autocollant</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Synchronise</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Synchroniser</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Licenses</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Licences</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
