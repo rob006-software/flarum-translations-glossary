@@ -2258,6 +2258,30 @@
                 <langSet xml:lang="en"><tig><term>Albums</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Albums</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Watermark</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Filigrane</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Automatically</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Automatiquement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Placement</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Placement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Left</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Gauche</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Right</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Droite</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>License</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Licence</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
