@@ -2298,6 +2298,10 @@
                 <langSet xml:lang="en"><tig><term>Licenses</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Licences</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Notes</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Notes</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
