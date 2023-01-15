@@ -2222,6 +2222,14 @@
                 <langSet xml:lang="en"><tig><term>EXIF</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>EXIF</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Publish</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Publier</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Drag and drop</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Glisser-déposer</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
