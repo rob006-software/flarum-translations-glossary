@@ -2230,6 +2230,14 @@
                 <langSet xml:lang="en"><tig><term>Drag and drop</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Glisser-déposer</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Everyone</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Tout le monde</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Unselect</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Désélectionner</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
