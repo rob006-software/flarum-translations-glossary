@@ -2202,6 +2202,26 @@
                 <langSet xml:lang="en"><tig><term>Uploads</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Transferts</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Picture</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Photo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Original</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Original</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Pictures</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Photos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Album</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Album</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>EXIF</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>EXIF</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
