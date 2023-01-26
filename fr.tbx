@@ -2326,6 +2326,10 @@
                 <langSet xml:lang="en"><tig><term>Scrach</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Gratter</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Result</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Résultat</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
