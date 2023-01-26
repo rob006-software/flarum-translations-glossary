@@ -2310,6 +2310,22 @@
                 <langSet xml:lang="en"><tig><term>Rank</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Rang</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Raffle</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Loterie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Limit</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Limite</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cost</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Coût</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Scrach</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Gratter</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
