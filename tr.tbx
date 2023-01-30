@@ -94,6 +94,10 @@
                 <langSet xml:lang="en"><tig><term>Highlight</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Öne çıkan</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Modal</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Pencere</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
