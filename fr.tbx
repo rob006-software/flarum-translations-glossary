@@ -2330,6 +2330,18 @@
                 <langSet xml:lang="en"><tig><term>Result</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Résultat</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reddit</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Reddit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>PDF</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>PDF</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Screenshot</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Capture d'écran</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
