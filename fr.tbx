@@ -2346,6 +2346,22 @@
                 <langSet xml:lang="en"><tig><term>Avatar</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Avatar</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Replace</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Remplacer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Always</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Toujours</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Generator</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Générateur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Format</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Format</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
