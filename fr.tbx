@@ -2342,6 +2342,10 @@
                 <langSet xml:lang="en"><tig><term>Screenshot</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Capture d'écran</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Avatar</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Avatar</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
