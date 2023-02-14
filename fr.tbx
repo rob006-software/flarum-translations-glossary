@@ -2362,6 +2362,18 @@
                 <langSet xml:lang="en"><tig><term>Format</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Format</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tab</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Onglet</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>HTML</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>HTML</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Links</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Liens</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
