@@ -102,6 +102,10 @@
                 <langSet xml:lang="en"><tig><term>Original</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Aslı</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Position</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Konum</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
