@@ -20,7 +20,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>эл.почта</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>e-mail</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>delete</term></tig></langSet>
@@ -476,7 +476,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Enabled</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>Разрешить</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Включено</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Select</term></tig></langSet>
@@ -620,7 +620,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Email Address</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>Адрес эл.почты</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Адрес e-mail</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Country</term></tig></langSet>
