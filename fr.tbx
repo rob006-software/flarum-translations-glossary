@@ -2378,6 +2378,18 @@
                 <langSet xml:lang="en"><tig><term>Marker</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Marqueur</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Portrait</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Portrait</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Exclude</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Exclure</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Welcome</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Bienvenue</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
