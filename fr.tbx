@@ -2474,6 +2474,10 @@
                 <langSet xml:lang="en"><tig><term>Equip</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Équiper</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Deduction</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Déduction</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
