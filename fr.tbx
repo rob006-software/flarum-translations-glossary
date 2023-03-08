@@ -2490,6 +2490,10 @@
                 <langSet xml:lang="en"><tig><term>Activation</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Activation</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Style</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Style</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
