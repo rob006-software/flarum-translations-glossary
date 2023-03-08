@@ -2478,6 +2478,18 @@
                 <langSet xml:lang="en"><tig><term>Deduction</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Déduction</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Deactivate</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Désactiver</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Discount</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Réduction</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Activation</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Activation</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
