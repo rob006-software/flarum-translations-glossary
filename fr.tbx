@@ -2458,6 +2458,22 @@
                 <langSet xml:lang="en"><tig><term>Navigate</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Naviguer</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Unsubscribe</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Se désabonner</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Unequip</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Déséquiper</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Subscribe</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>S'abonner</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Equip</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Équiper</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
