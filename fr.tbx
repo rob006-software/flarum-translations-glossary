@@ -2394,6 +2394,22 @@
                 <langSet xml:lang="en"><tig><term>Leaderboard</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Classement</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Recommend</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Recommander</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Frame</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Cadre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Popular</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Populaire</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Item</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Article</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
