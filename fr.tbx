@@ -2390,6 +2390,10 @@
                 <langSet xml:lang="en"><tig><term>Welcome</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Bienvenue</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Leaderboard</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Classement</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
