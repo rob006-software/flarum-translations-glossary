@@ -2438,6 +2438,26 @@
                 <langSet xml:lang="en"><tig><term>Duration</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Durée</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Decoration</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Décoration</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Store</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Boutique</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fill</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Remplir</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cart</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Panier</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Navigate</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Naviguer</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
