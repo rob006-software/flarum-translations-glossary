@@ -2410,6 +2410,34 @@
                 <langSet xml:lang="en"><tig><term>Item</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Article</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Free</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Gratuit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sales</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ventes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Stock</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Stock</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Yearly</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Annuel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Monthly</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Mensuel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Days</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Jours</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Duration</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Durée</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
