@@ -2494,6 +2494,26 @@
                 <langSet xml:lang="en"><tig><term>Style</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Style</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tokens</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Jetons</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Never</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Jamais</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Revoke</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Révoquer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Activity</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Activité</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Developer</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Développeur</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
