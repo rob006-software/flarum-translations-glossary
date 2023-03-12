@@ -2522,6 +2522,54 @@
                 <langSet xml:lang="en"><tig><term>Fireworks</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Feux d'artifice</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Speed</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Vitesse</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Intensity</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Intensité</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Frication</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Friction</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Particles</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Particules</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Flickering</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Scintillement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Explosion</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Explosion</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Delay</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Délai</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hue</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Teinte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Width</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Largeur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Brightness</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Luminosité</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Acceleration</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Accélération</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Decay</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Déclin</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
