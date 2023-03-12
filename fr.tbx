@@ -2514,6 +2514,10 @@
                 <langSet xml:lang="en"><tig><term>Developer</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Développeur</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Terminate</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Mettre fin</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
