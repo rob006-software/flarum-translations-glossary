@@ -2588,7 +2588,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Choose</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Choisir</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Sélectionner</term></tig></langSet>
             </termEntry>
         </body>
     </text>
