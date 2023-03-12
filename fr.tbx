@@ -2586,6 +2586,10 @@
                 <langSet xml:lang="en"><tig><term>Square</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Carré</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Choose</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Choisir</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
