@@ -2570,6 +2570,22 @@
                 <langSet xml:lang="en"><tig><term>Decay</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Déclin</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Point</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Point</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Round</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Rond</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Rockets</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Fusées</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Square</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Carré</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
