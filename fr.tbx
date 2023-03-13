@@ -2606,6 +2606,22 @@
                 <langSet xml:lang="en"><tig><term>Obtain</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Obtenir</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ChatGPT</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>ChatGPT</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Assistant</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Assistant</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Count</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Compter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Use</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Utiliser</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
