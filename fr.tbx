@@ -2598,6 +2598,14 @@
                 <langSet xml:lang="en"><tig><term>Queue</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>File d'attente</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Code</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Code</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Obtain</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Obtenir</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
