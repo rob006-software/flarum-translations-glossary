@@ -2622,6 +2622,10 @@
                 <langSet xml:lang="en"><tig><term>Use</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Utiliser</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Private</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Privé</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
