@@ -2626,6 +2626,70 @@
                 <langSet xml:lang="en"><tig><term>Private</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Privé</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Available</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Disponible</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Security</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Sécurité</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Zone</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Zone</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Salary</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Salaire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Years</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Années</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Medium</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Moyen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Development</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Développement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>No</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Non</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Yes</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Oui</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Keys</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Clés</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Off</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Désactivé</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Guide</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Guide</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Field</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Champ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Company</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Entreprise</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cloudflare</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Cloudflare</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Low</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Faible</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
