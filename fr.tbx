@@ -2706,6 +2706,10 @@
                 <langSet xml:lang="en"><tig><term>Attack</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Attaque</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>JS</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>JS</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
