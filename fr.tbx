@@ -2694,6 +2694,18 @@
                 <langSet xml:lang="en"><tig><term>High</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Élevé</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Minify</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Réduire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CSS</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>CSS</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Attack</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Attaque</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
