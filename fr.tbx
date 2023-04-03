@@ -2714,6 +2714,18 @@
                 <langSet xml:lang="en"><tig><term>Synopsis</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Synopsis</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Owner</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Propriétaire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Assign</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Attribuer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>WordPress</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>WordPress</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
