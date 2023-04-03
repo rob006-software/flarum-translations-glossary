@@ -2710,6 +2710,10 @@
                 <langSet xml:lang="en"><tig><term>JS</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>JS</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Synopsis</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Synopsis</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
