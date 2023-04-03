@@ -806,6 +806,10 @@
                 <langSet xml:lang="en"><tig><term>Active Sessions</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Активные сессии</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Security</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Безопасность</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
