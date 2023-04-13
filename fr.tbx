@@ -2726,6 +2726,14 @@
                 <langSet xml:lang="en"><tig><term>WordPress</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>WordPress</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Unlink</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Désassocier</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Associer</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
