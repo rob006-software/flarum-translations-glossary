@@ -1696,7 +1696,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Lier</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Associer</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Boards</term></tig></langSet>
