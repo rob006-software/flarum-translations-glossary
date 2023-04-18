@@ -2738,6 +2738,14 @@
                 <langSet xml:lang="en"><tig><term>Fields</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Champs</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Everywhere</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Partout</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Answers</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Réponses</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
