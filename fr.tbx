@@ -2750,6 +2750,14 @@
                 <langSet xml:lang="en"><tig><term>Values</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Valeurs</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Suggest</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Suggérer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Section</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Section</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
