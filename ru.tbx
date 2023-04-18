@@ -814,6 +814,10 @@
                 <langSet xml:lang="en"><tig><term>answer</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>ответ</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>field</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>поле</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
