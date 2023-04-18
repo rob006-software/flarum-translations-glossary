@@ -834,6 +834,10 @@
                 <langSet xml:lang="en"><tig><term>value</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>значение</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Staff</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>команда</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
