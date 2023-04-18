@@ -2730,6 +2730,14 @@
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Associer</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Answer</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Réponse</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fields</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Champs</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
