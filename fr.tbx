@@ -2758,6 +2758,22 @@
                 <langSet xml:lang="en"><tig><term>Section</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Section</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Impact</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Impact</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Placeholders</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Paramètres fictifs</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Vertical</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Vertical</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Space</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Espace</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
