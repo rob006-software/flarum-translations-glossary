@@ -818,6 +818,18 @@
                 <langSet xml:lang="en"><tig><term>field</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>поле</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Required</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Необходимое</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>optional</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>опциональное</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>answers</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ответы</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
