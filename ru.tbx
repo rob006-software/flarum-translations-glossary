@@ -830,6 +830,10 @@
                 <langSet xml:lang="en"><tig><term>answers</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>ответы</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>value</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>значение</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
