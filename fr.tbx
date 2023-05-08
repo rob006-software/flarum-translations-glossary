@@ -2786,6 +2786,10 @@
                 <langSet xml:lang="en"><tig><term>Ranking</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Classement</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Spoiler</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Biffure</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
