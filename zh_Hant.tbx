@@ -18,6 +18,10 @@
                 <langSet xml:lang="en"><tig><term>Delete</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>刪除</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>User</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>使用者</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
