@@ -2802,6 +2802,18 @@
                 <langSet xml:lang="en"><tig><term>Passcode</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Code d'accès</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Details</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Informations</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Calendar</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Calendrier</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Events</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Événements</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
