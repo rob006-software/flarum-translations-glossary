@@ -2794,6 +2794,14 @@
                 <langSet xml:lang="en"><tig><term>Crop</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Recadrer</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Setup</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Configurer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Passcode</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Code d'accès</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
