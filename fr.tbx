@@ -2818,6 +2818,10 @@
                 <langSet xml:lang="en"><tig><term>Drop</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Abandonner</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Array</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Tableau</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
