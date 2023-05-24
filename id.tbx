@@ -14,6 +14,10 @@
                 <langSet xml:lang="en"><tig><term>Delete</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>Hapus</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Asia/Shanghai</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Asia/Shanghai</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
