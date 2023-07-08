@@ -2830,6 +2830,10 @@
                 <langSet xml:lang="en"><tig><term>Keycloak</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Keycloak</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Country</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Pays</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
