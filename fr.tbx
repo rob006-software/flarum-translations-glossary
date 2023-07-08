@@ -2826,6 +2826,10 @@
                 <langSet xml:lang="en"><tig><term>Term</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Terme</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Keycloak</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Keycloak</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
