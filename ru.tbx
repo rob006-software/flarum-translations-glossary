@@ -241,6 +241,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Featured</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>выделенных</term></tig></langSet>
+                <descrip>как предложение - идея понятна, а вот русский аналог?</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Topic starter</term></tig></langSet>
@@ -309,6 +310,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Position</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Позиция</term></tig></langSet>
+                <descrip>Pozisyon olarak karşılı olsa da genelde "konum" anlamında kullanılır.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Saving</term></tig></langSet>
