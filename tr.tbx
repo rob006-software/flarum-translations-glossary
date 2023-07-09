@@ -69,10 +69,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Reply</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Yanıt</term></tig></langSet>
+                <descrip>Cevap kelimesi Arapçadır. Mümkün olduğunca Öz Türkçe kullanımına özen göstermek için Reply kelimesini Yanıt olarak çevirelim.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Feed</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Akış</term></tig></langSet>
+                <descrip>Feed için besleme değil Akış ifadesi kullanılmalıdır</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Image</term></tig></langSet>
@@ -97,6 +99,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Modal</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Pencere</term></tig></langSet>
+                <descrip>Açılan pencereler için kullanılır</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Original</term></tig></langSet>
@@ -105,6 +108,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Position</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Konum</term></tig></langSet>
+                <descrip>Pozisyon olarak karşılı olsa da genelde "konum" anlamında kullanılır.</descrip>
             </termEntry>
         </body>
     </text>
