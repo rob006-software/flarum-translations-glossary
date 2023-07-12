@@ -2844,6 +2844,42 @@
                 <langSet xml:lang="en"><tig><term>Service</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Service</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Conversions</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Conversions</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Drafts</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Brouillons</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Microsoft</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Microsoft</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Effect</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Effet</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cake</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Gâteau</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lines</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Lignes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Overview</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Vue d'ensemble</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Originals</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Originaux</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Storage</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Stockage</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
