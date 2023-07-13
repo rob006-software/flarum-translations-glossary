@@ -2916,6 +2916,14 @@
                 <langSet xml:lang="en"><tig><term>Method</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Méthode</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Management</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Gestion</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Signup</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Inscription</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
