@@ -2892,6 +2892,22 @@
                 <langSet xml:lang="en"><tig><term>Rate</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Taux</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Flow</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Flux</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Requests</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Requêtes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Certificate</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Certificat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Proxy</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Proxy</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
