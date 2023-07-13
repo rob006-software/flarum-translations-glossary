@@ -2908,6 +2908,14 @@
                 <langSet xml:lang="en"><tig><term>Proxy</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Proxy</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Algorithm</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Algorithme</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Method</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Méthode</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
