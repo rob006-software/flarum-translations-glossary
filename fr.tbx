@@ -2880,6 +2880,14 @@
                 <langSet xml:lang="en"><tig><term>Storage</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Stockage</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Poll</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Sondage</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Vote</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Voter</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
