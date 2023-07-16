@@ -2924,6 +2924,10 @@
                 <langSet xml:lang="en"><tig><term>Signup</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Inscription</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Votes</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Votes</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
