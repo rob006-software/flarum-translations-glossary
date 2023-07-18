@@ -2932,6 +2932,10 @@
                 <langSet xml:lang="en"><tig><term>Reactions</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Réactions</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>React</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Réagir</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
