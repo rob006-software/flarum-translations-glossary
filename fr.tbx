@@ -2928,6 +2928,10 @@
                 <langSet xml:lang="en"><tig><term>Votes</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Votes</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reactions</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Réactions</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
