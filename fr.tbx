@@ -2940,6 +2940,18 @@
                 <langSet xml:lang="en"><tig><term>Disk</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Disque</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Swiper</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Swiper</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Zoom</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Zoom</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Module</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Module</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
