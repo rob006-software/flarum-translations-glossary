@@ -2952,6 +2952,14 @@
                 <langSet xml:lang="en"><tig><term>Module</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Module</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>State</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>État</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Draft</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Brouillon</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
