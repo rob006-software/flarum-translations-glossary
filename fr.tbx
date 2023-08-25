@@ -2968,6 +2968,18 @@
                 <langSet xml:lang="en"><tig><term>reCAPTCHA</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>reCAPTCHA</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Auto Complete</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Auto-complétion</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tips</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Astuce</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Example</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Exemple</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
