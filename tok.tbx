@@ -18,6 +18,10 @@
                 <langSet xml:lang="en"><tig><term>Account</term></tig></langSet>
                 <langSet xml:lang="tok"><tig><term>sijelo</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>User</term></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>jan</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
