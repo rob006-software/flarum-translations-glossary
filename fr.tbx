@@ -2980,6 +2980,10 @@
                 <langSet xml:lang="en"><tig><term>Example</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Exemple</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Envato</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Envato</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
