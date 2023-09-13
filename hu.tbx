@@ -34,6 +34,11 @@
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>hivatkozás</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term></term></tig></langSet>
+                <descrip>двухфакторная авторизация</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
