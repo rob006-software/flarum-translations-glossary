@@ -853,6 +853,10 @@
                 <langSet xml:lang="ru"><tig><term>ДФА</term></tig></langSet>
                 <descrip>двухфакторная авторизация</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Status:</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Статус:</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
