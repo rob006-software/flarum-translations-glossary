@@ -22,6 +22,11 @@
                 <langSet xml:lang="en"><tig><term>Email Address</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>Sähköpostiosoite</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term></term></tig></langSet>
+                <descrip>двухфакторная авторизация</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
