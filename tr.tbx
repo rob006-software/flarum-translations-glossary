@@ -111,6 +111,11 @@
                 <langSet xml:lang="tr"><tig><term>Konum</term></tig></langSet>
                 <descrip>Pozisyon olarak karşılı olsa da genelde "konum" anlamında kullanılır.</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+                <descrip>двухфакторная авторизация</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
