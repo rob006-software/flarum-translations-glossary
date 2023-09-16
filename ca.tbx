@@ -31,6 +31,10 @@
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>codi</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Post</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>Publicació</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
