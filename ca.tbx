@@ -16,8 +16,20 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term/></tig></langSet>
                 <descrip>двухфакторная авторизация</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Driver</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>Gestor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>discussion</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>debat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>codi</term></tig></langSet>
             </termEntry>
         </body>
     </text>
