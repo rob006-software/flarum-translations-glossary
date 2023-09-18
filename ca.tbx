@@ -39,6 +39,10 @@
                 <langSet xml:lang="en"><tig><term>badge</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>distintiu</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>toggle</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>alterna visibilitat</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
