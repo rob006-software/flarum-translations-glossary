@@ -51,6 +51,10 @@
                 <langSet xml:lang="en"><tig><term>Navigation Drawer</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>quadre de navegació</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>espòiler</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
