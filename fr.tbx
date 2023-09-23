@@ -2988,6 +2988,10 @@
                 <langSet xml:lang="en"><tig><term>Spotify</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Spotify</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
