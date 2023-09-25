@@ -2990,7 +2990,31 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ISP</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>FAI</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>QR</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>QR</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Scan</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Scanner</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Threat</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Menace</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Zip</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Postal</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Codes</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Codes</term></tig></langSet>
             </termEntry>
         </body>
     </text>
