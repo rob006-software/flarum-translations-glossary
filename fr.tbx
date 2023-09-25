@@ -572,7 +572,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Popup</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Fenêtre intruse</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Fenêtre contextuelle</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Port</term></tig></langSet>
