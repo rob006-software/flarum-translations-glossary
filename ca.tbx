@@ -55,6 +55,11 @@
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>espòiler</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Write and edit blog articles</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>blog</term></tig></langSet>
+                <descrip>blog</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
