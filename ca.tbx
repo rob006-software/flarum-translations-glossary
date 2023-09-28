@@ -59,6 +59,14 @@
                 <langSet xml:lang="en"><tig><term>blog</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>blog</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Featured</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>Destacat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Seleccionar</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>Triar</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
