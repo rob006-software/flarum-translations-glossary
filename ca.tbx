@@ -79,6 +79,10 @@
                 <langSet xml:lang="en"><tig><term>Recipient</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>Destinatari</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Settings</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>Configuració</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
