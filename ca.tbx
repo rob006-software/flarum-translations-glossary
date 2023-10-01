@@ -91,6 +91,22 @@
                 <langSet xml:lang="en"><tig><term>Colors</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>Colors</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Extensions</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>Extensions</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Favicon</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>Favicon</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Scheduler</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>Scheduler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Controls</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>Controls</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
