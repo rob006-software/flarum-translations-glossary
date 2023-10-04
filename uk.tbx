@@ -20,12 +20,13 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>2FA</term></tig></langSet>
+                <note from="translator">двофакторна авторизація</note>
                 <descrip>двухфакторная авторизация</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>спойлер</term></tig></langSet>
             </termEntry>
         </body>
     </text>
