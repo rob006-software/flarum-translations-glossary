@@ -107,6 +107,11 @@
                 <langSet xml:lang="en"><tig><term>Controls</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>Controls</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>adreça web</term></tig></langSet>
+                <descrip>Tot i que l'expressió URL és perfectament coneguda en català dins els entorns tecnològics, molts usuaris del fòrum no són tècnics.</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
