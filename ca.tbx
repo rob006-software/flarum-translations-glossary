@@ -124,6 +124,11 @@
                 <langSet xml:lang="en"><tig><term>Sticky</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>Destacat</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>badge</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>distintiu</term></tig></langSet>
+                <descrip>També seria aplicable "insígnia", però és per unificar nomenclatura en tot el fòrum.</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
