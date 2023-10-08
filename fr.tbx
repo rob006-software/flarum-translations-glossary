@@ -3014,7 +3014,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Popover</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Fenêtre contextuelle</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Authorize</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Autoriser</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Agree</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Accorder</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Deny</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Refuser</term></tig></langSet>
             </termEntry>
         </body>
     </text>
