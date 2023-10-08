@@ -3014,7 +3014,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>divulgâchage</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Popover</term></tig></langSet>
