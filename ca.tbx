@@ -129,6 +129,10 @@
                 <langSet xml:lang="ca"><tig><term>distintiu</term></tig></langSet>
                 <descrip>També seria aplicable "insígnia", però és per unificar nomenclatura en tot el fòrum.</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Save</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>Desar</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
