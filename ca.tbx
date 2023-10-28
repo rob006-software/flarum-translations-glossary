@@ -133,6 +133,10 @@
                 <langSet xml:lang="en"><tig><term>Save</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>Desar</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upvote</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>vot favorable</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
