@@ -141,6 +141,10 @@
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>combinar</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>excerpt</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>fragment</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
