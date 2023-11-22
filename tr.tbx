@@ -113,8 +113,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term/></tig></langSet>
                 <descrip>двухфакторная авторизация</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Optional</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Tercihe Bağlı</term></tig></langSet>
             </termEntry>
         </body>
     </text>
