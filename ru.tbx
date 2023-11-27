@@ -857,6 +857,22 @@
                 <langSet xml:lang="en"><tig><term>Status:</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Статус:</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Prev</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Предыдущий</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Done</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Завершить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Next</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Следующий</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>step</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>шаг</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
