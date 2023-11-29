@@ -873,6 +873,14 @@
                 <langSet xml:lang="en"><tig><term>step</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>шаг</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Overview</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Обзор</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Queue</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Очередь</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
