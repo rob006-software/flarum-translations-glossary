@@ -3052,6 +3052,18 @@
                 <langSet xml:lang="en"><tig><term>CDN</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>CDN</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ASN</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>ASN</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Clerk</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Clerk</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lookup</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Consulter</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
