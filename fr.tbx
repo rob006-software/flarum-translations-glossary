@@ -3040,6 +3040,14 @@
                 <langSet xml:lang="en"><tig><term>OP</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Auteur</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Clockwork</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Horloge</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Flush</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Vider</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
