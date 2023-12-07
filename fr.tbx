@@ -3076,6 +3076,10 @@
                 <langSet xml:lang="en"><tig><term>Target</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Cible</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Threshold</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Seuil</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
