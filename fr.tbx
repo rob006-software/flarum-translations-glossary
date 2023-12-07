@@ -3068,6 +3068,10 @@
                 <langSet xml:lang="en"><tig><term>Auto</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Automatique</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Passkey</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Clé d'accès</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
