@@ -3048,6 +3048,10 @@
                 <langSet xml:lang="en"><tig><term>Flush</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Vider</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CDN</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>CDN</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
