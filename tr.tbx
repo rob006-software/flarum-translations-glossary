@@ -120,6 +120,11 @@
                 <langSet xml:lang="en"><tig><term>Optional</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Tercihe Bağlı</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>button</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>düğme</term></tig></langSet>
+                <descrip>Türkçe'mizde "button" kelimesi "buton" olarak değil "düğme" olarak çevrilir.</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
