@@ -129,6 +129,10 @@
                 <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>bağlantı</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>link</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>bağlantı</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
