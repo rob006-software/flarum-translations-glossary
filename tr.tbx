@@ -125,6 +125,10 @@
                 <langSet xml:lang="tr"><tig><term>düğme</term></tig></langSet>
                 <descrip>Türkçe'mizde "button" kelimesi "buton" olarak değil "düğme" olarak çevrilir.</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>bağlantı</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
