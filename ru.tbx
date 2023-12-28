@@ -885,6 +885,14 @@
                 <langSet xml:lang="en"><tig><term>Status</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Статус</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Previous</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Предыдущая</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>article</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>статья</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
