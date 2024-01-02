@@ -21,7 +21,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Driver</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>Gestor</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>Controlador</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>discussion</term></tig></langSet>
