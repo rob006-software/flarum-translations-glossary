@@ -3088,6 +3088,14 @@
                 <langSet xml:lang="en"><tig><term>Bar</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Barre</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Registration</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Inscription</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Flags</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Drapeaux</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
