@@ -913,6 +913,58 @@
                 <langSet xml:lang="en"><tig><term>method</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>метод</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Repository</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>репозиторий</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>URL</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>installed</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>установлено</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>exist</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>существует</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>found</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>найдено</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Proceed</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Продолжить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>расширения</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Name</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Имя</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>path</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>путь</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>successfully</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>успешно</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>updated</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>обновлено</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Uninstall</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Деинсталлировать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Composer</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
