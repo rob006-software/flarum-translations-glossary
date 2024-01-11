@@ -893,6 +893,10 @@
                 <langSet xml:lang="en"><tig><term>article</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>статья</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Type</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Тип</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
