@@ -3160,6 +3160,22 @@
                 <langSet xml:lang="en"><tig><term>Task</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Tâche</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Core</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Noyau</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Updates</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Mises à jour</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Retention</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Rétention</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Run</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Exécuter</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
