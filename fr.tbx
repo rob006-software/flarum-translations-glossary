@@ -3150,7 +3150,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Running</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Exécution</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>En cours d'exécution</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Pending</term></tig></langSet>
