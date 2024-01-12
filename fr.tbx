@@ -3104,6 +3104,18 @@
                 <langSet xml:lang="en"><tig><term>Memory</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Mémoire</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Stability</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Stabilité</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Beta</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Bêta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Repositories</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Dépôts</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
