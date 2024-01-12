@@ -3096,6 +3096,14 @@
                 <langSet xml:lang="en"><tig><term>Flags</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Drapeaux</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Megabytes</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Mégaoctets</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Memory</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Mémoire</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
