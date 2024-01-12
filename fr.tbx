@@ -3124,6 +3124,30 @@
                 <langSet xml:lang="en"><tig><term>Proceed</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Procéder</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Failed</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Échec</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cause</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Cause</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Operation</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Fonctionnement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tasks</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Tâches</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Success</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Succès</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Output</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Sortie</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
