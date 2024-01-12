@@ -3116,6 +3116,10 @@
                 <langSet xml:lang="en"><tig><term>Repositories</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Dépôts</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Packages</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Paquets</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
