@@ -3120,6 +3120,10 @@
                 <langSet xml:lang="en"><tig><term>Packages</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Paquets</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Proceed</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Procéder</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
