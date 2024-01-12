@@ -3148,6 +3148,18 @@
                 <langSet xml:lang="en"><tig><term>Output</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Sortie</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Running</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Exécution</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Pending</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>En attente</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Task</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Tâche</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
