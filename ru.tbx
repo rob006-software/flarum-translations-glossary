@@ -965,6 +965,14 @@
                 <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Composer</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Check for updates</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Проверить обновления</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Minor update</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Младшая версия обновления</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
