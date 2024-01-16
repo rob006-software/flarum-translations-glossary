@@ -973,6 +973,18 @@
                 <langSet xml:lang="en"><tig><term>Minor update</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Младшая версия обновления</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Details</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Детали</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Package</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Пакет</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Operation</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Действие</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
