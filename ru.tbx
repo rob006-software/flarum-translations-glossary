@@ -985,6 +985,30 @@
                 <langSet xml:lang="en"><tig><term>Operation</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Действие</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Failed</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Неудачно</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cause</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Причина</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Success</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Успех</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Output</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Вывод</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Running</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Выполняется</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Pending</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Ожидает</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
