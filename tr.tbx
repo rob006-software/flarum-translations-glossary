@@ -137,6 +137,10 @@
                 <langSet xml:lang="en"><tig><term>Token</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Jeton</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>limit</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>sınır</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
