@@ -1025,6 +1025,10 @@
                 <langSet xml:lang="en"><tig><term>Theme</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Тема</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>boring avatar</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>"скучный аватар"</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
