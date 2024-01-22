@@ -1013,6 +1013,18 @@
                 <langSet xml:lang="en"><tig><term>Dislike</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Неодобрить</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Identifier</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Идентификатор</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Email</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Эл.почта</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Theme</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Тема</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
