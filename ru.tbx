@@ -1009,6 +1009,10 @@
                 <langSet xml:lang="en"><tig><term>Pending</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Ожидает</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dislike</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Неодобрить</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
