@@ -20,7 +20,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>e-mail</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>email</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>delete</term></tig></langSet>
@@ -200,7 +200,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Search</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>Искать</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Поиск</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Money</term></tig></langSet>
@@ -245,7 +245,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Topic starter</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>Топикстартер</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Автор темы</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>info</term></tig></langSet>
@@ -293,7 +293,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>button</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>Кнопка</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>кнопка</term></tig></langSet>
+                <descrip>Türkçe'mizde "button" kelimesi "buton" olarak değil "düğme" olarak çevrilir.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spacer</term></tig></langSet>
@@ -334,11 +335,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>option</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>Опция</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>опция</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>only</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>Только</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>только</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Youtube</term></tig></langSet>
@@ -374,7 +375,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular Expression</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>Регулярное Выражение</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Регулярное выражение</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>newsletter</term></tig></langSet>
@@ -622,7 +623,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Email Address</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>Адрес e-mail</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Адрес email</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Country</term></tig></langSet>
@@ -690,7 +691,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Label</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>ярлык</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Ярлык</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Tier</term></tig></langSet>
@@ -826,7 +827,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>optional</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>опциональное</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>опционально</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>answers</term></tig></langSet>
@@ -850,7 +851,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>ДФА</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>2FA</term></tig></langSet>
                 <descrip>двухфакторная авторизация</descrip>
             </termEntry>
             <termEntry>
@@ -903,7 +904,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authentication</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>авторизации</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>аутентификация</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Token</term></tig></langSet>
@@ -1011,7 +1012,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Dislike</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>Неодобрить</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Не нравится</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Identifier</term></tig></langSet>
@@ -1019,7 +1020,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Email</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>Эл.почта</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Email</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Theme</term></tig></langSet>
