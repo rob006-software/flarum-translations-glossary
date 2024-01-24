@@ -1030,6 +1030,14 @@
                 <langSet xml:lang="en"><tig><term>boring avatar</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>"скучный аватар"</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Medium</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Средний</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Strength</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Сила</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
