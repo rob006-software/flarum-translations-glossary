@@ -1038,6 +1038,10 @@
                 <langSet xml:lang="en"><tig><term>Strength</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Сила</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>packages</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>пакеты</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
