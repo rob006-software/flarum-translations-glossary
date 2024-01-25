@@ -1046,6 +1046,10 @@
                 <langSet xml:lang="en"><tig><term>Updates</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Обновления</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dry Run</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Пробный запуск</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
