@@ -1050,6 +1050,10 @@
                 <langSet xml:lang="en"><tig><term>Dry Run</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Пробный запуск</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>poll</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>опрос</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
