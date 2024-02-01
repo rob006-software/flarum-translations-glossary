@@ -3176,6 +3176,10 @@
                 <langSet xml:lang="en"><tig><term>Run</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Exécuter</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Identifier</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Identifiant</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
