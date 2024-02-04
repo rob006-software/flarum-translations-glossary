@@ -108,6 +108,10 @@
                 <langSet xml:lang="en"><tig><term>Create</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>创建</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>扩展</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
