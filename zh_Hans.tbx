@@ -116,6 +116,19 @@
                 <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>扩展</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>存储库</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>OAuth</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>OAuth</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Composer</term></tig></langSet>
+                <descrip>PHP 包管理器</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
