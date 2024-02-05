@@ -97,7 +97,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>两步验证</term></tig></langSet>
                 <descrip>двухфакторная авторизация</descrip>
             </termEntry>
             <termEntry>
@@ -114,7 +114,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>扩展</term></tig></langSet>
             </termEntry>
         </body>
     </text>
