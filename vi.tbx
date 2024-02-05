@@ -35,6 +35,10 @@
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
                 <langSet xml:lang="vi"><tig><term>tiết lộ nội dung</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
