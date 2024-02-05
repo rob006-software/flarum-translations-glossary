@@ -129,6 +129,16 @@
                 <langSet xml:lang="zh_Hans"><tig><term>Composer</term></tig></langSet>
                 <descrip>PHP 包管理器</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>URL</term></tig></langSet>
+                <descrip>统一资源定位器</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CDN</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>CDN</term></tig></langSet>
+                <descrip>内容分发网络</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
