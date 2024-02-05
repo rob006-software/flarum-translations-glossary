@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>提交</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>送出</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Delete</term></tig></langSet>
@@ -24,7 +24,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>二階段認証</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>兩步驟驗證</term></tig></langSet>
                 <descrip>двухфакторная авторизация</descrip>
             </termEntry>
             <termEntry>
