@@ -3184,6 +3184,18 @@
                 <langSet xml:lang="en"><tig><term>Avatars</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Avatars</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bot</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Robot</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
