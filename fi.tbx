@@ -31,6 +31,10 @@
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>spoileri</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
