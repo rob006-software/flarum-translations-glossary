@@ -3192,6 +3192,14 @@
                 <langSet xml:lang="en"><tig><term>Telegram</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Telegram</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Clipboard</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Presse-papiers</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Conversations</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Conversations</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
