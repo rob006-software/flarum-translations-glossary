@@ -1066,6 +1066,10 @@
                 <langSet xml:lang="en"><tig><term>Conversation</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Переписка</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>copied</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>скопировано</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
