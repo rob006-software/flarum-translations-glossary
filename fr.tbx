@@ -3204,6 +3204,10 @@
                 <langSet xml:lang="en"><tig><term>Geolocation</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Géolocalisation</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Map</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Carte</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
