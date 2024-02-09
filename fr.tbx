@@ -3208,6 +3208,14 @@
                 <langSet xml:lang="en"><tig><term>Map</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Carte</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Jobs</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Tâches</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Trim</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Compenser</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
