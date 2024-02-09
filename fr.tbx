@@ -3214,7 +3214,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Trim</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Compenser</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ajuster</term></tig></langSet>
             </termEntry>
         </body>
     </text>
