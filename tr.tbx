@@ -114,7 +114,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>İki Adımlı Doğrulama</term></tig></langSet>
-                <descrip>двухфакторная авторизация</descrip>
+                <note from="translator">"2 Factor Authentication" ifadesinin kısaltılmış halidir. İngilizce dilinde yaygın olarak kullanılsa da Türkçe için yaygın bir kullanımı olmadığından dolayı ifadeyi kısaltma olmadan çevirmeniz önerilir.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Optional</term></tig></langSet>
@@ -143,11 +143,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>uzantı</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>uzantılar</term></tig></langSet>
+                <note from="translator">Cümle içerisinde geçtiği durumu kontrol edin. İngilizcedeki çoğul kullanım örnekleri ile Türkçe'deki çoğul kullanım örnekleri farklıdır. Örn: "Uninstall 2 extensions" kalıbı "2 uzantıları kaldır" şeklinde çevrilemez. Doğrusu "2 uzantıyı kaldır" şeklinde bir çeviri olması gerekir.</note>
             </termEntry>
         </body>
     </text>
