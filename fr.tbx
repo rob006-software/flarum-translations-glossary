@@ -3216,6 +3216,42 @@
                 <langSet xml:lang="en"><tig><term>Trim</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Ajuster</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Anonymize</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Anonymiser</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Anonymization</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Anonymisation</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Filesystem</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Système de fichiers</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Action</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Action</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Deletion</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Suppression</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Integrations</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Intégrations</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>GDPR</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>RGPD</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Request</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Demander</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Process</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Traiter</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
