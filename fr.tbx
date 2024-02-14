@@ -3252,6 +3252,14 @@
                 <langSet xml:lang="en"><tig><term>Process</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Traiter</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Erasure</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Effacement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Erase</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Effacer</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
