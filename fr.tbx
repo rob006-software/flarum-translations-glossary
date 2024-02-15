@@ -3268,6 +3268,14 @@
                 <langSet xml:lang="en"><tig><term>Categories</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Catégories</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Doxxing</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Diffusion d'informations personnelles</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Filters</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Filtres</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
