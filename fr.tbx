@@ -3280,6 +3280,22 @@
                 <langSet xml:lang="en"><tig><term>Images</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Images</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sexual</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Sexuel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Derogatory</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Dénigrant</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Violent</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Violent</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Toxic</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Toxique</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
