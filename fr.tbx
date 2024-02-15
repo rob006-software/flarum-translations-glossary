@@ -3276,6 +3276,10 @@
                 <langSet xml:lang="en"><tig><term>Filters</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Filtres</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Images</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Images</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
