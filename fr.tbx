@@ -3296,6 +3296,10 @@
                 <langSet xml:lang="en"><tig><term>Toxic</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Toxique</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Center</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Centre</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
