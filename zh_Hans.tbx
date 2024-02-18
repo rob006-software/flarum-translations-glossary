@@ -139,6 +139,10 @@
                 <langSet xml:lang="zh_Hans"><tig><term>CDN</term></tig></langSet>
                 <descrip>内容分发网络</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Display name</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>外显昵称</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
