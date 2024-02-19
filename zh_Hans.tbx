@@ -147,6 +147,10 @@
                 <langSet xml:lang="en"><tig><term>Logout</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>登出</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Name Change</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>用户名变更申请</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
