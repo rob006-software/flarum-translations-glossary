@@ -3300,6 +3300,14 @@
                 <langSet xml:lang="en"><tig><term>Center</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Centre</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Protection</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Protection</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ability</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Possibilité</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
