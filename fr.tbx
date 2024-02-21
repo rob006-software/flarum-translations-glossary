@@ -3308,6 +3308,10 @@
                 <langSet xml:lang="en"><tig><term>Ability</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Possibilité</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gemini</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Gemini</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
