@@ -3316,6 +3316,10 @@
                 <langSet xml:lang="en"><tig><term>Subtitle</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Sous-titre</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Polls</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Sondages</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
