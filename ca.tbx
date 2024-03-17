@@ -169,6 +169,10 @@
                 <langSet xml:lang="ca"><tig><term>infeliç</term></tig></langSet>
                 <descrip>De totes les acepcions del mot, proposo la menys ofensiva</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sticker</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>adhesiu</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
