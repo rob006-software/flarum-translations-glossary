@@ -158,11 +158,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term/></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>extensió</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term/></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>extensions</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>miserable</term></tig></langSet>
