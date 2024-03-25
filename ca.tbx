@@ -173,6 +173,10 @@
                 <langSet xml:lang="en"><tig><term>sticker</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>adhesiu</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rollback</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>revertir</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
