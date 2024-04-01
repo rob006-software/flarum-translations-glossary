@@ -155,6 +155,10 @@
                 <langSet xml:lang="en"><tig><term>Blocked Registrations</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>被阻止的注册</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Abbreviate</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>缩写</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
