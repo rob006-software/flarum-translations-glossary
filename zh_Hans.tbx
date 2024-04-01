@@ -159,6 +159,10 @@
                 <langSet xml:lang="en"><tig><term>Abbreviate</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>缩写</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ability</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>能力</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
