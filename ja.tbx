@@ -12,20 +12,19 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term/></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>投稿する</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Delete</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term/></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>削除</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Email Address</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term/></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>メールアドレス</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term/></tig></langSet>
-                <descrip>двухфакторная авторизация</descrip>
+                <langSet xml:lang="ja"><tig><term>2 要素認証</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
@@ -33,11 +32,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term/></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>エクステンション</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
