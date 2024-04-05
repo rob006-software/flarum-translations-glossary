@@ -1086,6 +1086,14 @@
                 <langSet xml:lang="en"><tig><term>myemoji</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>мои-эмодзи</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Are you sure</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Вы уверены, что</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Emojis</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>эмодзи</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
