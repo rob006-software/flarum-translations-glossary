@@ -3320,6 +3320,10 @@
                 <langSet xml:lang="en"><tig><term>Polls</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Sondages</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Resize</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Redimensionner</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
