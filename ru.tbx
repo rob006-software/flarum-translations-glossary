@@ -1078,6 +1078,10 @@
                 <langSet xml:lang="en"><tig><term>Formatted</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Форматированный</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Emoji</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>эмодзи</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
