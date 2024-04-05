@@ -3324,6 +3324,10 @@
                 <langSet xml:lang="en"><tig><term>Resize</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Redimensionner</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Translations</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Traductions</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
