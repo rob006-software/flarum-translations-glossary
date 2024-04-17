@@ -3336,6 +3336,14 @@
                 <langSet xml:lang="en"><tig><term>Firebase</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Firebase</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Category</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Catégorie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>UI</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Interface utilisateur</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
