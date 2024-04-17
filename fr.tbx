@@ -3348,6 +3348,10 @@
                 <langSet xml:lang="en"><tig><term>Specify</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Spécifier</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>JSON</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>JSON</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
