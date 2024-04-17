@@ -3344,6 +3344,10 @@
                 <langSet xml:lang="en"><tig><term>UI</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Interface utilisateur</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Specify</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Spécifier</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
