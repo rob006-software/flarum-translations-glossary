@@ -3332,6 +3332,10 @@
                 <langSet xml:lang="en"><tig><term>Question</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Question</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Firebase</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Firebase</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
