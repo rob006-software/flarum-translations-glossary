@@ -3352,6 +3352,22 @@
                 <langSet xml:lang="en"><tig><term>JSON</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>JSON</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Region</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Région</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Design</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Conception</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Note</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Note</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Layout</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Mise en page</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
