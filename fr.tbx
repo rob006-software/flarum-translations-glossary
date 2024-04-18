@@ -3368,6 +3368,10 @@
                 <langSet xml:lang="en"><tig><term>Layout</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Mise en page</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Outline</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Schéma</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
