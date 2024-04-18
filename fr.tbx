@@ -3392,6 +3392,10 @@
                 <langSet xml:lang="en"><tig><term>Lottery</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Loterie</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lotterys</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Loteries</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
