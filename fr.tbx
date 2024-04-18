@@ -3384,6 +3384,10 @@
                 <langSet xml:lang="en"><tig><term>LDAP</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>LDAP</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>TLS</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>TLS</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
