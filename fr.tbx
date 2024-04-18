@@ -3372,6 +3372,14 @@
                 <langSet xml:lang="en"><tig><term>Outline</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Schéma</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Semicolon</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Point-virgule</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Comma</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Virgule</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
