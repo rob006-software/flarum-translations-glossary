@@ -3408,6 +3408,10 @@
                 <langSet xml:lang="en"><tig><term>Participants</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Participants</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Prizes</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Prix</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
