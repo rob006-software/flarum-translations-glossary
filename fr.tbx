@@ -3396,6 +3396,18 @@
                 <langSet xml:lang="en"><tig><term>Lotterys</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Loteries</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Minutes</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Minutes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hours</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Heures</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Participants</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Participants</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
