@@ -3424,6 +3424,10 @@
                 <langSet xml:lang="en"><tig><term>Conditions</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Conditions</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Border</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Bordure</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
