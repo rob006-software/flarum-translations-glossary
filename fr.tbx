@@ -3428,6 +3428,10 @@
                 <langSet xml:lang="en"><tig><term>Border</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Bordure</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Font</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Police</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
