@@ -92,8 +92,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>overview</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>首页</term></tig></langSet>
-                <note from="translator">以防忘记</note>
+                <langSet xml:lang="zh_Hans"><tig><term>概览</term></tig></langSet>
+                <note from="translator">以防忘记，部分情况下翻译为首页</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
