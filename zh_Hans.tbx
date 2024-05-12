@@ -221,11 +221,15 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>queue</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>队列</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Money</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>财富</term></tig></langSet>
             </termEntry>
         </body>
     </text>
