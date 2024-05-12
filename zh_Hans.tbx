@@ -183,10 +183,6 @@
                 <langSet xml:lang="en"><tig><term>unchanged</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>未修改</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>扩展程序</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>remove</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>移除</term></tig></langSet>
