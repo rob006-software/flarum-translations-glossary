@@ -167,6 +167,22 @@
                 <langSet xml:lang="en"><tig><term>Host</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>主机</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Type</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>类型</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authentication</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>认证</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Token</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>令牌</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unchanged</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>未修改</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
