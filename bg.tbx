@@ -70,7 +70,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Money</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Firebase</term></tig></langSet>
                 <langSet xml:lang="bg"><tig><term></term></tig></langSet>
+                <descrip>谷歌的应用开发平台</descrip>
             </termEntry>
         </body>
     </text>
