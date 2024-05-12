@@ -150,6 +150,35 @@
                 <langSet xml:lang="tr"><tig><term>uzantılar</term></tig></langSet>
                 <note from="translator">Cümle içerisinde geçtiği durumu kontrol edin. İngilizcedeki çoğul kullanım örnekleri ile Türkçe'deki çoğul kullanım örnekleri farklıdır. Örn: "Uninstall 2 extensions" kalıbı "2 uzantıları kaldır" şeklinde çevrilemez. Doğrusu "2 uzantıyı kaldır" şeklinde bir çeviri olması gerekir.</note>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>package</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>HTTP Bearer</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>OAuth</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>packages</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+                <descrip>PHP 包管理器</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
