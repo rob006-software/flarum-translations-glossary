@@ -183,6 +183,46 @@
                 <langSet xml:lang="en"><tig><term>unchanged</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>未修改</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>扩展程序</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remove</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>移除</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>package</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>包</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>HTTP Bearer</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>HTTP Bearer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>private repositories</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>私有仓库</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>advanced</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>高级</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>packages</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>包</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Name</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>名称</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>removed</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>已移除</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>仓库</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
