@@ -231,6 +231,11 @@
                 <langSet xml:lang="en"><tig><term>Money</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>财富</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Firebase</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Firebase</term></tig></langSet>
+                <descrip>谷歌的应用开发平台</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
