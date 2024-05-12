@@ -163,6 +163,10 @@
                 <langSet xml:lang="en"><tig><term>Ability</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>能力</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Host</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>主机</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
