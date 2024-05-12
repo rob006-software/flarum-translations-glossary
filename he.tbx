@@ -102,6 +102,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>queue</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Money</term></tig></langSet>
                 <langSet xml:lang="he"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
