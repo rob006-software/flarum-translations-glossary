@@ -3462,6 +3462,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>queue</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Best Answer</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
