@@ -94,6 +94,10 @@
                 <langSet xml:lang="en"><tig><term>Refresh</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>刷新</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Best Answer</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
