@@ -38,69 +38,69 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>розширення</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>package</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>пакунок</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>URL-адреса</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>HTTP Bearer</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>HTTP Bearer</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OAuth</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>OAuth</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>packages</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>пакунки</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>Composer</term></tig></langSet>
                 <descrip>PHP 包管理器</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>репозиторії</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>queue</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>черга</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Money</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>Гроші</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Firebase</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>Firebase</term></tig></langSet>
                 <descrip>谷歌的应用开发平台</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Refresh</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>Оновити</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answer</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>Найкраща відповідь</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Private discussion</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>Приватна дискусія</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ASN</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>ASN</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ISP</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>ISP</term></tig></langSet>
             </termEntry>
         </body>
     </text>
