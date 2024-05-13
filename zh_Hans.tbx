@@ -244,6 +244,10 @@
                 <langSet xml:lang="en"><tig><term>Best Answer</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>最佳回复</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Private discussion</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>私密主题</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
