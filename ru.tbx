@@ -1120,8 +1120,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Firebase</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term/></tig></langSet>
                 <descrip>谷歌的应用开发平台</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Best Answer</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
     </text>
