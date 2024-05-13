@@ -250,7 +250,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ASN</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>ASN</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>AS 号</term></tig></langSet>
+                <note from="translator">ASN</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ISP</term></tig></langSet>
