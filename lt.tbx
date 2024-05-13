@@ -87,6 +87,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Refresh</term></tig></langSet>
+                <langSet xml:lang="lt"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Best Answer</term></tig></langSet>
                 <langSet xml:lang="lt"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
