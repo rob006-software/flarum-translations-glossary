@@ -99,11 +99,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ASN</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>ASN</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ISP</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>ISP</term></tig></langSet>
             </termEntry>
         </body>
     </text>
