@@ -154,7 +154,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Blocked Registrations</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>被阻止的注册</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>已阻止注册</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Abbreviate</term></tig></langSet>
@@ -222,7 +222,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>扩展程序</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>queue</term></tig></langSet>
