@@ -102,6 +102,14 @@
                 <langSet xml:lang="en"><tig><term>ISP</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>ISP</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>users followed</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>users following</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
