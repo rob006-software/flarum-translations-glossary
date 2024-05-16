@@ -99,10 +99,14 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>users followed</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term></term></tig></langSet>
+                <langSet xml:lang="eu"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>users following</term></tig></langSet>
+                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bio</term></tig></langSet>
                 <langSet xml:lang="eu"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
