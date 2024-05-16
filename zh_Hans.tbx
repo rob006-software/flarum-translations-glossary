@@ -102,7 +102,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>黑幕</term></tig></langSet>
+                <note from="translator">黑幕？剧透内容？</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Create</term></tig></langSet>
