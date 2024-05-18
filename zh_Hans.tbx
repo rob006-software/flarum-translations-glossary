@@ -96,11 +96,6 @@
                 <note from="translator">以防忘记，部分情况下翻译为首页</note>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>两步验证</term></tig></langSet>
-                <descrip>двухфакторная авторизация</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>黑幕</term></tig></langSet>
                 <note from="translator">黑幕？剧透内容？</note>
