@@ -283,6 +283,10 @@
                 <langSet xml:lang="zh_Hans"><tig><term>双重认证</term></tig></langSet>
                 <descrip>Two-factor authentication</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tier</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>等级</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
