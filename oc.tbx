@@ -111,7 +111,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Clockwork</term></tig></langSet>
                 <langSet xml:lang="oc"><tig><term></term></tig></langSet>
+                <descrip>php dev tools</descrip>
             </termEntry>
         </body>
     </text>
