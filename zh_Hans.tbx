@@ -278,6 +278,11 @@
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>固定链接</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Clockwork</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Clockwork</term></tig></langSet>
+                <descrip>php dev tools</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
