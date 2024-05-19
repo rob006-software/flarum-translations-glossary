@@ -136,8 +136,13 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Paid to bump</term></tig></langSet>
-                <langSet xml:lang="my"><tig><term></term></tig></langSet>
+                <langSet xml:lang="my"><tig><term/></tig></langSet>
                 <descrip>Pay to Bump. Users can pay to get their discussion bumped to the top of the discussion index.</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bounty</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term></term></tig></langSet>
+                <descrip>Users can donate on a discussion page to raise funds for whatever the discussion is for.</descrip>
             </termEntry>
         </body>
     </text>
