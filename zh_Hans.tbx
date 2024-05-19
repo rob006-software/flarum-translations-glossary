@@ -310,6 +310,11 @@
                 <langSet xml:lang="zh_Hans"><tig><term>推广</term></tig></langSet>
                 <descrip>Pay to Bump. Users can pay to get their discussion bumped to the top of the discussion index.</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Twitch</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Twitch</term></tig></langSet>
+                <descrip>Twitch is a video game live-streaming service.</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
