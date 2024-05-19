@@ -287,6 +287,14 @@
                 <langSet xml:lang="en"><tig><term>Tier</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>等级</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Original Poster</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>楼主</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>OP</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>楼主</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
