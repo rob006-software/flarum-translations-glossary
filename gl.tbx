@@ -132,7 +132,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Apple</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Paid to bump</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+                <descrip>Pay to Bump. Users can pay to get their discussion bumped to the top of the discussion index.</descrip>
             </termEntry>
         </body>
     </text>
