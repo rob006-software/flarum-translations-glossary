@@ -96,70 +96,70 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answer</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>最佳答案</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Private discussion</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>私密主題</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ASN</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>ASN</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ISP</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>運營商</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>users followed</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>正在關注</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>users following</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>粉絲</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bio</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>個人簡介</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>固定連結</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Clockwork</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>Clockwork</term></tig></langSet>
                 <descrip>php dev tools</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Tier</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>等級</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Original Poster</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>樓主</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OP</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>樓主</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Apple</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>Apple</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Paid to bump</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>推廣</term></tig></langSet>
                 <descrip>Pay to Bump. Users can pay to get their discussion bumped to the top of the discussion index.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bounty</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>支持</term></tig></langSet>
                 <descrip>Users can donate on a discussion page to raise funds for whatever the discussion is for.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Twitch</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>Twitch</term></tig></langSet>
                 <descrip>Twitch is a video game live-streaming service.</descrip>
             </termEntry>
         </body>
