@@ -129,8 +129,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Original Poster</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
-                <note from="translator">Оригінальний постер</note>
+                <langSet xml:lang="uk"><tig><term>Оригінальний постер</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OP</term></tig></langSet>
