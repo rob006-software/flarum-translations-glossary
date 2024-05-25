@@ -3510,6 +3510,10 @@
                 <langSet xml:lang="en"><tig><term>Adapter</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Adaptateur</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>AWS</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>AWS</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
