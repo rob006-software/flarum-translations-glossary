@@ -3503,8 +3503,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Twitch</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term/></tig></langSet>
                 <descrip>Twitch is a video game live-streaming service.</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Adapter</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Adaptateur</term></tig></langSet>
             </termEntry>
         </body>
     </text>
