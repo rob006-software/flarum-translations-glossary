@@ -3514,6 +3514,14 @@
                 <langSet xml:lang="en"><tig><term>AWS</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>AWS</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Actor</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Acteur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Mechanism</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Mécanisme</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
