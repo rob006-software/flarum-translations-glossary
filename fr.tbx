@@ -3433,10 +3433,6 @@
                 <langSet xml:lang="fr"><tig><term>Police</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>package</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>HTTP Bearer</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
