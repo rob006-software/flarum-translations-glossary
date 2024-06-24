@@ -3458,10 +3458,6 @@
                 <langSet xml:lang="fr"><tig><term>Mécanisme</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>users following</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Window</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Fenêtre</term></tig></langSet>
             </termEntry>
