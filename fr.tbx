@@ -3474,10 +3474,6 @@
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Overlay</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Superposition</term></tig></langSet>
             </termEntry>
