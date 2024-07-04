@@ -3477,10 +3477,6 @@
                 <langSet xml:lang="en"><tig><term>Generic</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Générique</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>users following</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
