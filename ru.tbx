@@ -1184,8 +1184,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Twitch</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term/></tig></langSet>
                 <descrip>Twitch is a video game live-streaming service.</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Participants</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Участники</term></tig></langSet>
             </termEntry>
         </body>
     </text>
