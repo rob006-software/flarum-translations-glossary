@@ -1191,6 +1191,10 @@
                 <langSet xml:lang="en"><tig><term>Participants</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Участники</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Deleted</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Удалено</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
