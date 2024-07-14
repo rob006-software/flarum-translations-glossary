@@ -1195,6 +1195,14 @@
                 <langSet xml:lang="en"><tig><term>Deleted</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Удалено</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>GeeTest CAPTCHA</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>GeeTest CAPTCHA</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
