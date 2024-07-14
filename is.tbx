@@ -157,6 +157,16 @@
                 <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CAPTCHA (v3)</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>CAPTCHA (v3)</term></tig></langSet>
+                <descrip>3th generation of GeeTest CAPTCHA</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
+                <descrip>4th generation of GeeTest CAPTCHA</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
