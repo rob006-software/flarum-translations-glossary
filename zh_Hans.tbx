@@ -315,6 +315,14 @@
                 <langSet xml:lang="zh_Hans"><tig><term>Twitch</term></tig></langSet>
                 <descrip>Twitch is a video game live-streaming service.</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>GeeTest CAPTCHA</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>GeeTest CAPTCHA</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
