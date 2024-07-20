@@ -3478,10 +3478,6 @@
                 <langSet xml:lang="fr"><tig><term>Générique</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>package</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>users followed</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
