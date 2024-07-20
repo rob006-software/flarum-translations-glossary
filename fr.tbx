@@ -3564,6 +3564,10 @@
                 <langSet xml:lang="en"><tig><term>Tooltip</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Infobulle</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Solved</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Résolu</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
