@@ -333,6 +333,11 @@
                 <langSet xml:lang="zh_Hans"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
                 <descrip>4th generation of GeeTest CAPTCHA</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>修改</term></tig></langSet>
+                <descrip>修改、改变、更改、变更等含义</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
