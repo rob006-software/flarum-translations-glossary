@@ -3503,10 +3503,6 @@
                 <langSet xml:lang="en"><tig><term>Solved</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Résolu</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Original Poster</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
