@@ -3504,10 +3504,6 @@
                 <langSet xml:lang="fr"><tig><term>Résolu</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>users following</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Card</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Carte</term></tig></langSet>
             </termEntry>
