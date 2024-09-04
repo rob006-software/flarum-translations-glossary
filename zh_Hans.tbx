@@ -341,6 +341,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Approval</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>审核</term></tig></langSet>
+                <note from="translator">赞成、同意、通过、准许，表明需要许可、审核等。</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
