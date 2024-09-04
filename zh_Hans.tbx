@@ -338,11 +338,6 @@
                 <langSet xml:lang="zh_Hans"><tig><term>修改</term></tig></langSet>
                 <descrip>修改、改变、更改、变更等含义</descrip>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>approval</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>赞成</term></tig></langSet>
-                <descrip>赞成、同意、通过、准许，表明需要许可、审核等。</descrip>
-            </termEntry>
         </body>
     </text>
 </martif>
