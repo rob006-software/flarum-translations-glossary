@@ -315,8 +315,13 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term/></tig></langSet>
                 <descrip>Edit, Change, Modify, .etc.</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Auto Moderator</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term></term></tig></langSet>
+                <descrip>Auto Moderator, an extension that uses specified rules to make content judgments.</descrip>
             </termEntry>
         </body>
     </text>
