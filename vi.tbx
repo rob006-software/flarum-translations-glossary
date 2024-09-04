@@ -178,7 +178,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Approval</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
                 <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+                <descrip>Edit, Change, Modify, .etc.</descrip>
             </termEntry>
         </body>
     </text>
