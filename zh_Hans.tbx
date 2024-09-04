@@ -352,6 +352,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Term</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>术语</term></tig></langSet>
+                <note from="translator">条目、术语等，视语境而定</note>
                 <descrip>A word or phrase that is used to refer to a particular thing.</descrip>
             </termEntry>
             <termEntry>
