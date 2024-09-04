@@ -297,8 +297,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Apple</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>苹果</term></tig></langSet>
-                <note from="translator">一种水果，总不能是美国苹果公司（Apple Inc）吧</note>
+                <langSet xml:lang="zh_Hans"><tig><term>Apple</term></tig></langSet>
+                <note from="translator">Apple ID 的 Apple，其他翻译请结合语境</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bounty</term></tig></langSet>
@@ -331,8 +331,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <descrip>4th generation of GeeTest CAPTCHA</descrip>
+                <langSet xml:lang="zh_Hans"><tig><term>行为验</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
