@@ -346,6 +346,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>修改</term></tig></langSet>
+                <note from="translator">修改、改变、更改、变更等含义</note>
                 <descrip>Edit, Change, Modify, .etc.</descrip>
             </termEntry>
         </body>
