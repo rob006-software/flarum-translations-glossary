@@ -309,6 +309,10 @@
                 <langSet xml:lang="ca"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
                 <descrip>4th generation of GeeTest CAPTCHA</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Approval</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
