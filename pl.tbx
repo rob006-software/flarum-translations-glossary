@@ -187,6 +187,10 @@
                 <langSet xml:lang="pl"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
                 <descrip>4th generation of GeeTest CAPTCHA</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Approval</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
