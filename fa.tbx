@@ -190,8 +190,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Auto Moderator</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fa"><tig><term/></tig></langSet>
                 <descrip>Auto Moderator, an extension that uses specified rules to make content judgments.</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Term</term></tig></langSet>
+                <langSet xml:lang="fa"><tig><term></term></tig></langSet>
+                <descrip>A word or phrase that is used to refer to a particular thing.</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Glossary</term></tig></langSet>
+                <langSet xml:lang="fa"><tig><term></term></tig></langSet>
+                <descrip>A glossary is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms.</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
+                <langSet xml:lang="fa"><tig><term></term></tig></langSet>
+                <descrip>A statement that explains the meaning of a word or phrase, or expressing the essential nature of something.</descrip>
             </termEntry>
         </body>
     </text>
