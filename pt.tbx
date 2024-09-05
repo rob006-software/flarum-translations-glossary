@@ -206,8 +206,25 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
                 <descrip>The best reply that fit the discussion or the question.</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Two Factor</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Two-Factor</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>twofactor</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <descrip>The thing used to identify oneself in a way or represent membership in a society or group.</descrip>
             </termEntry>
         </body>
     </text>
