@@ -374,6 +374,11 @@
                 <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>最佳回复</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>标记</term></tig></langSet>
+                <descrip>The thing used to identify oneself in a way or represent membership in a society or group.</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
