@@ -370,6 +370,11 @@
                 <langSet xml:lang="zh_Hans"><tig><term>定义</term></tig></langSet>
                 <descrip>A statement that explains the meaning of a word or phrase, or expressing the essential nature of something.</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>最佳回复</term></tig></langSet>
+                <descrip>The best reply that fit the discussion or the question.</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
