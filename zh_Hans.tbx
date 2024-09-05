@@ -397,6 +397,14 @@
                 <langSet xml:lang="zh_Hans"><tig><term>活动日程</term></tig></langSet>
                 <descrip>the event subject</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Parameter</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>参数</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Endpoint</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>接口端点</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
