@@ -3592,8 +3592,13 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Glossary</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term/></tig></langSet>
                 <descrip>A glossary is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms.</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <descrip>The best reply that fit the discussion or the question.</descrip>
             </termEntry>
         </body>
     </text>
