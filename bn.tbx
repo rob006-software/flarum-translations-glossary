@@ -191,18 +191,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Term</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bn"><tig><term/></tig></langSet>
                 <descrip>A word or phrase that is used to refer to a particular thing.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Glossary</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bn"><tig><term/></tig></langSet>
                 <descrip>A glossary is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bn"><tig><term/></tig></langSet>
                 <descrip>A statement that explains the meaning of a word or phrase, or expressing the essential nature of something.</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
+                <langSet xml:lang="bn"><tig><term></term></tig></langSet>
+                <descrip>The best reply that fit the discussion or the question.</descrip>
             </termEntry>
         </body>
     </text>
