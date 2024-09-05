@@ -390,7 +390,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>twofactor</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>双重认证</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>双重验证</term></tig></langSet>
             </termEntry>
         </body>
     </text>
