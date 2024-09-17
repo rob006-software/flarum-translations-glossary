@@ -3512,10 +3512,6 @@
                 <langSet xml:lang="fr"><tig><term>Enregistrement</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Original Poster</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Apple</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
