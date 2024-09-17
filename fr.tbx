@@ -3541,10 +3541,6 @@
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>twofactor</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Minecraft</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Minecraft</term></tig></langSet>
             </termEntry>
