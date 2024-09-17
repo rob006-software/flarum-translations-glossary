@@ -3529,10 +3529,6 @@
                 <descrip>Edit, Change, Modify, .etc.</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Two Factor</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Two-Factor</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
