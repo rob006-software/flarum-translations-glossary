@@ -242,11 +242,16 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Parameter</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term></term></tig></langSet>
+                <langSet xml:lang="km"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Endpoint</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Masquerade</term></tig></langSet>
                 <langSet xml:lang="km"><tig><term></term></tig></langSet>
+                <descrip>FriendsOfFlarum's Masquerade, an extension to make a profile tab on the user page.</descrip>
             </termEntry>
         </body>
     </text>
