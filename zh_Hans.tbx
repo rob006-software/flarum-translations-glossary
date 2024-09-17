@@ -405,6 +405,11 @@
                 <langSet xml:lang="en"><tig><term>Endpoint</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>接口端点</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Masquerade</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>个人资料页签</term></tig></langSet>
+                <descrip>FriendsOfFlarum's Masquerade, an extension to make a profile tab on the user page.</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
