@@ -283,16 +283,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Approval</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Onay</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
-                <descrip>Edit, Change, Modify, .etc.</descrip>
+                <langSet xml:lang="tr"><tig><term>Değiştir</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Auto Moderator</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Otomatik Moderatör</term></tig></langSet>
                 <descrip>Auto Moderator, an extension that uses specified rules to make content judgments.</descrip>
             </termEntry>
             <termEntry>
@@ -302,17 +301,16 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Glossary</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Sözlük</term></tig></langSet>
                 <descrip>A glossary is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
-                <descrip>A statement that explains the meaning of a word or phrase, or expressing the essential nature of something.</descrip>
+                <langSet xml:lang="tr"><tig><term>Tanım</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>En İyi Yanıt</term></tig></langSet>
                 <descrip>The best reply that fit the discussion or the question.</descrip>
             </termEntry>
             <termEntry>
@@ -346,12 +344,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
-                <descrip>The thing used to identify oneself in a way or represent membership in a society or group.</descrip>
+                <langSet xml:lang="tr"><tig><term>Rozet</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Events Calendar</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Etkinlik Takvimi</term></tig></langSet>
                 <descrip>the event subject</descrip>
             </termEntry>
             <termEntry>
@@ -360,11 +357,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Endpoint</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Son nokta</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Masquerade</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Maskeli Balo</term></tig></langSet>
+                <note from="translator">FriendsOfFlarum'un Maskeli Balo eklentisi, kullanıcı sayfasında profil sekmesi oluşturmaya yarayan bir eklenti.</note>
                 <descrip>FriendsOfFlarum's Masquerade, an extension to make a profile tab on the user page.</descrip>
             </termEntry>
         </body>
