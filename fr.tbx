@@ -3535,6 +3535,14 @@
                 <langSet xml:lang="en"><tig><term>Invite</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Inviter</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Glossary</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Glossaire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Policy</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Politique</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
