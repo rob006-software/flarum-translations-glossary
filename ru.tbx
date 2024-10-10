@@ -1302,6 +1302,14 @@
                 <langSet xml:lang="en"><tig><term>Recycle Bin</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Корзина</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>selected</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>выбранные</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>restored</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>восстановлены</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
