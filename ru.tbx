@@ -1287,8 +1287,20 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Masquerade</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term/></tig></langSet>
                 <descrip>FriendsOfFlarum's Masquerade, an extension to make a profile tab on the user page.</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Forever</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Окончательно</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Actions</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Действия</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Recycle Bin</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Корзина</term></tig></langSet>
             </termEntry>
         </body>
     </text>
