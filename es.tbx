@@ -24,8 +24,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
-                <descrip>двухфакторная авторизация</descrip>
+                <langSet xml:lang="es"><tig><term>2FA</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
@@ -49,7 +48,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <langSet xml:lang="es"><tig><term>URL</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>HTTP Bearer</term></tig></langSet>
@@ -65,8 +64,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
-                <descrip>PHP 包管理器</descrip>
+                <langSet xml:lang="es"><tig><term>Composer</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
@@ -172,8 +170,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <descrip>4th generation of GeeTest CAPTCHA</descrip>
+                <langSet xml:lang="es"><tig><term>CAPTCHA adaptativo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Approval</term></tig></langSet>
@@ -181,8 +178,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
-                <descrip>Edit, Change, Modify, .etc.</descrip>
+                <langSet xml:lang="es"><tig><term>Cambiar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Auto Moderator</term></tig></langSet>
@@ -201,8 +197,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
-                <descrip>A statement that explains the meaning of a word or phrase, or expressing the essential nature of something.</descrip>
+                <langSet xml:lang="es"><tig><term>Definición</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
