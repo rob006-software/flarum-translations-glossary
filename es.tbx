@@ -272,6 +272,10 @@
                 <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>usuario</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cancel</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Cancelar</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
