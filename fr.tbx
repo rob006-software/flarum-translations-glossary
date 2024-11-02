@@ -3551,6 +3551,14 @@
                 <langSet xml:lang="en"><tig><term>Logto</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Logto</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Behavior</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Comportement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>System</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Système</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
