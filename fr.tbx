@@ -3547,6 +3547,10 @@
                 <langSet xml:lang="en"><tig><term>Quest</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Quête</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Logto</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Logto</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
