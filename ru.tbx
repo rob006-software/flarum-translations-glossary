@@ -1324,7 +1324,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>GDPR</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>ОРЗД</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ОРЗД (GDPR)</term></tig></langSet>
             </termEntry>
         </body>
     </text>
