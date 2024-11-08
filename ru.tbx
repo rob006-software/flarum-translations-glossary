@@ -1318,6 +1318,14 @@
                 <langSet xml:lang="en"><tig><term>Reputation</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Репутация</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Action</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>действие</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>GDPR</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ОРЗД</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
