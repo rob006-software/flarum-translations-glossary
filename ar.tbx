@@ -258,8 +258,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Masquerade</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ar"><tig><term/></tig></langSet>
                 <descrip>FriendsOfFlarum's Masquerade, an extension to make a profile tab on the user page.</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Delete Group</term></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>حذف مجموعة</term></tig></langSet>
             </termEntry>
         </body>
     </text>
