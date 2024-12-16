@@ -12,20 +12,19 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Saada</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Delete</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Kustuta</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Email Address</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>E-posti aadress</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
-                <descrip>двухфакторная авторизация</descrip>
+                <langSet xml:lang="et"><tig><term>2FA</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
@@ -33,23 +32,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>laiendus</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>laiendused</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>laiendused</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>package</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>pakett</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>URL</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>HTTP Bearer</term></tig></langSet>
@@ -57,53 +56,51 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OAuth</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>OAuth</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>packages</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>paketid</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
-                <descrip>PHP 包管理器</descrip>
+                <langSet xml:lang="et"><tig><term>Composer</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>hoidlad</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>queue</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>järjekord</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Money</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Raha</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Firebase</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
-                <descrip>谷歌的应用开发平台</descrip>
+                <langSet xml:lang="et"><tig><term>Firebase</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Refresh</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Värskenda</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answer</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Parim vastus</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Private discussion</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Privaatne vestlus</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ASN</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>ASN</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ISP</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>ISP</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>users followed</term></tig></langSet>
@@ -115,7 +112,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bio</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>bio</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
@@ -132,11 +129,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Original Poster</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Algne postitaja</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OP</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>OP</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Apple</term></tig></langSet>
@@ -154,7 +151,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Twitch</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Twitch</term></tig></langSet>
                 <descrip>Twitch is a video game live-streaming service.</descrip>
             </termEntry>
             <termEntry>
@@ -177,12 +174,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Approval</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Heakskiit</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
-                <descrip>Edit, Change, Modify, .etc.</descrip>
+                <langSet xml:lang="et"><tig><term>Muuda</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Auto Moderator</term></tig></langSet>
@@ -196,17 +192,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Glossary</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
-                <descrip>A glossary is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms.</descrip>
+                <langSet xml:lang="et"><tig><term>Sõnastik</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
-                <descrip>A statement that explains the meaning of a word or phrase, or expressing the essential nature of something.</descrip>
+                <langSet xml:lang="et"><tig><term>Definitsioon</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Parimad vastused</term></tig></langSet>
                 <descrip>The best reply that fit the discussion or the question.</descrip>
             </termEntry>
             <termEntry>
@@ -245,20 +239,20 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Events Calendar</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Sündmuste kalender</term></tig></langSet>
                 <descrip>the event subject</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Parameter</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Parameeter</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Endpoint</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Lõpp-punkt</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Masquerade</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term></term></tig></langSet>
+                <langSet xml:lang="et"><tig><term/></tig></langSet>
                 <descrip>FriendsOfFlarum's Masquerade, an extension to make a profile tab on the user page.</descrip>
             </termEntry>
         </body>
