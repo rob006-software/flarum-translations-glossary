@@ -104,11 +104,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>users followed</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>jälgitud kasutajad</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>users following</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kasutajad, kes jälgivad</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bio</term></tig></langSet>
@@ -146,8 +146,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bounty</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
-                <descrip>Users can donate on a discussion page to raise funds for whatever the discussion is for.</descrip>
+                <langSet xml:lang="et"><tig><term>Annetus</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Twitch</term></tig></langSet>
@@ -182,7 +181,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Auto Moderator</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Automaatne moderaator</term></tig></langSet>
                 <descrip>Auto Moderator, an extension that uses specified rules to make content judgments.</descrip>
             </termEntry>
             <termEntry>
@@ -222,20 +221,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Two Factor</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Kahe etapiline</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Two-Factor</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Kahe-etapiline</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>twofactor</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kaheetapiline</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
-                <descrip>The thing used to identify oneself in a way or represent membership in a society or group.</descrip>
+                <langSet xml:lang="et"><tig><term>Aumärk</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Events Calendar</term></tig></langSet>
@@ -252,7 +250,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Masquerade</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Maskeraad</term></tig></langSet>
                 <descrip>FriendsOfFlarum's Masquerade, an extension to make a profile tab on the user page.</descrip>
             </termEntry>
         </body>
