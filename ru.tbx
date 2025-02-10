@@ -1334,6 +1334,30 @@
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>профиль</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reactions</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>реакции</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Display</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Показывать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Custom</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Пользовательский</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>jump</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>переход</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bookmarks</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>избранное</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>solutions</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>решения</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
