@@ -1326,6 +1326,14 @@
                 <langSet xml:lang="en"><tig><term>GDPR</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>ОРЗД (GDPR)</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Private Profile</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Частный профиль</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>профиль</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
