@@ -1352,7 +1352,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bookmarks</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>избранное</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>закладки</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>solutions</term></tig></langSet>
