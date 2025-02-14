@@ -1104,11 +1104,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>HTTP Bearer</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Ключевые данные HTTP</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OAuth</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>открытая авторизация</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
@@ -1219,8 +1219,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
-                <descrip>Edit, Change, Modify, .etc.</descrip>
+                <langSet xml:lang="ru"><tig><term>Изменить</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Auto Moderator</term></tig></langSet>
