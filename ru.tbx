@@ -1358,6 +1358,10 @@
                 <langSet xml:lang="en"><tig><term>solutions</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>решения</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>репозитории</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
