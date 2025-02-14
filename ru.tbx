@@ -1361,6 +1361,18 @@
                 <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>репозитории</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Recent</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Недавние</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Symbols</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Символы</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>View</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Показывать</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
