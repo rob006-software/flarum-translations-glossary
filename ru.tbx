@@ -1376,6 +1376,14 @@
                 <langSet xml:lang="en"><tig><term>Modules</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Модули</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>High</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Высокий</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Low</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Низкий</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
