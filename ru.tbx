@@ -1372,6 +1372,10 @@
                 <langSet xml:lang="en"><tig><term>View</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Показывать</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Modules</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Модули</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
