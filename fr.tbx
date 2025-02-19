@@ -3611,6 +3611,14 @@
                 <langSet xml:lang="en"><tig><term>Animation</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Animation</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Alerts</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Alertes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Menus</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Menus</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
