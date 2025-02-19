@@ -3627,6 +3627,62 @@
                 <langSet xml:lang="en"><tig><term>Offer</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Offre</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Seniority</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ancienneté</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Purchase</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Acheter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hijack</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Détournement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reputation</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Réputation</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sheet</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Feuille</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Deposit</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Dépôt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Timeline</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Chronologie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Give</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Donner</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Showcase</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Vitrine</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Increment</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Incrément</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Restriction</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Restriction</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Points</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Points</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Character</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Caractère</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Withdrawal</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Retrait</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
