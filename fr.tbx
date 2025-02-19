@@ -3619,6 +3619,10 @@
                 <langSet xml:lang="en"><tig><term>Menus</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Menus</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Decorations</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Décorations</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
