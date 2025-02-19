@@ -3575,6 +3575,14 @@
                 <langSet xml:lang="en"><tig><term>Violence</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Violence</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Story</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Récit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Stories</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Récits</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
