@@ -3559,6 +3559,18 @@
                 <langSet xml:lang="en"><tig><term>System</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Système</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sentra</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Sentra</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Modules</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Modules</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Analyze</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Analyser</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
