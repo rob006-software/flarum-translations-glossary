@@ -3571,10 +3571,6 @@
                 <langSet xml:lang="en"><tig><term>Analyze</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Analyser</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Shield</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Bouclier</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
