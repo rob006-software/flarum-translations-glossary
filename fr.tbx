@@ -3595,6 +3595,10 @@
                 <langSet xml:lang="en"><tig><term>Recipients</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Destinataires</term></tig></langSet>
             </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>Block</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Bloc</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
