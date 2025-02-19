@@ -3599,6 +3599,18 @@
                 <langSet xml:lang="en"><tig><term>Block</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Bloc</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Transition</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Transition</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Coloring</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Coloration</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Animation</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Animation</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
