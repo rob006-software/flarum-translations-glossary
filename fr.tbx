@@ -3583,6 +3583,18 @@
                 <langSet xml:lang="en"><tig><term>Stories</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Récits</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Actions</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Actions</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Order</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ordre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Recipients</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Destinataires</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
