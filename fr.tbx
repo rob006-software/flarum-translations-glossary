@@ -3625,7 +3625,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Offer</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Offre</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Proposer</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Seniority</term></tig></langSet>
