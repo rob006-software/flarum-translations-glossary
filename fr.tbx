@@ -3683,6 +3683,18 @@
                 <langSet xml:lang="en"><tig><term>Withdrawal</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Retrait</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Wait</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Attendre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Claim</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Réclamer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Registers</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Registres</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
