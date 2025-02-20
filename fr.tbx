@@ -3767,6 +3767,22 @@
                 <langSet xml:lang="en"><tig><term>Retract</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Rétracter</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Unit</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Unité</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Adopt</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Adopter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Outtime</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Heures creuses</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Goods</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Marchandises</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
