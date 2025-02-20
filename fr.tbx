@@ -3783,6 +3783,46 @@
                 <langSet xml:lang="en"><tig><term>Goods</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Produits</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Buy</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Acheter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Listing</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Liste</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Shelves</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Rayons</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Validity</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Validité</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hour</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Heure</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Minute</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Minute</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Renewal</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Renouvellement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Expiration</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Expiration</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Inventory</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Inventaire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Payment</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Paiement</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
