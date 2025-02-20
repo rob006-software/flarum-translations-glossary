@@ -3695,6 +3695,78 @@
                 <langSet xml:lang="en"><tig><term>Registers</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Registres</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Funds</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Fonds</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reviewer</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Réviseur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Invitee</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Invité</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Inviter</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Inviteur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Automatic</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Automatique</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>All</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Tout</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Review</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Révision</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Refuse</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Refuser</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fees</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Frais</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Chain</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Chaîne</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Products</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Produits</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Invitees</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Invités</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Homepage</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Page d'accueil</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fee</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Frais</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Remark</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Remarque</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Red</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Rouge</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Audit</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Audit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Retract</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Rétracter</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
