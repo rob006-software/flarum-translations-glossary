@@ -2446,7 +2446,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Store</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Boutique</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Magasin</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Fill</term></tig></langSet>
