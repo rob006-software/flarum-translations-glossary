@@ -1396,6 +1396,10 @@
                 <langSet xml:lang="en"><tig><term>box</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>поле</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Authors</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Авторы</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
