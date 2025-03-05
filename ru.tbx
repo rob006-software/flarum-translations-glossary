@@ -1400,6 +1400,14 @@
                 <langSet xml:lang="en"><tig><term>Authors</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Авторы</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>virtual authors</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>виртуальные авторы</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Added</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Добавлено</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
