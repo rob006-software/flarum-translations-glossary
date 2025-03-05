@@ -1388,6 +1388,14 @@
                 <langSet xml:lang="en"><tig><term>virtual author</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>виртуальный автор</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Disable</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Запретить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>box</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>поле</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
