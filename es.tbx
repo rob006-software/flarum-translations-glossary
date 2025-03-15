@@ -56,7 +56,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OAuth</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <langSet xml:lang="es"><tig><term>OAuth</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>packages</term></tig></langSet>
