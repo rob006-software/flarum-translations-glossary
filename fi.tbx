@@ -260,6 +260,10 @@
                 <note from="translator">FriendsOfFlarum's Masquerade lisäosa lisää profiili välilehden käyttäjän sivulle.</note>
                 <descrip>FriendsOfFlarum's Masquerade, an extension to make a profile tab on the user page.</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
