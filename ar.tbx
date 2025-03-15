@@ -258,6 +258,10 @@
                 <langSet xml:lang="en"><tig><term>Delete Group</term></tig></langSet>
                 <langSet xml:lang="ar"><tig><term>حذف المجموعة</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="ar"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
