@@ -1408,6 +1408,10 @@
                 <langSet xml:lang="en"><tig><term>Added</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Добавлено</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
