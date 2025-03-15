@@ -250,8 +250,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Masquerade</term></tig></langSet>
-                <langSet xml:lang="pa"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term/></tig></langSet>
                 <descrip>FriendsOfFlarum's Masquerade, an extension to make a profile tab on the user page.</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
     </text>
