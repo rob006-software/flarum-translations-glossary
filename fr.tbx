@@ -3827,6 +3827,10 @@
                 <langSet xml:lang="en"><tig><term>Gmail</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Gmail</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
