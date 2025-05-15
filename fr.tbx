@@ -3843,6 +3843,10 @@
                 <langSet xml:lang="en"><tig><term>Collector</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Collecteur</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Items</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Objets</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
