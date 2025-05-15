@@ -3847,6 +3847,10 @@
                 <langSet xml:lang="en"><tig><term>Items</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Objets</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reject</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Rejeter</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
