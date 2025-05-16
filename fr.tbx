@@ -3832,10 +3832,6 @@
                 <langSet xml:lang="fr"><tig><term>Clients</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Favorites</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Favoris</term></tig></langSet>
             </termEntry>
