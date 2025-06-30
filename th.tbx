@@ -24,8 +24,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
-                <descrip>двухфакторная авторизация</descrip>
+                <langSet xml:lang="th"><tig><term>2FA</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
@@ -172,8 +171,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <descrip>4th generation of GeeTest CAPTCHA</descrip>
+                <langSet xml:lang="th"><tig><term>CAPTCHA แบบปรับตัว</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Approval</term></tig></langSet>
@@ -263,7 +261,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term></term></tig></langSet>
+                <langSet xml:lang="th"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
