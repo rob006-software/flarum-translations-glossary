@@ -107,11 +107,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>users followed</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>utilizadores seguidos</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>users following</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>utilizadores a seguir</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bio</term></tig></langSet>
@@ -263,7 +263,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
