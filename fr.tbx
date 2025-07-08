@@ -3863,6 +3863,10 @@
                 <langSet xml:lang="en"><tig><term>Recharge</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Recharger</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Expire</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Expirer</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
