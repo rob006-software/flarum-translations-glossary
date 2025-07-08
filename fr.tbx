@@ -3847,6 +3847,18 @@
                 <langSet xml:lang="en"><tig><term>Reject</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Rejeter</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Opacity</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Opacité</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Outline</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Contour</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
