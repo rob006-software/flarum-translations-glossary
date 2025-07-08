@@ -3849,7 +3849,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Opacity</term></tig></langSet>
@@ -3858,6 +3858,10 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Outline</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Contour</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Recharge</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Recharger</term></tig></langSet>
             </termEntry>
         </body>
     </text>
