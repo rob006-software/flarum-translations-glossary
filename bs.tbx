@@ -12,116 +12,120 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ASN</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ISP</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Apple</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Refresh</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Term</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>HTTP Bearer</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Money</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Clockwork</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA (v3)</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
                 <descrip>3th generation of GeeTest CAPTCHA</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>GeeTest CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bounty</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Parameter</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OP</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OAuth</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Twitch</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
                 <descrip>Twitch is a video game live-streaming service.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Firebase</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Delete</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Tier</term></tig></langSet>
-                <langSet xml:lang="bs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Endpoint</term></tig></langSet>
+                <langSet xml:lang="bs"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Header</term></tig></langSet>
                 <langSet xml:lang="bs"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
