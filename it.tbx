@@ -269,6 +269,10 @@
                 <langSet xml:lang="en"><tig><term>refresh</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>aggiorna</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Header</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
