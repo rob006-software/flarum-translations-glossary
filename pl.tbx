@@ -275,6 +275,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Header</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
