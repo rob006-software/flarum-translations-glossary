@@ -260,6 +260,10 @@
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>панель</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Header</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
