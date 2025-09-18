@@ -264,6 +264,11 @@
                 <langSet xml:lang="en"><tig><term>Header</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>Шапка</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+                <descrip>ике факторлы аутентификацияләү</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
