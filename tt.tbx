@@ -12,11 +12,11 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ASN</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>ASN</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>dashboard тактасы</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ISP</term></tig></langSet>
@@ -24,11 +24,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Apple</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Apple</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Үзгәрт</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Refresh</term></tig></langSet>
@@ -52,16 +52,16 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Clockwork</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Clockwork</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA (v3)</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>CAPTCHA (v3)</term></tig></langSet>
                 <descrip>3th generation of GeeTest CAPTCHA</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>2FA</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>GeeTest CAPTCHA</term></tig></langSet>
@@ -69,7 +69,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bounty</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Bounty</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Parameter</term></tig></langSet>
@@ -77,52 +77,52 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OP</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>OP</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OAuth</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>OAuth вәкаләт бирүе</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Билге</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Twitch</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Twitch</term></tig></langSet>
                 <descrip>Twitch is a video game live-streaming service.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Firebase</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Firebase</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Адаптив CAPTCHA</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Delete</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Бетер</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Composer</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Билгеләмә</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>spoiler</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Tier</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Дәрәҗә</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Endpoint</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Endpoint</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Header</term></tig></langSet>
