@@ -20,7 +20,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ISP</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>ISP</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Apple</term></tig></langSet>
@@ -32,7 +32,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Refresh</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Яңарт</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Term</term></tig></langSet>
@@ -40,15 +40,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>URL</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>HTTP Bearer</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>HTTP Bearer</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Money</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Тәңкә</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Clockwork</term></tig></langSet>
@@ -65,7 +65,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>GeeTest CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>GeeTest CAPTCHA</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bounty</term></tig></langSet>
@@ -73,7 +73,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Parameter</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Параметр</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OP</term></tig></langSet>
