@@ -270,6 +270,10 @@
                 <langSet xml:lang="vi"><tig><term>2FA</term></tig></langSet>
                 <descrip>ике факторлы аутентификацияләү</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
