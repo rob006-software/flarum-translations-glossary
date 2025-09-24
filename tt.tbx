@@ -137,6 +137,18 @@
                 <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>
                 <langSet xml:lang="tt"><tig><term>CAPTCHA</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Style</term></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Стиль</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Custom Header</term></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Өске колонтитул</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Custom Footer</term></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Аскы колонтитул</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
