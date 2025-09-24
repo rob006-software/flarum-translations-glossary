@@ -289,6 +289,18 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Style</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Custom Header</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Custom Footer</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
