@@ -286,6 +286,10 @@
                 <langSet xml:lang="en"><tig><term>Custom Footer</term></tig></langSet>
                 <langSet xml:lang="vi"><tig><term>Tùy chỉnh chân trang</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dark Mode</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
