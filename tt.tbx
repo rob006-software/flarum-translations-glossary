@@ -173,6 +173,26 @@
                 <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
                 <langSet xml:lang="tt"><tig><term>кулланучының username исеме</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>серсүз</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>search engine</term></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>эзләү системасы</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>meta tag</term></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>meta tag тэгы</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>тэг</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>banner</term></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>баннер</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
