@@ -157,6 +157,18 @@
                 <langSet xml:lang="en"><tig><term>CSS</term></tig></langSet>
                 <langSet xml:lang="tt"><tig><term>CSS җәдвәле</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>кулланучы</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>стандартлы, стандартлыча</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>driver</term></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>драйвер</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
