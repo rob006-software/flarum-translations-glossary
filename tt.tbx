@@ -169,6 +169,10 @@
                 <langSet xml:lang="en"><tig><term>driver</term></tig></langSet>
                 <langSet xml:lang="tt"><tig><term>драйвер</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>кулланучының username исеме</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
