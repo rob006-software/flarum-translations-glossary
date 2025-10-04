@@ -284,6 +284,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Dark Mode</term></tig></langSet>
+                <langSet xml:lang="ur"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CSS</term></tig></langSet>
                 <langSet xml:lang="ur"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
