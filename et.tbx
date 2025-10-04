@@ -302,14 +302,18 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term></term></tig></langSet>
+                <langSet xml:lang="et"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term></term></tig></langSet>
+                <langSet xml:lang="et"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>banner</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Domain</term></tig></langSet>
                 <langSet xml:lang="et"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
