@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Delete</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Cyrl"><tig><term>Обриши</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
@@ -70,7 +70,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Money</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Cyrl"><tig><term>Новац</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Firebase</term></tig></langSet>
@@ -272,7 +272,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Style</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Cyrl"><tig><term>Стил</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Custom Header</term></tig></langSet>
@@ -292,7 +292,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Cyrl"><tig><term>корисник</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
@@ -304,7 +304,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Cyrl"><tig><term>лозинка</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
@@ -316,7 +316,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Domain</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
