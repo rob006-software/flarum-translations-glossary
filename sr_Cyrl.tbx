@@ -25,19 +25,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Cyrl"><tig><term>проширење</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Cyrl"><tig><term>проширења</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Cyrl"><tig><term>проширења</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>package</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Cyrl"><tig><term>пакет</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
@@ -53,12 +53,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>packages</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Cyrl"><tig><term>пакети</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
-                <descrip>PHP 包管理器</descrip>
+                <langSet xml:lang="sr_Cyrl"><tig><term>Композитор</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
@@ -66,7 +65,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>queue</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Cyrl"><tig><term>ред</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Money</term></tig></langSet>
@@ -79,7 +78,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Refresh</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Cyrl"><tig><term>Освежи</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answer</term></tig></langSet>
@@ -115,8 +114,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Clockwork</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
-                <descrip>php dev tools</descrip>
+                <langSet xml:lang="sr_Cyrl"><tig><term>Сатни механизам</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Tier</term></tig></langSet>
@@ -173,8 +171,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
-                <descrip>Edit, Change, Modify, .etc.</descrip>
+                <langSet xml:lang="sr_Cyrl"><tig><term>Промени</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Auto Moderator</term></tig></langSet>
@@ -193,8 +190,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
-                <descrip>A statement that explains the meaning of a word or phrase, or expressing the essential nature of something.</descrip>
+                <langSet xml:lang="sr_Cyrl"><tig><term>Дефиниција</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
@@ -296,7 +292,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Cyrl"><tig><term>задато</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>driver</term></tig></langSet>
