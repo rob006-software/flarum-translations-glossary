@@ -1465,6 +1465,14 @@
                 <langSet xml:lang="en"><tig><term>Table</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Таблица</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Features</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Особенности</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Align</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Выровнять</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
