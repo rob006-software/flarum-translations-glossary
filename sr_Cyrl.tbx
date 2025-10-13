@@ -255,7 +255,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Header</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Cyrl"><tig><term>Заглавље</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
