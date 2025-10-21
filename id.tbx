@@ -244,7 +244,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Endpoint</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Endpoint</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Masquerade</term></tig></langSet>
@@ -261,12 +261,12 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>2FA</term></tig></langSet>
                 <descrip>ике факторлы аутентификацияләү</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>CAPTCHA</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Style</term></tig></langSet>
@@ -274,27 +274,27 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Custom Header</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Header Kustom</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Custom Footer</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Footer Kustom</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Dark Mode</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Mode Gelap</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CSS</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>CSS</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pengguna</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>default</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>driver</term></tig></langSet>
@@ -302,19 +302,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>password</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>tag</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>banner</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>banner</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Domain</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Domain</term></tig></langSet>
             </termEntry>
         </body>
     </text>
