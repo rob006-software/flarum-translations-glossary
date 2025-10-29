@@ -266,60 +266,60 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>2FA</term></tig></langSet>
                 <descrip>ике факторлы аутентификацияләү</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>CAPTCHA</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Style</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>Стиль</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Custom Header</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>Користувацька шапка</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Custom Footer</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>Користувацький підвал</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Dark Mode</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>Темний режим</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CSS</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>CSS</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>користувач</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>за налаштуванням</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>driver</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>драйвер</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>пароль</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>тег</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>banner</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>банер</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Domain</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>Домен</term></tig></langSet>
             </termEntry>
         </body>
     </text>
