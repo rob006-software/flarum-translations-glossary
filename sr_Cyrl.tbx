@@ -94,7 +94,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ISP</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Cyrl"><tig><term>Интернет провајдер</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>users followed</term></tig></langSet>
@@ -238,7 +238,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Parameter</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Cyrl"><tig><term>Параметар</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Endpoint</term></tig></langSet>
@@ -296,7 +296,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>driver</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Cyrl"><tig><term>механизам</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
