@@ -3916,6 +3916,18 @@
                 <langSet xml:lang="en"><tig><term>Timestamp</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Horodatage</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Response</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Réponse</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Headers</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>En-têtes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Raw</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Brut</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
