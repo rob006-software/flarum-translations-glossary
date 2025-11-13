@@ -1473,6 +1473,10 @@
                 <langSet xml:lang="en"><tig><term>Align</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Выровнять</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Date of Birth</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Дата рождения</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
