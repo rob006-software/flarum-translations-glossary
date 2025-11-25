@@ -266,64 +266,64 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Header</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>Yläosa</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>Kaksivaiheinen tunnistautuminen</term></tig></langSet>
                 <descrip>ике факторлы аутентификацияләү</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>CAPTCHA</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Style</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>Tyyli</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Custom Header</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>Mukautettu yläosa</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Custom Footer</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>Mukautettu alaosa</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Dark Mode</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>Tumma tila</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CSS</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>CSS</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>käyttäjä</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>oletus</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>driver</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>ajuri</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>salasana</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>avainsana</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>banner</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>banneri</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Domain</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>Verkkotunnus</term></tig></langSet>
             </termEntry>
         </body>
     </text>
