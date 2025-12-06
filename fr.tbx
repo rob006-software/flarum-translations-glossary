@@ -3927,11 +3927,6 @@
                 <langSet xml:lang="en"><tig><term>Custom Footer</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-                <descrip>ике факторлы аутентификацияләү</descrip>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Under</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Au-dessous</term></tig></langSet>
