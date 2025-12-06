@@ -3863,10 +3863,6 @@
                 <langSet xml:lang="en"><tig><term>Expire</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Expirer</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Scope</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Portée</term></tig></langSet>
