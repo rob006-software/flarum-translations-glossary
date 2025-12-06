@@ -3868,10 +3868,6 @@
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
