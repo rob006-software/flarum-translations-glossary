@@ -3928,6 +3928,10 @@
                 <langSet xml:lang="en"><tig><term>Raw</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Brut</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Disclose</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Divulguer</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
