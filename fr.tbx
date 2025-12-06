@@ -3868,10 +3868,6 @@
                 <langSet xml:lang="fr"><tig><term>Expirer</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Custom Header</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
