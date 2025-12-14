@@ -3900,10 +3900,6 @@
                 <langSet xml:lang="fr"><tig><term>IA</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Agent</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Agent</term></tig></langSet>
             </termEntry>
