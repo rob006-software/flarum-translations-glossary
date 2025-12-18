@@ -183,8 +183,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Term</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
-                <descrip>A word or phrase that is used to refer to a particular thing.</descrip>
+                <langSet xml:lang="id"><tig><term>Istilah</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Glossary</term></tig></langSet>
