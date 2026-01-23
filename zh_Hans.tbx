@@ -491,6 +491,14 @@
                 <langSet xml:lang="en"><tig><term>Deprecated</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>已弃用</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>OpenAI</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>OpenAI</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Provider</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>提供商</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
