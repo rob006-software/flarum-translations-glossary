@@ -483,6 +483,14 @@
                 <langSet xml:lang="en"><tig><term>clipboard</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>剪贴板</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Replaced</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>替换</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Deprecated</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>已弃用</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
