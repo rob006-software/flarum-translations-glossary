@@ -3903,6 +3903,10 @@
                 <langSet xml:lang="en"><tig><term>Agent</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Agent</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
