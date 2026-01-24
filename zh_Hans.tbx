@@ -510,10 +510,6 @@
                 <langSet xml:lang="en"><tig><term>Model</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>模型</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Turnstile</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>Turnstile</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
