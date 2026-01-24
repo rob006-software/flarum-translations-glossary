@@ -498,6 +498,22 @@
                 <langSet xml:lang="en"><tig><term>Provider</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>提供商</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Enter</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>输入</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Test</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>测试</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Model</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>模型</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Turnstile</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Turnstile</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
