@@ -368,7 +368,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>定义</term></tig></langSet>
-                <descrip>A statement that explains the meaning of a word or phrase, or expressing the essential nature of something.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
@@ -424,7 +423,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>双重验证</term></tig></langSet>
                 <descrip>ике факторлы аутентификацияләү</descrip>
             </termEntry>
             <termEntry>
@@ -457,7 +456,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>默认</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>driver</term></tig></langSet>
