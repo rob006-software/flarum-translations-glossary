@@ -321,6 +321,11 @@
                 <langSet xml:lang="en"><tig><term>Domain</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>Домен</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tokens</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+                <descrip>AI Model</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
