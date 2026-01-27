@@ -336,7 +336,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Domain</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tokens</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+                <descrip>AI Model</descrip>
             </termEntry>
         </body>
     </text>
