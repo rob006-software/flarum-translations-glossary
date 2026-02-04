@@ -531,6 +531,10 @@
                 <langSet xml:lang="en"><tig><term>Online</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>在线</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Enable</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>启用</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
