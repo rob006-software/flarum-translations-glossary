@@ -535,6 +535,10 @@
                 <langSet xml:lang="en"><tig><term>Enable</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>启用</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Disabled</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>禁用</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
