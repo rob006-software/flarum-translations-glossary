@@ -523,9 +523,13 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tokens</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
                 <note from="translator">无需翻译，生成式人工智能术语</note>
                 <descrip>AI Model</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Online</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>在线</term></tig></langSet>
             </termEntry>
         </body>
     </text>
