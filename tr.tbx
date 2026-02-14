@@ -431,7 +431,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tokens</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Token (Belirteç)</term></tig></langSet>
+                <note from="translator">Genellikle "Belirteç" olarak çevrilir ancak teknik metinlerde "Token" olarak bırakılması çok daha yaygındır.</note>
                 <descrip>AI Model</descrip>
             </termEntry>
         </body>
