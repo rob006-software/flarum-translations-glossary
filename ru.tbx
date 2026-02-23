@@ -491,7 +491,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>badges</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>жетоны</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>значки</term></tig></langSet>
+                <note from="translator">Жетон — это больше синоним монеты. Значок — это небольшой графический элемент. В 100% случаев в интерфейсе это и имеется ввиду</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reason</term></tig></langSet>
@@ -1479,7 +1480,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tokens</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term/></tig></langSet>
                 <descrip>AI Model</descrip>
             </termEntry>
         </body>
