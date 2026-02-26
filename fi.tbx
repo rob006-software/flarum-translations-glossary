@@ -327,7 +327,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tokens</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>tokenit</term></tig></langSet>
                 <descrip>AI Model</descrip>
             </termEntry>
         </body>
