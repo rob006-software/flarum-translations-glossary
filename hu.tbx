@@ -190,7 +190,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Approval</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Jóváhagyás</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
@@ -199,7 +199,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Auto Moderator</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Automatikus moderátor</term></tig></langSet>
                 <descrip>Auto Moderator, an extension that uses specified rules to make content judgments.</descrip>
             </termEntry>
             <termEntry>
@@ -209,18 +209,16 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Glossary</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Szójegyzék</term></tig></langSet>
                 <descrip>A glossary is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
-                <descrip>A statement that explains the meaning of a word or phrase, or expressing the essential nature of something.</descrip>
+                <langSet xml:lang="hu"><tig><term>Definíció</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
-                <descrip>The best reply that fit the discussion or the question.</descrip>
+                <langSet xml:lang="hu"><tig><term>Legjobb válaszok</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Two Factor</term></tig></langSet>
@@ -253,12 +251,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Jelvény</term></tig></langSet>
                 <descrip>The thing used to identify oneself in a way or represent membership in a society or group.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Events Calendar</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Eseménynaptár</term></tig></langSet>
                 <descrip>the event subject</descrip>
             </termEntry>
             <termEntry>
@@ -267,7 +265,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Endpoint</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Végpont</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Masquerade</term></tig></langSet>
@@ -280,16 +278,16 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Header</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Fejléc</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>2FA</term></tig></langSet>
                 <descrip>ике факторлы аутентификацияләү</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>CAPTCHA</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Style</term></tig></langSet>
@@ -297,19 +295,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Custom Header</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Egyéni fejléc</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Custom Footer</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Egyéni lábléc</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Dark Mode</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Sötét mód</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CSS</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>CSS</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
@@ -317,7 +315,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>alapértelmezett</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>driver</term></tig></langSet>
@@ -341,7 +339,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tokens</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term></term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term/></tig></langSet>
                 <descrip>AI Model</descrip>
             </termEntry>
         </body>
