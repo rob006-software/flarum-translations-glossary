@@ -3916,6 +3916,10 @@
                 <langSet xml:lang="en"><tig><term>Deprecated</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Obsolète</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Nullable</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Nullable</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
