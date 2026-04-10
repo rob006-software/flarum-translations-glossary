@@ -656,10 +656,6 @@
                 <langSet xml:lang="fr"><tig><term>Exporter</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Frontend</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Application frontale</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Import</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Importer</term></tig></langSet>
             </termEntry>
