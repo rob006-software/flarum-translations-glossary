@@ -692,10 +692,6 @@
                 <langSet xml:lang="fr"><tig><term>Joindre</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Backend</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Application dorsale</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Bucket</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Espace de stockage mémoire</term></tig></langSet>
             </termEntry>
