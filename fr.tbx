@@ -3896,10 +3896,6 @@
                 <langSet xml:lang="fr"><tig><term>Agent</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>tokens</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
                 <descrip>AI Model</descrip>
