@@ -1021,10 +1021,6 @@
                 <langSet xml:lang="fr"><tig><term>Appliquer</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Spoiler</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Divulgâcher</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Basic</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Essentiel</term></tig></langSet>
             </termEntry>
