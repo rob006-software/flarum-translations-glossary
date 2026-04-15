@@ -3001,10 +3001,6 @@
                 <langSet xml:lang="fr"><tig><term>Codes</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>divulgâchage</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Popover</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Fenêtre contextuelle</term></tig></langSet>
             </termEntry>
