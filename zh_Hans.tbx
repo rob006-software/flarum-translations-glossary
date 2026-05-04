@@ -539,6 +539,10 @@
                 <langSet xml:lang="en"><tig><term>Disabled</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>禁用</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Group</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>群组</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
