@@ -16,7 +16,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>discussions</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>дискуссии</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>темы</term></tig></langSet>
+                <note from="translator">Перешли с дискуссий на темы. Подробнее: https://discuss.flarum.org/d/1545-russian-language-pack/689</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
