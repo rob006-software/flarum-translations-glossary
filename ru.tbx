@@ -89,7 +89,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>discussion</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>дискуссия</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>тема</term></tig></langSet>
+                <note from="translator">Перешли с дискуссий на темы. Подробнее: https://discuss.flarum.org/d/1545-russian-language-pack/689</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
@@ -845,7 +846,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Private discussions</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>Частные дискуссии</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Переписки</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cropper</term></tig></langSet>
@@ -1131,7 +1132,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Private discussion</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>Частная дискуссия</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Переписка</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ASN</term></tig></langSet>
