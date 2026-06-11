@@ -329,6 +329,18 @@
                 <langSet xml:lang="de"><tig><term>Token</term></tig></langSet>
                 <descrip>AI Model</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Save Changes</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Änderungen speichern</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cancel</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Abbrechen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Save</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Speichern</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
