@@ -435,6 +435,10 @@
                 <note from="translator">Genellikle "Belirteç" olarak çevrilir ancak teknik metinlerde "Token" olarak bırakılması çok daha yaygındır.</note>
                 <descrip>AI Model</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Footer</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
