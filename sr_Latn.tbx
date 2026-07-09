@@ -48,7 +48,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OAuth</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>OAuth</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>packages</term></tig></langSet>
@@ -69,7 +69,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Money</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Novac</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Firebase</term></tig></langSet>
@@ -86,7 +86,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Private discussion</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Privatna diskusija</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ASN</term></tig></langSet>
@@ -185,8 +185,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Glossary</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-                <descrip>A glossary is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms.</descrip>
+                <langSet xml:lang="sr_Latn"><tig><term>Pojmovnik</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
@@ -298,7 +297,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>lozinka</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
