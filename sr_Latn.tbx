@@ -340,6 +340,26 @@
                 <langSet xml:lang="en"><tig><term>weekly check</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>nedeljna provera</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>System Info</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Informacije o sistemu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>System information</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Sistemske informacije</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Copy</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Kopirati</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>announcement</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>obaveštenje</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Clipboard</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Privremena memorija</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
