@@ -368,10 +368,6 @@
                 <langSet xml:lang="en"><tig><term>Latest news</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Novosti</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>queue</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term>red</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
