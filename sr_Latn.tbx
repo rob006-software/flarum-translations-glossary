@@ -328,6 +328,10 @@
                 <langSet xml:lang="en"><tig><term>Forum Title</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Naslov foruma</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>updated</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>ažuriran</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
