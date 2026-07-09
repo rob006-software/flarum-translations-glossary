@@ -320,6 +320,14 @@
                 <langSet xml:lang="en"><tig><term>Footer</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Podnožje</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Home Page</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Početna stranica</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Forum Title</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Naslov foruma</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
