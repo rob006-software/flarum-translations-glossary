@@ -12,12 +12,11 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Delete</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Obriši</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-                <descrip>двухфакторная авторизация</descrip>
+                <langSet xml:lang="sr_Latn"><tig><term>2FA</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
@@ -25,15 +24,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>dodatak</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>dodaci</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>dodaci</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>package</term></tig></langSet>
@@ -83,7 +82,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answer</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Najbolji odgovor</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Private discussion</term></tig></langSet>
@@ -91,7 +90,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ASN</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>ASN</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ISP</term></tig></langSet>
@@ -107,7 +106,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bio</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>biografija</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
@@ -141,8 +140,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bounty</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-                <descrip>Users can donate on a discussion page to raise funds for whatever the discussion is for.</descrip>
+                <langSet xml:lang="sr_Latn"><tig><term>Nagrada</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Twitch</term></tig></langSet>
@@ -164,12 +162,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <descrip>4th generation of GeeTest CAPTCHA</descrip>
+                <langSet xml:lang="sr_Latn"><tig><term>Prilagodljiva CAPTCHA</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Approval</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Odobrenje</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
@@ -178,7 +175,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Auto Moderator</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Automoderator</term></tig></langSet>
                 <descrip>Auto Moderator, an extension that uses specified rules to make content judgments.</descrip>
             </termEntry>
             <termEntry>
@@ -193,13 +190,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-                <descrip>A statement that explains the meaning of a word or phrase, or expressing the essential nature of something.</descrip>
+                <langSet xml:lang="sr_Latn"><tig><term>Definicija</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-                <descrip>The best reply that fit the discussion or the question.</descrip>
+                <langSet xml:lang="sr_Latn"><tig><term>Najbolji odgovori</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Two Factor</term></tig></langSet>
@@ -232,12 +227,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-                <descrip>The thing used to identify oneself in a way or represent membership in a society or group.</descrip>
+                <langSet xml:lang="sr_Latn"><tig><term>Značka</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Events Calendar</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Kalendar događaja</term></tig></langSet>
                 <descrip>the event subject</descrip>
             </termEntry>
             <termEntry>
@@ -255,20 +249,20 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Kontrolna tabla</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Header</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Zaglavlje</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>2fa</term></tig></langSet>
                 <descrip>ике факторлы аутентификацияләү</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>CAPTCHA</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Style</term></tig></langSet>
@@ -276,19 +270,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Custom Header</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Prilagođeno zaglavlje</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Custom Footer</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Prilagođeno podnožje</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Dark Mode</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Tamni režim</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CSS</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>CSS</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
@@ -296,11 +290,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>podrazumevano</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>driver</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>mehanizam</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
@@ -312,15 +306,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>banner</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Baner</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Domain</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Domen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tokens</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
                 <descrip>AI Model</descrip>
             </termEntry>
         </body>
