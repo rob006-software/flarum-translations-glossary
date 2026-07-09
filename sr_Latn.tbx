@@ -332,6 +332,14 @@
                 <langSet xml:lang="en"><tig><term>updated</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>ažuriran</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>e-pošta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>weekly check</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>nedeljna provera</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
