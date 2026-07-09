@@ -404,6 +404,82 @@
                 <langSet xml:lang="en"><tig><term>settings</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>podešavanja</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>updates</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>ažuriranja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Disabled</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Onemogućeno</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Are you sure you want to continue?</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Da li ste sigurni da želite da nastavite?</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>assets</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>resursi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Features</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Karakteristike</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Purge</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Očistiti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configuration</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>podešavanja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>post</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>odgovor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Authentication</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Potvrda identiteta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>deleting</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>brisanje</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>README</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>README</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>purging</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>čišćenje</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Search</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Pretraga/Pretraži</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Widget</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Vidžet</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>editing</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>uređivanje</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>uređivanje</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>file</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>datoteka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Website</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Veb sajt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Configure</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Podesiti</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
