@@ -285,7 +285,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>korisnik</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
