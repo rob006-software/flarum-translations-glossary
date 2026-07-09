@@ -400,6 +400,10 @@
                 <langSet xml:lang="en"><tig><term>Debug mode</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Režim za otklanjanje grešaka</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>settings</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>podešavanja</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
