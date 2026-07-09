@@ -368,6 +368,38 @@
                 <langSet xml:lang="en"><tig><term>Latest news</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Novosti</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rebuild</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>obnoviti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Edit</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Urediti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Less</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>LESS</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>active</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>uključeno</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>karakteristika</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>enable</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>omogućiti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>disable</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>onemogućiti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Debug mode</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Režim za otklanjanje grešaka</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
