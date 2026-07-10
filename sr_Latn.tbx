@@ -548,6 +548,14 @@
                 <langSet xml:lang="en"><tig><term>tokens</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>tokeni</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remove</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>ukloniti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rename</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>preimenovanje</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
