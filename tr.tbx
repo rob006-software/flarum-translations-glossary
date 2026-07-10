@@ -437,7 +437,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Footer</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Alt bilgi</term></tig></langSet>
+                <note from="translator">Diğer kullanımlar: Alt kısım, Alt alan</note>
             </termEntry>
         </body>
     </text>
