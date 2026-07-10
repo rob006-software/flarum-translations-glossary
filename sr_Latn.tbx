@@ -576,6 +576,10 @@
                 <langSet xml:lang="en"><tig><term>user last seen time</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>poslednja aktivnost korisnika</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Display name</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Korisničko ime</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
