@@ -500,6 +500,26 @@
                 <langSet xml:lang="en"><tig><term>Discussion</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Tema</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>forever</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>trajno</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>forever</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>zauvek</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Do you wish to discard it?</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Da li želite da odustanete?</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>discussions</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>teme</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>posts</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>odgovori</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
