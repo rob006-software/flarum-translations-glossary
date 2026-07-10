@@ -540,6 +540,14 @@
                 <langSet xml:lang="en"><tig><term>attribute</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>svojstvo</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reply</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>odgovoriti</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>tokens</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>tokeni</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
