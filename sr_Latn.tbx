@@ -572,6 +572,10 @@
                 <langSet xml:lang="en"><tig><term>badges</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>bedževi</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>user last seen time</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>poslednja aktivnost korisnika</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
