@@ -520,6 +520,26 @@
                 <langSet xml:lang="en"><tig><term>posts</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>odgovori</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>access tokens</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>pristupni tokeni</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>attributes</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>svojstva</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>credentials</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>podaci za prijavu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Moderate</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>Upravljanje</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>attribute</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>svojstvo</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
