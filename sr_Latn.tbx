@@ -484,6 +484,18 @@
                 <langSet xml:lang="en"><tig><term>renaming</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>preimenovanje</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>create</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>napraviti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>token</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>access token</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>pristupni token</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
