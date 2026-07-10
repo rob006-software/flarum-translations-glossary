@@ -480,6 +480,10 @@
                 <langSet xml:lang="en"><tig><term>Configure</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Podesiti</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>renaming</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>preimenovanje</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
