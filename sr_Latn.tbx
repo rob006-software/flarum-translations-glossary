@@ -584,6 +584,10 @@
                 <langSet xml:lang="en"><tig><term>reset your password</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>promena lozinke</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>query</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>upit</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
