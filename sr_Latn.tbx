@@ -580,6 +580,10 @@
                 <langSet xml:lang="en"><tig><term>page</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>stranica</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>log in</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>prijava</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
