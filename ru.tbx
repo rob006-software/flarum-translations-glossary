@@ -1128,7 +1128,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answer</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Лучший ответ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Private discussion</term></tig></langSet>
@@ -1136,11 +1136,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ASN</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ASN</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ISP</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ISP</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>users followed</term></tig></langSet>
@@ -1156,20 +1156,20 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>slug</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Clockwork</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Clockwork</term></tig></langSet>
                 <descrip>php dev tools</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Original Poster</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Автор темы</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OP</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>АТ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Apple</term></tig></langSet>
@@ -1177,17 +1177,16 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Paid to bump</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Платное поднятие</term></tig></langSet>
                 <descrip>Pay to Bump. Users can pay to get their discussion bumped to the top of the discussion index.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bounty</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
-                <descrip>Users can donate on a discussion page to raise funds for whatever the discussion is for.</descrip>
+                <langSet xml:lang="ru"><tig><term>Вознаграждение</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Twitch</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Twitch</term></tig></langSet>
                 <descrip>Twitch is a video game live-streaming service.</descrip>
             </termEntry>
             <termEntry>
@@ -1218,7 +1217,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Approval</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Одобрение</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
@@ -1226,7 +1225,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Auto Moderator</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Автомодератор</term></tig></langSet>
                 <descrip>Auto Moderator, an extension that uses specified rules to make content judgments.</descrip>
             </termEntry>
             <termEntry>
@@ -1235,8 +1234,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
-                <descrip>A statement that explains the meaning of a word or phrase, or expressing the essential nature of something.</descrip>
+                <langSet xml:lang="ru"><tig><term>Определение</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
@@ -1274,12 +1272,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Значок</term></tig></langSet>
                 <descrip>The thing used to identify oneself in a way or represent membership in a society or group.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Events Calendar</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Календарь событий</term></tig></langSet>
                 <descrip>the event subject</descrip>
             </termEntry>
             <termEntry>
@@ -1288,7 +1286,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Masquerade</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Masquerade</term></tig></langSet>
                 <descrip>FriendsOfFlarum's Masquerade, an extension to make a profile tab on the user page.</descrip>
             </termEntry>
             <termEntry>
@@ -1413,52 +1411,52 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Панель управления</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>2FA</term></tig></langSet>
                 <descrip>ике факторлы аутентификацияләү</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>CAPTCHA</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Style</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Стиль</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Custom Header</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Пользовательская шапка</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Custom Footer</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Пользовательский подвал</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Dark Mode</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Тёмный режим</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CSS</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>CSS</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>По умолчанию</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>driver</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Драйвер</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>banner</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Баннер</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Domain</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Домен</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Alerts</term></tig></langSet>
@@ -1482,12 +1480,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tokens</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Токены</term></tig></langSet>
                 <descrip>AI Model</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Footer</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Подвал</term></tig></langSet>
             </termEntry>
         </body>
     </text>
