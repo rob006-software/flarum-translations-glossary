@@ -588,6 +588,10 @@
                 <langSet xml:lang="en"><tig><term>query</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>upit</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>navigation</term></tig></langSet>
+                <langSet xml:lang="sr_Latn"><tig><term>navigacija</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
