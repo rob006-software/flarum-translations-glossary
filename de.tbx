@@ -349,6 +349,14 @@
                 <langSet xml:lang="en"><tig><term>Remove</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Entfernen</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>All</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Alle</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Description</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Beschreibung</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
