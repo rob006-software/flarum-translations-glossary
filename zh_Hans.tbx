@@ -495,7 +495,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Replaced</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>替换</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>替代</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Deprecated</term></tig></langSet>
@@ -545,7 +545,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Footer</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
