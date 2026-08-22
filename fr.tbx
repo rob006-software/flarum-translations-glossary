@@ -3902,11 +3902,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>utilisateur</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>divulgâcher</term></tig></langSet>
             </termEntry>
         </body>
     </text>
