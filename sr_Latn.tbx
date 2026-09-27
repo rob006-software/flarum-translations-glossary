@@ -23,7 +23,7 @@
                 <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>dodatak</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>dodaci</term></tig></langSet>
             </termEntry>
@@ -104,11 +104,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Header</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Zaglavlje</term></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term>2fa</term></tig></langSet>
-                <descrip>Two-factor authentication</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>
@@ -290,7 +285,7 @@
                 <langSet xml:lang="en"><tig><term>editing</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>uređivanje</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>uređivanje</term></tig></langSet>
             </termEntry>
@@ -362,9 +357,10 @@
                 <langSet xml:lang="en"><tig><term>reply</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>odgovoriti</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>tokens</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>tokeni</term></tig></langSet>
+                <descrip>Usually a security token used for authentication or access (e.g. access token, API token). In AI-related settings, also a unit of text processed by a model.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>remove</term></tig></langSet>
@@ -378,11 +374,11 @@
                 <langSet xml:lang="en"><tig><term>Sign up</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Napravi nalog</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>discussion</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>tema</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>badge</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>bedž</term></tig></langSet>
             </termEntry>

@@ -474,7 +474,7 @@
                 <langSet xml:lang="en"><tig><term>Sign In</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Se connecter</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Envoyer</term></tig></langSet>
             </termEntry>
@@ -575,7 +575,7 @@
                 <langSet xml:lang="en"><tig><term>Reason</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Motif</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>Schedule</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Planifier</term></tig></langSet>
             </termEntry>
@@ -619,7 +619,7 @@
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Sujet</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>Follow</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Suivre</term></tig></langSet>
             </termEntry>
@@ -751,7 +751,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Compositeur</term></tig></langSet>
-                <descrip>PHP dependency manager.</descrip>
+                <descrip>Usually the editor panel for writing discussions and replies. Can also mean Composer, the PHP dependency manager (a product name).</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Form</term></tig></langSet>
@@ -1014,11 +1014,11 @@
                 <langSet xml:lang="en"><tig><term>Singular</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Singulier</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>Guest</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Invité</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>Address</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Adresse</term></tig></langSet>
             </termEntry>
@@ -1058,7 +1058,7 @@
                 <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Composer</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>Asset</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Ressource</term></tig></langSet>
             </termEntry>
@@ -1095,7 +1095,7 @@
                 <langSet xml:lang="en"><tig><term>Source</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Source</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>Disable</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Désactiver</term></tig></langSet>
             </termEntry>
@@ -1107,7 +1107,7 @@
                 <langSet xml:lang="en"><tig><term>Documentation</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Documentation</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>Permission</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Autorisation</term></tig></langSet>
             </termEntry>
@@ -1227,7 +1227,7 @@
                 <langSet xml:lang="en"><tig><term>View</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Voir</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>Sign up</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>S'inscrire</term></tig></langSet>
             </termEntry>
@@ -1283,7 +1283,7 @@
                 <langSet xml:lang="en"><tig><term>Recover</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Récupérer</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>Option</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Option</term></tig></langSet>
             </termEntry>
@@ -1311,7 +1311,7 @@
                 <langSet xml:lang="en"><tig><term>Session</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Session</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>Control</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Commande</term></tig></langSet>
             </termEntry>
@@ -1451,7 +1451,7 @@
                 <langSet xml:lang="en"><tig><term>Info</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Information</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>File</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Fichier</term></tig></langSet>
             </termEntry>
@@ -1463,7 +1463,7 @@
                 <langSet xml:lang="en"><tig><term>Second</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Seconde</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>Log Out</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Se déconnecter</term></tig></langSet>
             </termEntry>
@@ -1475,7 +1475,7 @@
                 <langSet xml:lang="en"><tig><term>Return</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Revenir</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>Log In</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Se connecter</term></tig></langSet>
             </termEntry>
@@ -1607,7 +1607,7 @@
                 <langSet xml:lang="en"><tig><term>Choose</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Sélectionner</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>Random</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Aléatoire</term></tig></langSet>
             </termEntry>
@@ -2535,10 +2535,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Square</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Carré</term></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Choose</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Sélectionner</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Dropbox</term></tig></langSet>

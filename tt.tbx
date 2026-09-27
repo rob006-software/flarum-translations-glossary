@@ -97,7 +97,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
                 <langSet xml:lang="tt"><tig><term>Composer</term></tig></langSet>
-                <descrip>PHP dependency manager.</descrip>
+                <descrip>Usually the editor panel for writing discussions and replies. Can also mean Composer, the PHP dependency manager (a product name).</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
@@ -119,11 +119,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Header</term></tig></langSet>
                 <langSet xml:lang="tt"><tig><term>Башлык</term></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term>2FA</term></tig></langSet>
-                <descrip>Two-factor authentication</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>

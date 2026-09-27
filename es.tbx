@@ -38,7 +38,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Composer</term></tig></langSet>
-                <descrip>PHP dependency manager.</descrip>
+                <descrip>Usually the editor panel for writing discussions and replies. Can also mean Composer, the PHP dependency manager (a product name).</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>queue</term></tig></langSet>

@@ -42,10 +42,6 @@
                 <langSet xml:lang="en"><tig><term>Private Messaging</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>私信</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Private Messaging</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>私信</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private conversations</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>私人会话</term></tig></langSet>
@@ -96,7 +92,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>Composer</term></tig></langSet>
-                <descrip>PHP dependency manager.</descrip>
+                <descrip>Usually the editor panel for writing discussions and replies. Can also mean Composer, the PHP dependency manager (a product name).</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
@@ -182,10 +178,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>仓库</term></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>扩展程序</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>queue</term></tig></langSet>
@@ -349,11 +341,6 @@
                 <langSet xml:lang="en"><tig><term>Header</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>页眉</term></tig></langSet>
                 <note from="translator">页面头部，页眉</note>
-            </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>双重验证</term></tig></langSet>
-                <descrip>Two-factor authentication</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>

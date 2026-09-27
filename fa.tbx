@@ -39,10 +39,6 @@
                 <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
                 <langSet xml:lang="fa"><tig><term>افزونه‌ها</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term>افزونه‌ها</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>package</term></tig></langSet>
                 <langSet xml:lang="fa"><tig><term>بسته</term></tig></langSet>
@@ -157,11 +153,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Header</term></tig></langSet>
                 <langSet xml:lang="fa"><tig><term>سربرگ</term></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term>احراز هویت دو عاملی</term></tig></langSet>
-                <descrip>Two-factor authentication</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Style</term></tig></langSet>

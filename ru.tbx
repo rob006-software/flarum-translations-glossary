@@ -815,7 +815,7 @@
                 <langSet xml:lang="en"><tig><term>answers</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>ответы</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>value</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>значение</term></tig></langSet>
             </termEntry>
@@ -943,7 +943,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Composer</term></tig></langSet>
-                <descrip>PHP dependency manager.</descrip>
+                <descrip>Usually the editor panel for writing discussions and replies. Can also mean Composer, the PHP dependency manager (a product name).</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Details</term></tig></langSet>
@@ -989,7 +989,7 @@
                 <langSet xml:lang="en"><tig><term>Identifier</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Идентификатор</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>Email</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Email</term></tig></langSet>
             </termEntry>
@@ -1056,10 +1056,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Emojis</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>эмодзи</term></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>Расширения</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>package</term></tig></langSet>
@@ -1257,10 +1253,6 @@
                 <langSet xml:lang="en"><tig><term>solutions</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>решения</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>репозитории</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Recent</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Недавние</term></tig></langSet>
@@ -1312,11 +1304,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Панель управления</term></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>2FA</term></tig></langSet>
-                <descrip>Two-factor authentication</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>

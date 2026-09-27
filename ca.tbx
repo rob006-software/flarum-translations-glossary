@@ -104,10 +104,6 @@
                 <langSet xml:lang="ca"><tig><term>adreça web</term></tig></langSet>
                 <note from="translator">Tot i que l'expressió URL és perfectament coneguda en català dins els entorns tecnològics, molts usuaris del fòrum no són tècnics.</note>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Recipient</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>Destinatari</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Role</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>Rol</term></tig></langSet>

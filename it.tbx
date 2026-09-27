@@ -26,7 +26,7 @@
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>pannello di controllo</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
+            <termEntry>
                 <langSet xml:lang="en"><tig><term>refresh</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>aggiorna</term></tig></langSet>
             </termEntry>

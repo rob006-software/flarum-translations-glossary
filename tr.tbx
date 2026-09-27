@@ -138,10 +138,6 @@
                 <langSet xml:lang="tr"><tig><term>uzantılar</term></tig></langSet>
                 <note from="translator">Cümle içerisinde geçtiği durumu kontrol edin. İngilizcedeki çoğul kullanım örnekleri ile Türkçe'deki çoğul kullanım örnekleri farklıdır. Örn: "Uninstall 2 extensions" kalıbı "2 uzantıları kaldır" şeklinde çevrilemez. Doğrusu "2 uzantıyı kaldır" şeklinde bir çeviri olması gerekir.</note>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>uzantılar</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>package</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>paket</term></tig></langSet>
@@ -157,7 +153,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>düzenleyici</term></tig></langSet>
-                <descrip>PHP dependency manager.</descrip>
+                <descrip>Usually the editor panel for writing discussions and replies. Can also mean Composer, the PHP dependency manager (a product name).</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
@@ -303,11 +299,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Header</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Üst Bilgi</term></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>İki Adımlı Doğrulama</term></tig></langSet>
-                <descrip>Two-factor authentication</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>
