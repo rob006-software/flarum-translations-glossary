@@ -103,7 +103,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bounty</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>Sikerdíj</term></tig></langSet>
-                <descrip>Users can donate on a discussion page to raise funds for whatever the discussion is for.</descrip>
+                <descrip>A reward (e.g. money or points) offered on a discussion, usually for answering or solving it.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Approval</term></tig></langSet>
@@ -112,7 +112,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Auto Moderator</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>Automatikus moderátor</term></tig></langSet>
-                <descrip>Auto Moderator, an extension that uses specified rules to make content judgments.</descrip>
+                <descrip>Name of an extension that automatically performs moderation actions (like adding users to groups) based on configured rules.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Glossary</term></tig></langSet>
@@ -127,17 +127,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>Legjobb válaszok</term></tig></langSet>
-                <descrip>The best reply that fit the discussion or the question.</descrip>
+                <descrip>The reply marked as the best answer to the question asked in a discussion.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>Jelvény</term></tig></langSet>
                 <descrip>The thing used to identify oneself in a way or represent membership in a society or group.</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Events Calendar</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>Eseménynaptár</term></tig></langSet>
-                <descrip>the event subject</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Endpoint</term></tig></langSet>

@@ -52,10 +52,6 @@
                 <langSet xml:lang="et"><tig><term>URL</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>HTTP Bearer</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term>HTTP Bearer</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>OAuth</term></tig></langSet>
                 <langSet xml:lang="et"><tig><term>OAuth</term></tig></langSet>
             </termEntry>
@@ -106,21 +102,13 @@
                 <langSet xml:lang="et"><tig><term>ISP</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>users followed</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term>jälgitud kasutajad</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>users following</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term>kasutajad, kes jälgivad</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>bio</term></tig></langSet>
                 <langSet xml:lang="et"><tig><term>bio</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Clockwork</term></tig></langSet>
                 <langSet xml:lang="et"><tig><term>Clockwork</term></tig></langSet>
-                <descrip>php dev tools</descrip>
+                <descrip>Name of a PHP development tool for profiling and debugging requests.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Tier</term></tig></langSet>
@@ -135,14 +123,9 @@
                 <langSet xml:lang="et"><tig><term>OP</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Paid to bump</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term>Maksa esilesõstmiseks</term></tig></langSet>
-                <descrip>Pay to Bump. Users can pay to get their discussion bumped to the top of the discussion index.</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Bounty</term></tig></langSet>
                 <langSet xml:lang="et"><tig><term>Annetus</term></tig></langSet>
-                <descrip>Users can donate on a discussion page to raise funds for whatever the discussion is for.</descrip>
+                <descrip>A reward (e.g. money or points) offered on a discussion, usually for answering or solving it.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Twitch</term></tig></langSet>
@@ -156,12 +139,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
                 <langSet xml:lang="et"><tig><term>Muuda</term></tig></langSet>
-                <descrip>Edit, Change, Modify, .etc.</descrip>
+                <descrip>To modify something (verb), or a modification (noun).</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Auto Moderator</term></tig></langSet>
                 <langSet xml:lang="et"><tig><term>Automaatne moderaator</term></tig></langSet>
-                <descrip>Auto Moderator, an extension that uses specified rules to make content judgments.</descrip>
+                <descrip>Name of an extension that automatically performs moderation actions (like adding users to groups) based on configured rules.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Term</term></tig></langSet>
@@ -181,7 +164,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
                 <langSet xml:lang="et"><tig><term>Parimad vastused</term></tig></langSet>
-                <descrip>The best reply that fit the discussion or the question.</descrip>
+                <descrip>The reply marked as the best answer to the question asked in a discussion.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Two Factor</term></tig></langSet>
@@ -192,18 +175,9 @@
                 <langSet xml:lang="et"><tig><term>Kahe-etapiline</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>twofactor</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term>kaheetapiline</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
                 <langSet xml:lang="et"><tig><term>Aumärk</term></tig></langSet>
                 <descrip>The thing used to identify oneself in a way or represent membership in a society or group.</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Events Calendar</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term>Sündmuste kalender</term></tig></langSet>
-                <descrip>the event subject</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Parameter</term></tig></langSet>
@@ -216,7 +190,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Masquerade</term></tig></langSet>
                 <langSet xml:lang="et"><tig><term>Maskeraad</term></tig></langSet>
-                <descrip>FriendsOfFlarum's Masquerade, an extension to make a profile tab on the user page.</descrip>
+                <descrip>Name of the FriendsOfFlarum extension that adds custom profile fields (the "masquerade profile") to users.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>

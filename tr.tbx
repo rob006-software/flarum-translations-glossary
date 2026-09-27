@@ -11,11 +11,6 @@
     <text>
         <body>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>anonim</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>Bilinmeyen</term></tig></langSet>
-                <note from="translator">Yazanı ya da yaratıcısı belli olmayan</note>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>spam</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>istenmeyen</term></tig></langSet>
             </termEntry>
@@ -40,20 +35,12 @@
                 <langSet xml:lang="tr"><tig><term>gövde</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>fontend</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>ön uç</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>backend</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>arka uç</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>namespace</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>ad alanı</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>buton</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>düğme</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
@@ -160,10 +147,6 @@
                 <langSet xml:lang="tr"><tig><term>paket</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>HTTP Bearer</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>HTTP Taşıyıcısı</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>OAuth</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>OAuth</term></tig></langSet>
             </termEntry>
@@ -214,14 +197,6 @@
                 <langSet xml:lang="tr"><tig><term>İSS</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>users followed</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>kullanıcı takip etti</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>users following</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>takip eden kullanıcılar</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>bio</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>biyografi</term></tig></langSet>
             </termEntry>
@@ -232,7 +207,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Clockwork</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Otomatik</term></tig></langSet>
-                <descrip>php dev tools</descrip>
+                <descrip>Name of a PHP development tool for profiling and debugging requests.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Tier</term></tig></langSet>
@@ -251,14 +226,9 @@
                 <langSet xml:lang="tr"><tig><term>Apple</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Paid to bump</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>Ücretli üste çıkartma</term></tig></langSet>
-                <descrip>Pay to Bump. Users can pay to get their discussion bumped to the top of the discussion index.</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Bounty</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Ödül</term></tig></langSet>
-                <descrip>Users can donate on a discussion page to raise funds for whatever the discussion is for.</descrip>
+                <descrip>A reward (e.g. money or points) offered on a discussion, usually for answering or solving it.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Twitch</term></tig></langSet>
@@ -272,12 +242,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Değiştir</term></tig></langSet>
-                <descrip>Edit, Change, Modify, .etc.</descrip>
+                <descrip>To modify something (verb), or a modification (noun).</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Auto Moderator</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Otomatik Moderatör</term></tig></langSet>
-                <descrip>Auto Moderator, an extension that uses specified rules to make content judgments.</descrip>
+                <descrip>Name of an extension that automatically performs moderation actions (like adding users to groups) based on configured rules.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Term</term></tig></langSet>
@@ -297,7 +267,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>En İyi Yanıt</term></tig></langSet>
-                <descrip>The best reply that fit the discussion or the question.</descrip>
+                <descrip>The reply marked as the best answer to the question asked in a discussion.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Two Factor</term></tig></langSet>
@@ -308,18 +278,9 @@
                 <langSet xml:lang="tr"><tig><term>İki Adımlı Doğrulama</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>twofactor</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>iki adımlı doğrulama</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Rozet</term></tig></langSet>
                 <descrip>The thing used to identify oneself in a way or represent membership in a society or group.</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Events Calendar</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>Etkinlik Takvimi</term></tig></langSet>
-                <descrip>the event subject</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Parameter</term></tig></langSet>
@@ -333,7 +294,7 @@
                 <langSet xml:lang="en"><tig><term>Masquerade</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Maskeli Balo</term></tig></langSet>
                 <note from="translator">FriendsOfFlarum'un Maskeli Balo eklentisi, kullanıcı sayfasında profil sekmesi oluşturmaya yarayan bir eklenti.</note>
-                <descrip>FriendsOfFlarum's Masquerade, an extension to make a profile tab on the user page.</descrip>
+                <descrip>Name of the FriendsOfFlarum extension that adds custom profile fields (the "masquerade profile") to users.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
@@ -405,7 +366,7 @@
                 <langSet xml:lang="en"><tig><term>tokens</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Token (Belirteç)</term></tig></langSet>
                 <note from="translator">Genellikle "Belirteç" olarak çevrilir ancak teknik metinlerde "Token" olarak bırakılması çok daha yaygındır.</note>
-                <descrip>AI Model</descrip>
+                <descrip>Usually a security token used for authentication or access (e.g. access token, API token). In AI-related settings, also a unit of text processed by a model.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Footer</term></tig></langSet>

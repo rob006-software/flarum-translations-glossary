@@ -32,14 +32,6 @@
                 <descrip>Google's app development platform.</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>users followed</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>utilizadores seguidos</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>users following</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>utilizadores a seguir</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Glossary</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Glossário</term></tig></langSet>
                 <descrip>A glossary is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms.</descrip>

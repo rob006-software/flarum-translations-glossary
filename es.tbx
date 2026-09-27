@@ -53,14 +53,9 @@
                 <langSet xml:lang="es"><tig><term>Nivel</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>CAPTCHA adaptativo</term></tig></langSet>
-                <descrip>4th generation of GeeTest CAPTCHA</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Cambiar</term></tig></langSet>
-                <descrip>Edit, Change, Modify, .etc.</descrip>
+                <descrip>To modify something (verb), or a modification (noun).</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
@@ -95,12 +90,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Save</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Guardar</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Begin Bisect</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Comenzar búsqueda Binaria</term></tig></langSet>
-                <note from="translator">Búsqueda binaria - se utiliza para solucionar problemas de extensiones. Ayuda a identificar cuál da el problema.</note>
-                <descrip>Starts bisect mode: a binary search used to find which extension causes a problem.</descrip>
             </termEntry>
         </body>
     </text>

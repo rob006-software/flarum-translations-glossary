@@ -14,11 +14,6 @@
                 <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
                 <langSet xml:lang="de@formal"><tig><term>URL</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Begin Bisect</term></tig></langSet>
-                <langSet xml:lang="de@formal"><tig><term>Bisect starten</term></tig></langSet>
-                <descrip>Starts bisect mode: a binary search used to find which extension causes a problem.</descrip>
-            </termEntry>
         </body>
     </text>
 </martif>

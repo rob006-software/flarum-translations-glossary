@@ -66,12 +66,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bounty</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Nagrada</term></tig></langSet>
-                <descrip>Users can donate on a discussion page to raise funds for whatever the discussion is for.</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term>Prilagodljiva CAPTCHA</term></tig></langSet>
-                <descrip>4th generation of GeeTest CAPTCHA</descrip>
+                <descrip>A reward (e.g. money or points) offered on a discussion, usually for answering or solving it.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Approval</term></tig></langSet>
@@ -80,7 +75,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Auto Moderator</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Automoderator</term></tig></langSet>
-                <descrip>Auto Moderator, an extension that uses specified rules to make content judgments.</descrip>
+                <descrip>Name of an extension that automatically performs moderation actions (like adding users to groups) based on configured rules.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Glossary</term></tig></langSet>
@@ -95,17 +90,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Najbolji odgovori</term></tig></langSet>
-                <descrip>The best reply that fit the discussion or the question.</descrip>
+                <descrip>The reply marked as the best answer to the question asked in a discussion.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Značka</term></tig></langSet>
                 <descrip>The thing used to identify oneself in a way or represent membership in a society or group.</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Events Calendar</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term>Kalendar događaja</term></tig></langSet>
-                <descrip>the event subject</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
@@ -185,14 +175,6 @@
                 <langSet xml:lang="sr_Latn"><tig><term>e-pošta</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>weekly check</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term>nedeljna provera</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>System Info</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term>Informacije o sistemu</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>System information</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Sistemske informacije</term></tig></langSet>
             </termEntry>
@@ -259,10 +241,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Disabled</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Onemogućeno</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Are you sure you want to continue?</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term>Da li ste sigurni da želite da nastavite?</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>assets</term></tig></langSet>

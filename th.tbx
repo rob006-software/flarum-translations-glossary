@@ -15,11 +15,6 @@
                 <langSet xml:lang="th"><tig><term>2FA</term></tig></langSet>
                 <descrip>Two-factor authentication</descrip>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term>CAPTCHA แบบปรับตัว</term></tig></langSet>
-                <descrip>4th generation of GeeTest CAPTCHA</descrip>
-            </termEntry>
         </body>
     </text>
 </martif>
