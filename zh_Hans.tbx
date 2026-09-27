@@ -31,28 +31,8 @@
                 <langSet xml:lang="zh_Hans"><tig><term>帖子</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>must be less than or equal</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>不得多于</term></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>must be less than or equal</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>不得大于</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>kilobytes</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>KB</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>must have more than</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>必须多于</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>must be greater than or equal</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>必须大于等于</term></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>must be greater than or equal</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>不得小于</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>The selected</term></tig></langSet>

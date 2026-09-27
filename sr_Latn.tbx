@@ -331,10 +331,6 @@
                 <langSet xml:lang="sr_Latn"><tig><term>zauvek</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Do you wish to discard it?</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term>Da li želite da odustanete?</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>discussions</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>teme</term></tig></langSet>
             </termEntry>
@@ -395,10 +391,6 @@
                 <langSet xml:lang="sr_Latn"><tig><term>bedževi</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>user last seen time</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term>poslednja aktivnost korisnika</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Display name</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Ime za prikaz</term></tig></langSet>
             </termEntry>
@@ -409,10 +401,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>log in</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>prijava</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>reset your password</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term>promena lozinke</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>query</term></tig></langSet>

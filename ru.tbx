@@ -845,10 +845,6 @@
                 <descrip>Two-factor authentication</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Status:</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>Статус:</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Prev</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Предыдущий</term></tig></langSet>
             </termEntry>
@@ -1064,10 +1060,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Emoji</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>эмодзи</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Are you sure</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>Вы уверены, что</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Emojis</term></tig></langSet>
