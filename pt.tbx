@@ -333,6 +333,20 @@
                 <langSet xml:lang="en"><tig><term>Footer</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term></term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Begin Bisect</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <descrip>本来是二分查找，考虑到实际作用为排查插件问题，所以翻译成二分排查</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Color Scheme</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <descrip>切换浅色、深色模式</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Administration</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>

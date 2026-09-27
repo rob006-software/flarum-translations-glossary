@@ -52,7 +52,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>URL</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>HTTP Bearer</term></tig></langSet>
@@ -121,7 +121,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>اسلاگ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Clockwork</term></tig></langSet>
@@ -331,6 +331,36 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Footer</term></tig></langSet>
+                <langSet xml:lang="fa"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Begin Bisect</term></tig></langSet>
+                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <descrip>本来是二分查找，考虑到实际作用为排查插件问题，所以翻译成二分排查</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cancel</term></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>لغو</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Save Changes</term></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>ذخیره تغییرات</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Yes</term></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>بله</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Save</term></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>درج کردن</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Color Scheme</term></tig></langSet>
+                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <descrip>切换浅色、深色模式</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Administration</term></tig></langSet>
                 <langSet xml:lang="fa"><tig><term></term></tig></langSet>
             </termEntry>
         </body>

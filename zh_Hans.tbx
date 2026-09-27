@@ -547,6 +547,56 @@
                 <langSet xml:lang="en"><tig><term>Footer</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Themes</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>外观样式</term></tig></langSet>
+                <note from="translator">外观主题，看情况</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>groups</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>用户组</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Google Analytics</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Google Analytics</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>discussion</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>讨论</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Downvote</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>反对、踩</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Votes</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>投票</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Upvote</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>赞、赞同、顶</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ignoring</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>忽略</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Users</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>用户</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>try again</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>重试</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Color Scheme</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>显示模式</term></tig></langSet>
+                <descrip>切换浅色、深色模式</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Administration</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>管理后台</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>

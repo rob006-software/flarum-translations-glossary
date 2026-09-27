@@ -361,6 +361,125 @@
                 <langSet xml:lang="en"><tig><term>Status</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Status</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Begin Bisect</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bisect starten</term></tig></langSet>
+                <note from="translator">Knopfbeschriftung für den Start des Bisect-Vorgangs</note>
+                <descrip>本来是二分查找，考虑到实际作用为排查插件问题，所以翻译成二分排查</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Name</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Name</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Back</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zurück</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Apply</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Anwenden</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Members</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Mitglieder</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Close</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Schließen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Error</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Fehler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tags</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Tags</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Edit</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bearbeiten</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Port</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Port</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>API key</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>API-Schlüssel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Background color</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Hintergrundfarbe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>FAQ</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>FAQ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Send</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Senden</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ok</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Ok</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Settings</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Einstellungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Category</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Kategorie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Notifications</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Benachrichtigungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Upload image</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bild hochladen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Desktop</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Desktop</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Details</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Details</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Version</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Version</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Flarum</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Flarum</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Icon</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Symbol</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Color Scheme</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Farbschema</term></tig></langSet>
+                <descrip>切换浅色、深色模式</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Administration</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Administration</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Title</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Titel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Add</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Hinzufügen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Load more</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Mehr laden</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
