@@ -179,10 +179,6 @@
                 <langSet xml:lang="fr"><tig><term>Icône</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Indentation</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Indentation</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Install</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Installer</term></tig></langSet>
             </termEntry>
@@ -335,10 +331,6 @@
                 <langSet xml:lang="fr"><tig><term>Étiquette</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Textarea</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Zone de texte</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Theme</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Thème</term></tig></langSet>
             </termEntry>
@@ -437,10 +429,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Save</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Enregistrer</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Syndication</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Syndication</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Widget</term></tig></langSet>
@@ -741,10 +729,6 @@
                 <langSet xml:lang="fr"><tig><term>Fenêtre</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Newsletter</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Lettre d'information</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Revision</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Révision</term></tig></langSet>
             </termEntry>
@@ -870,10 +854,6 @@
                 <langSet xml:lang="fr"><tig><term>Émetteur</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Kick</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Expulser</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Leave</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Quitter</term></tig></langSet>
             </termEntry>
@@ -890,16 +870,8 @@
                 <langSet xml:lang="fr"><tig><term>Dépôt</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Reverse Proxy</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Proxy inverse</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Summary</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Résumé</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Thickness</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Épaisseur</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Thumbnail</term></tig></langSet>
@@ -2301,10 +2273,6 @@
                 <langSet xml:lang="fr"><tig><term>Rang</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Raffle</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Loterie</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Limit</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Limite</term></tig></langSet>
             </termEntry>
@@ -3362,10 +3330,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>TLS</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>TLS</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Lottery</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Loterie</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Minutes</term></tig></langSet>

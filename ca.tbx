@@ -161,11 +161,6 @@
                 <langSet xml:lang="ca"><tig><term>extensions</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>miserable</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>infeliç</term></tig></langSet>
-                <note from="translator">De totes les acepcions del mot, proposo la menys ofensiva</note>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>sticker</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>adhesiu</term></tig></langSet>
             </termEntry>

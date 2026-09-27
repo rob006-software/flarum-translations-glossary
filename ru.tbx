@@ -374,10 +374,6 @@
                 <langSet xml:lang="ru"><tig><term>Регулярное выражение</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>newsletter</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>новостная рассылка</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Thank You</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Спасибо</term></tig></langSet>
             </termEntry>
@@ -498,10 +494,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Blacklist</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Черный список</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Grace period</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>Льготный период</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Purge</term></tig></langSet>
