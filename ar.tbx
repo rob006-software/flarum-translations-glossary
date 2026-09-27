@@ -130,11 +130,6 @@
                 <langSet xml:lang="ar"><tig><term>إختبار كابتشا بالذكاء الإصطناعي</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <descrip>4th generation of GeeTest CAPTCHA</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA (v3)</term></tig></langSet>
                 <langSet xml:lang="ar"><tig><term>اختبار كابتشا (النسخة 3)</term></tig></langSet>
                 <descrip>3rd generation of GeeTest CAPTCHA</descrip>

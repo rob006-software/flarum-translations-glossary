@@ -58,18 +58,9 @@
                 <descrip>php dev tools</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>CAPTCHA (v3)</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term>CAPTCHA (v3)</term></tig></langSet>
-                <descrip>3rd generation of GeeTest CAPTCHA</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
                 <langSet xml:lang="tt"><tig><term>2FA</term></tig></langSet>
                 <descrip>Two-factor authentication</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>GeeTest CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term>GeeTest CAPTCHA</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bounty</term></tig></langSet>

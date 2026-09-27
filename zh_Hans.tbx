@@ -318,28 +318,9 @@
                 <descrip>Twitch is a video game live-streaming service.</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>GeeTest CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>GeeTest CAPTCHA</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <descrip>4th generation of GeeTest CAPTCHA</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>CAPTCHA (v3)</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>CAPTCHA (v3)</term></tig></langSet>
-                <descrip>3rd generation of GeeTest CAPTCHA</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>行为验</term></tig></langSet>
                 <descrip>4th generation of GeeTest CAPTCHA</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>修改</term></tig></langSet>
-                <descrip>Edit, Change, Modify, .etc.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Approval</term></tig></langSet>

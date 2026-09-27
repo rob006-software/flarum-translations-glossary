@@ -40,25 +40,6 @@
                 <langSet xml:lang="pt"><tig><term>utilizadores a seguir</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>GeeTest CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>GeeTest CAPTCHA</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <descrip>4th generation of GeeTest CAPTCHA</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>CAPTCHA (v3)</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>CAPTCHA (v3)</term></tig></langSet>
-                <descrip>3rd generation of GeeTest CAPTCHA</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <descrip>4th generation of GeeTest CAPTCHA</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Glossary</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Glossário</term></tig></langSet>
                 <descrip>A glossary is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms.</descrip>

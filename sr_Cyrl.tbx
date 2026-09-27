@@ -61,25 +61,6 @@
                 <descrip>php dev tools</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>GeeTest CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term>GeeTest CAPTCHA</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <descrip>4th generation of GeeTest CAPTCHA</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>CAPTCHA (v3)</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term>CAPTCHA (v3)</term></tig></langSet>
-                <descrip>3rd generation of GeeTest CAPTCHA</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <descrip>4th generation of GeeTest CAPTCHA</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
                 <langSet xml:lang="sr_Cyrl"><tig><term>Промени</term></tig></langSet>
                 <descrip>Edit, Change, Modify, .etc.</descrip>

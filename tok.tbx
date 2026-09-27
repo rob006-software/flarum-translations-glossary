@@ -18,25 +18,6 @@
                 <langSet xml:lang="en"><tig><term>User</term></tig></langSet>
                 <langSet xml:lang="tok"><tig><term>jan</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>GeeTest CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term>GeeTest CAPTCHA</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <descrip>4th generation of GeeTest CAPTCHA</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>CAPTCHA (v3)</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term>CAPTCHA (v3)</term></tig></langSet>
-                <descrip>3rd generation of GeeTest CAPTCHA</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
-                <descrip>4th generation of GeeTest CAPTCHA</descrip>
-            </termEntry>
         </body>
     </text>
 </martif>
