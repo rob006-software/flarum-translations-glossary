@@ -124,7 +124,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>Composer</term></tig></langSet>
-                <descrip>PHP 包管理器</descrip>
+                <descrip>PHP dependency manager.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
@@ -133,7 +133,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CDN</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>CDN</term></tig></langSet>
-                <descrip>内容分发网络</descrip>
+                <note from="translator">内容分发网络</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Display name</term></tig></langSet>
@@ -230,7 +230,8 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Firebase</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>Firebase</term></tig></langSet>
-                <descrip>谷歌的应用开发平台</descrip>
+                <note from="translator">谷歌的应用开发平台</note>
+                <descrip>Google's app development platform.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Refresh</term></tig></langSet>
@@ -323,20 +324,22 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
+                <descrip>4th generation of GeeTest CAPTCHA</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA (v3)</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>CAPTCHA (v3)</term></tig></langSet>
-                <descrip>3th generation of GeeTest CAPTCHA</descrip>
+                <descrip>3rd generation of GeeTest CAPTCHA</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>行为验</term></tig></langSet>
+                <descrip>4th generation of GeeTest CAPTCHA</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>修改</term></tig></langSet>
-                <descrip>修改、改变、更改、变更等含义</descrip>
+                <descrip>Edit, Change, Modify, .etc.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Approval</term></tig></langSet>
@@ -368,10 +371,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>定义</term></tig></langSet>
+                <descrip>A statement that explains the meaning of a word or phrase, or expressing the essential nature of something.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>最佳回复</term></tig></langSet>
+                <descrip>The best reply that fit the discussion or the question.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
@@ -426,7 +431,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>双重验证</term></tig></langSet>
-                <descrip>ике факторлы аутентификацияләү</descrip>
+                <descrip>Two-factor authentication</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>
@@ -591,7 +596,8 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Color Scheme</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>显示模式</term></tig></langSet>
-                <descrip>切换浅色、深色模式</descrip>
+                <note from="translator">切换浅色、深色模式</note>
+                <descrip>Switch between light and dark mode.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Administration</term></tig></langSet>

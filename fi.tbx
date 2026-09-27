@@ -25,7 +25,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>Kaksivaiheinen vahvistus</term></tig></langSet>
-                <descrip>двухфакторная авторизация</descrip>
+                <descrip>Two-factor authentication</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
@@ -66,6 +66,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>Muokkain</term></tig></langSet>
+                <descrip>PHP dependency manager.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
@@ -82,6 +83,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Firebase</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>Firebase</term></tig></langSet>
+                <descrip>Google's app development platform.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Refresh</term></tig></langSet>
@@ -122,6 +124,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Clockwork</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>Clockwork</term></tig></langSet>
+                <descrip>php dev tools</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Tier</term></tig></langSet>
@@ -148,6 +151,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bounty</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>Palkkio</term></tig></langSet>
+                <descrip>Users can donate on a discussion page to raise funds for whatever the discussion is for.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Twitch</term></tig></langSet>
@@ -162,11 +166,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
+                <descrip>4th generation of GeeTest CAPTCHA</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA (v3)</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>CAPTCHA (v3)</term></tig></langSet>
-                <descrip>3th generation of GeeTest CAPTCHA</descrip>
+                <descrip>3rd generation of GeeTest CAPTCHA</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
@@ -180,6 +185,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>Vaihda</term></tig></langSet>
+                <descrip>Edit, Change, Modify, .etc.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Auto Moderator</term></tig></langSet>
@@ -190,6 +196,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Term</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>Avainsana</term></tig></langSet>
+                <descrip>A word or phrase that is used to refer to a particular thing.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Glossary</term></tig></langSet>
@@ -200,6 +207,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>Määritelmä</term></tig></langSet>
+                <descrip>A statement that explains the meaning of a word or phrase, or expressing the essential nature of something.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
@@ -239,6 +247,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>Merkki</term></tig></langSet>
+                <descrip>The thing used to identify oneself in a way or represent membership in a society or group.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Events Calendar</term></tig></langSet>
@@ -271,7 +280,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>Kaksivaiheinen tunnistautuminen</term></tig></langSet>
-                <descrip>ике факторлы аутентификацияләү</descrip>
+                <descrip>Two-factor authentication</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>
@@ -337,12 +346,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Begin Bisect</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>Aloita vianhaku</term></tig></langSet>
-                <descrip>本来是二分查找，考虑到实际作用为排查插件问题，所以翻译成二分排查</descrip>
+                <descrip>Starts bisect mode: a binary search used to find which extension causes a problem.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Color Scheme</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term/></tig></langSet>
-                <descrip>切换浅色、深色模式</descrip>
+                <descrip>Switch between light and dark mode.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Administration</term></tig></langSet>

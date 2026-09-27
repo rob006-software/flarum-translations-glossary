@@ -281,7 +281,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Reply</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Répondre</term></tig></langSet>
-                <descrip>Cevap kelimesi Arapçadır. Mümkün olduğunca Öz Türkçe kullanımına özen göstermek için Reply kelimesini Yanıt olarak çevirelim.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Requirement</term></tig></langSet>
@@ -330,12 +329,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Tag</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Balise</term></tig></langSet>
-                <descrip>Značenje reči "Tag" može da ima dva značenja. Prvo značenje se odnosi na kategorije (Flarum Tags), a drugi na oznake (tagovi).</descrip>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Tag</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Étiquette</term></tig></langSet>
-                <descrip>Flarum Tags - Flarum kategorije u kojima se započinje diskusija.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Textarea</term></tig></langSet>
@@ -416,7 +413,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Feed</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Flux</term></tig></langSet>
-                <descrip>Feed için besleme değil Akış ifadesi kullanılmalıdır</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Frontpage</term></tig></langSet>
@@ -533,6 +529,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Badge</term></tig></langSet>
+                <descrip>The thing used to identify oneself in a way or represent membership in a society or group.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Container</term></tig></langSet>
@@ -581,7 +578,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Position</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Position</term></tig></langSet>
-                <descrip>Pozisyon olarak karşılı olsa da genelde "konum" anlamında kullanılır.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Prefix</term></tig></langSet>
@@ -714,6 +710,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Définition</term></tig></langSet>
+                <descrip>A statement that explains the meaning of a word or phrase, or expressing the essential nature of something.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Directory</term></tig></langSet>
@@ -742,7 +739,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Modal</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Fenêtre</term></tig></langSet>
-                <descrip>Açılan pencereler için kullanılır</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Newsletter</term></tig></langSet>
@@ -771,6 +767,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Compositeur</term></tig></langSet>
+                <descrip>PHP dependency manager.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Form</term></tig></langSet>
@@ -931,6 +928,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>A2F</term></tig></langSet>
+                <descrip>Two-factor authentication</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bug</term></tig></langSet>
@@ -1107,6 +1105,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Modifier</term></tig></langSet>
+                <descrip>Edit, Change, Modify, .etc.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Purge</term></tig></langSet>
@@ -1923,6 +1922,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bounty</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Prime</term></tig></langSet>
+                <descrip>Users can donate on a discussion page to raise funds for whatever the discussion is for.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Expand</term></tig></langSet>
@@ -2819,6 +2819,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Term</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Terme</term></tig></langSet>
+                <descrip>A word or phrase that is used to refer to a particular thing.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keycloak</term></tig></langSet>
@@ -3027,6 +3028,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Clockwork</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Horloge</term></tig></langSet>
+                <descrip>php dev tools</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Flush</term></tig></langSet>
@@ -3319,6 +3321,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Firebase</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Firebase</term></tig></langSet>
+                <descrip>Google's app development platform.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Category</term></tig></langSet>
@@ -3468,11 +3471,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
+                <descrip>4th generation of GeeTest CAPTCHA</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA (v3)</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>CAPTCHA (v3)</term></tig></langSet>
-                <descrip>3th generation of GeeTest CAPTCHA</descrip>
+                <descrip>3rd generation of GeeTest CAPTCHA</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
@@ -3502,6 +3506,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Modifier</term></tig></langSet>
+                <descrip>Edit, Change, Modify, .etc.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Minecraft</term></tig></langSet>
@@ -3522,6 +3527,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Glossary</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Glossaire</term></tig></langSet>
+                <descrip>A glossary is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Policy</term></tig></langSet>
@@ -3911,12 +3917,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Begin Bisect</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Commencer la bissection</term></tig></langSet>
-                <descrip>本来是二分查找，考虑到实际作用为排查插件问题，所以翻译成二分排查</descrip>
+                <descrip>Starts bisect mode: a binary search used to find which extension causes a problem.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Color Scheme</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Thème</term></tig></langSet>
-                <descrip>切换浅色、深色模式</descrip>
+                <descrip>Switch between light and dark mode.</descrip>
             </termEntry>
         </body>
     </text>

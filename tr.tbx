@@ -70,12 +70,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Reply</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Yanıt</term></tig></langSet>
-                <descrip>Cevap kelimesi Arapçadır. Mümkün olduğunca Öz Türkçe kullanımına özen göstermek için Reply kelimesini Yanıt olarak çevirelim.</descrip>
+                <note from="translator">Cevap kelimesi Arapçadır. Mümkün olduğunca Öz Türkçe kullanımına özen göstermek için Reply kelimesini Yanıt olarak çevirelim.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Feed</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Akış</term></tig></langSet>
-                <descrip>Feed için besleme değil Akış ifadesi kullanılmalıdır</descrip>
+                <note from="translator">Feed için besleme değil Akış ifadesi kullanılmalıdır</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Image</term></tig></langSet>
@@ -100,7 +100,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Modal</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Pencere</term></tig></langSet>
-                <descrip>Açılan pencereler için kullanılır</descrip>
+                <note from="translator">Açılan pencereler için kullanılır</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Original</term></tig></langSet>
@@ -109,12 +109,13 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Position</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Konum</term></tig></langSet>
-                <descrip>Pozisyon olarak karşılı olsa da genelde "konum" anlamında kullanılır.</descrip>
+                <note from="translator">Pozisyon olarak karşılı olsa da genelde "konum" anlamında kullanılır.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>İki Adımlı Doğrulama</term></tig></langSet>
                 <note from="translator">"2 Factor Authentication" ifadesinin kısaltılmış halidir. İngilizce dilinde yaygın olarak kullanılsa da Türkçe için yaygın bir kullanımı olmadığından dolayı ifadeyi kısaltma olmadan çevirmeniz önerilir.</note>
+                <descrip>Two-factor authentication</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Optional</term></tig></langSet>
@@ -123,7 +124,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>button</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>düğme</term></tig></langSet>
-                <descrip>Türkçe'mizde "button" kelimesi "buton" olarak değil "düğme" olarak çevrilir.</descrip>
+                <note from="translator">Türkçe'mizde "button" kelimesi "buton" olarak değil "düğme" olarak çevrilir.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
@@ -173,7 +174,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>düzenleyici</term></tig></langSet>
-                <descrip>PHP 包管理器</descrip>
+                <descrip>PHP dependency manager.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
@@ -190,6 +191,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Firebase</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Firebase</term></tig></langSet>
+                <descrip>Google's app development platform.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Refresh</term></tig></langSet>
@@ -270,15 +272,17 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
+                <descrip>4th generation of GeeTest CAPTCHA</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA (v3)</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>CAPTCHA (v3)</term></tig></langSet>
-                <descrip>3th generation of GeeTest CAPTCHA</descrip>
+                <descrip>3rd generation of GeeTest CAPTCHA</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
+                <descrip>4th generation of GeeTest CAPTCHA</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Approval</term></tig></langSet>
@@ -287,6 +291,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Değiştir</term></tig></langSet>
+                <descrip>Edit, Change, Modify, .etc.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Auto Moderator</term></tig></langSet>
@@ -296,6 +301,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Term</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Koşul</term></tig></langSet>
+                <descrip>A word or phrase that is used to refer to a particular thing.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Glossary</term></tig></langSet>
@@ -305,6 +311,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Definition</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Tanım</term></tig></langSet>
+                <descrip>A statement that explains the meaning of a word or phrase, or expressing the essential nature of something.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answers</term></tig></langSet>
@@ -343,6 +350,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Rozet</term></tig></langSet>
+                <descrip>The thing used to identify oneself in a way or represent membership in a society or group.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Events Calendar</term></tig></langSet>
@@ -374,7 +382,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>İki Adımlı Doğrulama</term></tig></langSet>
-                <descrip>ике факторлы аутентификацияләү</descrip>
+                <descrip>Two-factor authentication</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>
@@ -451,11 +459,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Color Scheme</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Renk Şeması</term></tig></langSet>
+                <descrip>Switch between light and dark mode.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Begin Bisect</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term/></tig></langSet>
-                <descrip>本来是二分查找，考虑到实际作用为排查插件问题，所以翻译成二分排查</descrip>
+                <descrip>Starts bisect mode: a binary search used to find which extension causes a problem.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Administration</term></tig></langSet>

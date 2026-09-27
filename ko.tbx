@@ -25,6 +25,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>2단계 인증 (2FA)</term></tig></langSet>
+                <descrip>Two-factor authentication</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
@@ -65,7 +66,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term/></tig></langSet>
-                <descrip>PHP 包管理器</descrip>
+                <descrip>PHP dependency manager.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
@@ -82,7 +83,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Firebase</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term/></tig></langSet>
-                <descrip>谷歌的应用开发平台</descrip>
+                <descrip>Google's app development platform.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Refresh</term></tig></langSet>
@@ -163,11 +164,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
+                <descrip>4th generation of GeeTest CAPTCHA</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA (v3)</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>CAPTCHA (v3)</term></tig></langSet>
-                <descrip>3th generation of GeeTest CAPTCHA</descrip>
+                <descrip>3rd generation of GeeTest CAPTCHA</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Adaptive CAPTCHA</term></tig></langSet>
@@ -271,7 +273,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term/></tig></langSet>
-                <descrip>ике факторлы аутентификацияләү</descrip>
+                <descrip>Two-factor authentication</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>
@@ -337,12 +339,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Begin Bisect</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term/></tig></langSet>
-                <descrip>本来是二分查找，考虑到实际作用为排查插件问题，所以翻译成二分排查</descrip>
+                <descrip>Starts bisect mode: a binary search used to find which extension causes a problem.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Color Scheme</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term/></tig></langSet>
-                <descrip>切换浅色、深色模式</descrip>
+                <descrip>Switch between light and dark mode.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Administration</term></tig></langSet>
