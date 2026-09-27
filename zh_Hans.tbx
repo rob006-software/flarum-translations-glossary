@@ -459,10 +459,6 @@
                 <note from="translator">顾名思义，用于Flarum的主题控制</note>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>CSS</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>用户</term></tig></langSet>
             </termEntry>
@@ -547,10 +543,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Group</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>群组</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Footer</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Themes</term></tig></langSet>

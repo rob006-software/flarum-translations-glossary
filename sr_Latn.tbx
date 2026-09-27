@@ -20,10 +20,6 @@
                 <descrip>Two-factor authentication</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>dodatak</term></tig></langSet>
             </termEntry>
@@ -36,14 +32,6 @@
                 <langSet xml:lang="sr_Latn"><tig><term>paket</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>HTTP Bearer</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>OAuth</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>OAuth</term></tig></langSet>
             </termEntry>
@@ -52,30 +40,12 @@
                 <langSet xml:lang="sr_Latn"><tig><term>paketi</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-                <descrip>PHP dependency manager.</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>queue</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>red</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Money</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Novac</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Firebase</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-                <descrip>Google's app development platform.</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Refresh</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Best Answer</term></tig></langSet>
@@ -90,60 +60,13 @@
                 <langSet xml:lang="sr_Latn"><tig><term>ASN</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>ISP</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>users followed</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>users following</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>bio</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>biografija</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Clockwork</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-                <descrip>php dev tools</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Tier</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Original Poster</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>OP</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Apple</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Paid to bump</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-                <descrip>Pay to Bump. Users can pay to get their discussion bumped to the top of the discussion index.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bounty</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Nagrada</term></tig></langSet>
                 <descrip>Users can donate on a discussion page to raise funds for whatever the discussion is for.</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Twitch</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-                <descrip>Twitch is a video game live-streaming service.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>GeeTest CAPTCHA</term></tig></langSet>
@@ -169,19 +92,9 @@
                 <langSet xml:lang="sr_Latn"><tig><term>Odobrenje</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-                <descrip>Edit, Change, Modify, .etc.</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Auto Moderator</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Automoderator</term></tig></langSet>
                 <descrip>Auto Moderator, an extension that uses specified rules to make content judgments.</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Term</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-                <descrip>A word or phrase that is used to refer to a particular thing.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Glossary</term></tig></langSet>
@@ -199,35 +112,6 @@
                 <descrip>The best reply that fit the discussion or the question.</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Two Factor</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Two-Factor</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>twofactor</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-                <descrip>The thing used to identify oneself in a way or represent membership in a society or group.</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Two Factor</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Two-Factor</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>twofactor</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Značka</term></tig></langSet>
                 <descrip>The thing used to identify oneself in a way or represent membership in a society or group.</descrip>
@@ -236,19 +120,6 @@
                 <langSet xml:lang="en"><tig><term>Events Calendar</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Kalendar događaja</term></tig></langSet>
                 <descrip>the event subject</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Parameter</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Endpoint</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Masquerade</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-                <descrip>FriendsOfFlarum's Masquerade, an extension to make a profile tab on the user page.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
@@ -266,10 +137,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>CAPTCHA</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Style</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Custom Header</term></tig></langSet>
@@ -304,21 +171,12 @@
                 <langSet xml:lang="sr_Latn"><tig><term>lozinka</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>banner</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Baner</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Domain</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>Domen</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>tokens</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-                <descrip>AI Model</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Footer</term></tig></langSet>
@@ -603,20 +461,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Toggle</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>uključiti ili isključiti</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Begin Bisect</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-                <descrip>Starts bisect mode: a binary search used to find which extension causes a problem.</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Color Scheme</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-                <descrip>Switch between light and dark mode.</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Administration</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
     </text>

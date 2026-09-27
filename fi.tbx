@@ -139,10 +139,6 @@
                 <langSet xml:lang="fi"><tig><term>OP</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Apple</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Paid to bump</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>Nosto maksettu</term></tig></langSet>
                 <note from="translator">Maksa nostosta. Käyttäjät voivat maksaa, jotta heidän keskustelu nousee listauksen yläreunaan.</note>
@@ -214,23 +210,6 @@
                 <langSet xml:lang="fi"><tig><term>Paras vastaus</term></tig></langSet>
                 <note from="translator">Paras vastaus joka liittyy keskusteluun tai kysymykseen</note>
                 <descrip>The best reply that fit the discussion or the question.</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Two Factor</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Two-Factor</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>twofactor</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
-                <descrip>The thing used to identify oneself in a way or represent membership in a society or group.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Two Factor</term></tig></langSet>
@@ -340,22 +319,9 @@
                 <descrip>AI Model</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Footer</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term></term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Begin Bisect</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>Aloita vianhaku</term></tig></langSet>
                 <descrip>Starts bisect mode: a binary search used to find which extension causes a problem.</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Color Scheme</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
-                <descrip>Switch between light and dark mode.</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Administration</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
     </text>

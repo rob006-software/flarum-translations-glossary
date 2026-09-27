@@ -207,33 +207,6 @@
                 <langSet xml:lang="en"><tig><term>Domain</term></tig></langSet>
                 <langSet xml:lang="tt"><tig><term>Домен</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>tokens</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
-                <descrip>AI Model</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Footer</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term></term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Begin Bisect</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
-                <descrip>Starts bisect mode: a binary search used to find which extension causes a problem.</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Slug</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Color Scheme</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
-                <descrip>Switch between light and dark mode.</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Administration</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term></term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
