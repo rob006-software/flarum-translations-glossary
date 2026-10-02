@@ -16,7 +16,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Navigation</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>导航栏</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>导航</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Layout</term></tig></langSet>
@@ -36,7 +36,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>The selected</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>所选的</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>所选</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Private Messaging</term></tig></langSet>
@@ -44,7 +44,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private conversations</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>私人会话</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>私密会话</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
@@ -65,7 +65,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spoiler</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>黑幕</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>剧透内容</term></tig></langSet>
                 <note from="translator">黑幕？剧透内容？</note>
             </termEntry>
             <termEntry>
@@ -74,11 +74,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>扩展程序</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>扩展</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>扩展程序</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>扩展</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
@@ -109,7 +109,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Logout</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>登出</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>退出登录</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Name Change</term></tig></langSet>
@@ -125,7 +125,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Ability</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>能力</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>权限</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Host</term></tig></langSet>
@@ -137,7 +137,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authentication</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>认证</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>身份验证</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Token</term></tig></langSet>
@@ -203,7 +203,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Private discussion</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>私密主题</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>私密讨论</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ASN</term></tig></langSet>
@@ -224,7 +224,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>固定链接</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>固定链接名</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Clockwork</term></tig></langSet>
@@ -234,6 +234,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>双重验证</term></tig></langSet>
+                <note from="translator">全称“双重身份验证”</note>
                 <descrip>Two-factor authentication</descrip>
             </termEntry>
             <termEntry>
@@ -255,7 +256,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bounty</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>支持</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>悬赏</term></tig></langSet>
                 <note from="translator">支持？捐赠？</note>
                 <descrip>A reward (e.g. money or points) offered on a discussion, usually for answering or solving it.</descrip>
             </termEntry>
@@ -303,7 +304,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>标记</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>徽章</term></tig></langSet>
                 <note from="translator">标记、徽章、标志、头衔</note>
                 <descrip>The thing used to identify oneself in a way or represent membership in a society or group.</descrip>
             </termEntry>
@@ -321,11 +322,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Endpoint</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>接口端点</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>端点</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Masquerade</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>个人资料页签</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Masquerade</term></tig></langSet>
                 <descrip>Name of the FriendsOfFlarum extension that adds custom profile fields (the "masquerade profile") to users.</descrip>
             </termEntry>
             <termEntry>
@@ -334,17 +335,17 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>管理面板</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>管理后台</term></tig></langSet>
                 <note from="translator">Flarum中的管理员面板</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Header</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>页眉</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>页头</term></tig></langSet>
                 <note from="translator">页面头部，页眉</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CAPTCHA</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>CAPTCHA人机验证</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>CAPTCHA 人机验证</term></tig></langSet>
                 <note from="translator">CAPTCHA人机验证</note>
             </termEntry>
             <termEntry>
@@ -364,7 +365,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Dark Mode</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>暗色模式</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>深色模式</term></tig></langSet>
                 <note from="translator">顾名思义，用于Flarum的主题控制</note>
             </termEntry>
             <termEntry>
@@ -391,12 +392,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>banner</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>顶部导航栏</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>横幅</term></tig></langSet>
                 <note from="translator">顶部导航栏/横幅</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Domain</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>域名</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>域</term></tig></langSet>
                 <note from="translator">域名</note>
             </termEntry>
             <termEntry>
@@ -405,11 +406,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Replaced</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>替代</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>已替换</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Deprecated</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>已弃用</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>已过时</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OpenAI</term></tig></langSet>
@@ -433,8 +434,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tokens</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
-                <note from="translator">无需翻译，生成式人工智能术语</note>
+                <langSet xml:lang="zh_Hans"><tig><term>令牌</term></tig></langSet>
+                <note from="translator">通常指用于身份验证或访问的安全令牌（例如访问令牌、API令牌）。在人工智能相关场景中，也可指模型处理的文本单位。根据实际情况可不翻译。</note>
                 <descrip>Usually a security token used for authentication or access (e.g. access token, API token). In AI-related settings, also a unit of text processed by a model.</descrip>
             </termEntry>
             <termEntry>
@@ -451,11 +452,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Group</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>群组</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>用户组</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Themes</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>外观样式</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>主题</term></tig></langSet>
                 <note from="translator">外观主题，看情况</note>
             </termEntry>
             <termEntry>
@@ -472,7 +473,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Downvote</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>反对、踩</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>反对</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Votes</term></tig></langSet>
@@ -480,7 +481,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Upvote</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>赞、赞同、顶</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>赞同</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ignoring</term></tig></langSet>
@@ -496,7 +497,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Color Scheme</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>显示模式</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>配色方案</term></tig></langSet>
                 <note from="translator">切换浅色、深色模式</note>
                 <descrip>Switch between light and dark mode.</descrip>
             </termEntry>
