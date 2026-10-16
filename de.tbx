@@ -416,6 +416,10 @@
                 <langSet xml:lang="en"><tig><term>Posts</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Beiträge</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Leave</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Verlassen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
