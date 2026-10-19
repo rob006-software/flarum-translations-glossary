@@ -420,6 +420,18 @@
                 <langSet xml:lang="en"><tig><term>Leave</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Verlassen</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>No</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Nein</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Yes</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Ja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Colour</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Farbe</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
