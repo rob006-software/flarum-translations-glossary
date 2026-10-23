@@ -432,6 +432,10 @@
                 <langSet xml:lang="en"><tig><term>Colour</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Farbe</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Drag to reorder</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zum Neuanordnen ziehen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
