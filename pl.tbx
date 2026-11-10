@@ -34,6 +34,14 @@
                 <langSet xml:lang="en"><tig><term>permanently delete</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>nieodwracalnie usuń</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Moderator</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Moderator</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bot</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Bot</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
