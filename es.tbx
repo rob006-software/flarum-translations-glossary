@@ -161,6 +161,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Pick'em</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Pick'em</term></tig></langSet>
+                <note from="translator">Extension's name</note>
                 <descrip>Extension's name</descrip>
             </termEntry>
             <termEntry>
