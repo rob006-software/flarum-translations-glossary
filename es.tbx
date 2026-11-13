@@ -140,6 +140,34 @@
                 <langSet xml:lang="en"><tig><term>vBulletin</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>vBulletin</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Resofire Gamepedia</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Resofire Gamepedia</term></tig></langSet>
+                <descrip>Extension's name</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Karachi</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Karachi</term></tig></langSet>
+                <descrip>City's name</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Horizon + Supervisor</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Horizon + Supervisor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Redis / Valkey</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Redis / Valkey</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Pick'em</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Pick'em</term></tig></langSet>
+                <descrip>Extension's name</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Brasilia</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Brasilia</term></tig></langSet>
+                <descrip>City's name</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
