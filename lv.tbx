@@ -15,6 +15,11 @@
                 <langSet xml:lang="lv"><tig><term>Īsais nosaukums</term></tig></langSet>
                 <note from="translator">Parasti URL pēdējā daļa, kas identificē lapu vai resursu</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>MariaDB 10.3+</term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term></term></tig></langSet>
+                <descrip>Información técnica</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
