@@ -505,6 +505,11 @@
                 <langSet xml:lang="en"><tig><term>Administration</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>管理后台</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>MariaDB 10.3+</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <descrip>Información técnica</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
