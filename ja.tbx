@@ -31,6 +31,11 @@
                 <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>エクステンション</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>MariaDB 10.3+</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+                <descrip>Información técnica</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
