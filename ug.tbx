@@ -21,8 +21,52 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MariaDB 10.3+</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term/></tig></langSet>
                 <descrip>Información técnica</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>NodeBB</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Web Wiz Forums</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Vanilla</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Macros</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Invision Community</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Discourse</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>phpBB</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>MyBB</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>XenForo</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>vBulletin 3 / 4</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>vBulletin</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
     </text>
