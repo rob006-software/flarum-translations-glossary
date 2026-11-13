@@ -19,6 +19,11 @@
                 <langSet xml:lang="ug"><tig><term>2FA</term></tig></langSet>
                 <descrip>Two-factor authentication</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>MariaDB 10.3+</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+                <descrip>Información técnica</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
