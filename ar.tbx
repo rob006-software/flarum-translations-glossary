@@ -167,6 +167,11 @@
                 <langSet xml:lang="ar"><tig><term>إنشاء تبويب مخصص للملف الشخصي على صفحة المستخدم</term></tig></langSet>
                 <descrip>Name of the FriendsOfFlarum extension that adds custom profile fields (the "masquerade profile") to users.</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>MariaDB 10.3+</term></tig></langSet>
+                <langSet xml:lang="ar"><tig><term></term></tig></langSet>
+                <descrip>Información técnica</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
