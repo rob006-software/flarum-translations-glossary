@@ -13,6 +13,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>Zatwierdź</term></tig></langSet>
+                <note from="translator">Zależnie od kontekstu: „Zapisz”, „Wyślij” lub „Zatwierdź”.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Delete</term></tig></langSet>
@@ -41,6 +42,121 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bot</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>Bot</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>avatar</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>awatar</term></tig></langSet>
+                <note from="translator">Nie „avatar”.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>primary tag</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>tag główny</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary tag</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>tag dodatkowy</term></tig></langSet>
+                <note from="translator">Nie „tag podrzędny” – „podrzędny” to „child tag”.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mention</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>wzmianka</term></tig></langSet>
+                <note from="translator">Czasownik: wspomnieć o kimś. Nie „wspomnienie”.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>e-mail</term></tig></langSet>
+                <note from="translator">Z łącznikiem.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Home Page</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>strona główna</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Frontpage</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>strona główna</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Suspend</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>zbanować</term></tig></langSet>
+                <note from="translator">Zawieszenie konta to ban: „zbanuj”, „zbanowany”, „ban”.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unread</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>nieodczytany</term></tig></langSet>
+                <note from="translator">Dotyczy dyskusji i wiadomości: „nieodczytane”, „oznacz jako odczytane”.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Nickname</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>pseudonim</term></tig></langSet>
+                <note from="translator">Nie „nick”.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Badge</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>odznaka</term></tig></langSet>
+                <descrip>The thing used to identify oneself in a way or represent membership in a society or group.</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>invite code</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>kod zaproszenia</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Approval</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>zatwierdzenie</term></tig></langSet>
+                <note from="translator">„Oczekuje na zatwierdzenie”, „zatwierdzanie postów”.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sticky</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>przypięta</term></tig></langSet>
+                <note from="translator">Przypięta dyskusja; czasownik: przypiąć/odpiąć.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>driver</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>sterownik</term></tig></langSet>
+                <note from="translator">Np. sterownik poczty, sterownik kolejki.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Flag</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>zgłoszenie</term></tig></langSet>
+                <note from="translator">W znaczeniu zgłoszenia posta do moderacji (czasownik: zgłosić). Flaga kraju to „flaga”.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cache</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>pamięć podręczna</term></tig></langSet>
+                <note from="translator">Nie „cache”. Wyjątek: nazwy w kodzie, np. polecenie cache:clear.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Widget</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>widżet</term></tig></langSet>
+                <note from="translator">Nie „widget”.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sidebar</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>pasek boczny</term></tig></langSet>
+                <note from="translator">Nie „sidebar”. „Side panel” to „panel boczny”.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>side panel</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>panel boczny</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Composer</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>edytor</term></tig></langSet>
+                <note from="translator">Edytor postów i dyskusji; nie „kompozytor”. Composer jako menedżer zależności PHP pozostaje bez tłumaczenia.</note>
+                <descrip>Usually the editor panel for writing discussions and replies. Can also mean Composer, the PHP dependency manager (a product name).</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upload</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>przesyłanie</term></tig></langSet>
+                <note from="translator">Czasownik: przesłać/przesyłać, np. „Prześlij plik”, „przesłane pliki”. Nie „wysyłanie” ani „wgrywanie”.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Are you sure you want to</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Czy na pewno chcesz</term></tig></langSet>
+                <note from="translator">Nie „Czy jesteś pewien, że chcesz”.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>This action cannot be undone</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Tej operacji nie można cofnąć</term></tig></langSet>
             </termEntry>
         </body>
     </text>
