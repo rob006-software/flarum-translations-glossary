@@ -192,6 +192,10 @@
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
                 <langSet xml:lang="et"><tig><term>töölaud</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>OPcache</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
