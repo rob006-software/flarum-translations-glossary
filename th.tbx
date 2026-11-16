@@ -15,6 +15,10 @@
                 <langSet xml:lang="th"><tig><term>2FA</term></tig></langSet>
                 <descrip>Two-factor authentication</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>OPcache</term></tig></langSet>
+                <langSet xml:lang="th"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
