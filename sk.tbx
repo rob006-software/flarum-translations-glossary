@@ -14,6 +14,10 @@
                 <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
                 <langSet xml:lang="sk"><tig><term>Odoslať</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>OPcache</term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
