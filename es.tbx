@@ -100,6 +100,10 @@
                 <langSet xml:lang="es"><tig><term>Deck</term></tig></langSet>
                 <descrip>Extension's name</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Banners</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Banners</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
