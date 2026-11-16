@@ -12,6 +12,10 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OPcache</term></tig></langSet>
+                <langSet xml:lang="bn"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Banners</term></tig></langSet>
                 <langSet xml:lang="bn"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
