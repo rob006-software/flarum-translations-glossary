@@ -167,14 +167,6 @@
                 <langSet xml:lang="ar"><tig><term>إنشاء تبويب مخصص للملف الشخصي على صفحة المستخدم</term></tig></langSet>
                 <descrip>Name of the FriendsOfFlarum extension that adds custom profile fields (the "masquerade profile") to users.</descrip>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>OPcache</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Banners</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term></term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>

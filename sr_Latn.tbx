@@ -410,14 +410,6 @@
                 <langSet xml:lang="en"><tig><term>Toggle</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term>uključiti ili isključiti</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>OPcache</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Banners</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term></term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>

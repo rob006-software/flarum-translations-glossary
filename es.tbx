@@ -91,19 +91,6 @@
                 <langSet xml:lang="en"><tig><term>Save</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Guardar</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>OPcache</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>OPcache</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Deck</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Deck</term></tig></langSet>
-                <descrip>Extension's name</descrip>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Banners</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Banners</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>

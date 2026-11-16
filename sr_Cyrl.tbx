@@ -94,14 +94,6 @@
                 <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
                 <langSet xml:lang="sr_Cyrl"><tig><term>лозинка</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>OPcache</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Banners</term></tig></langSet>
-                <langSet xml:lang="sr_Cyrl"><tig><term></term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>

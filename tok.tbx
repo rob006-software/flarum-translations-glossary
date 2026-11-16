@@ -18,14 +18,6 @@
                 <langSet xml:lang="en"><tig><term>User</term></tig></langSet>
                 <langSet xml:lang="tok"><tig><term>jan</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>OPcache</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Banners</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term></term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>

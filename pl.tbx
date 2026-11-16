@@ -158,14 +158,6 @@
                 <langSet xml:lang="en"><tig><term>This action cannot be undone</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>Tej operacji nie można cofnąć</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>OPcache</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Banners</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>

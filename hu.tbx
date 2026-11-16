@@ -162,14 +162,6 @@
                 <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>alapértelmezett</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>OPcache</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Banners</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term></term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
