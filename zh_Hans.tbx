@@ -505,6 +505,10 @@
                 <langSet xml:lang="en"><tig><term>Administration</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>管理后台</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>OPcache</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
