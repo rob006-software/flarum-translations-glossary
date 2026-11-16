@@ -166,6 +166,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OPcache</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Banners</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
