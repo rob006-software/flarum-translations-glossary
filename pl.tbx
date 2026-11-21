@@ -158,6 +158,47 @@
                 <langSet xml:lang="en"><tig><term>This action cannot be undone</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>Tej operacji nie można cofnąć</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>API key</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>klucz API</term></tig></langSet>
+                <note from="translator">Nie „API Key”.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>endpoint</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>punkt końcowy</term></tig></langSet>
+                <note from="translator">Nie „endpoint”. Nazwy w kodzie zostają bez zmian.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>wyrażenie regularne</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>wyrażenie regularne</term></tig></langSet>
+                <note from="translator">Skrót „regex” może zostać w nawiasie, np. „Zaawansowane wzorce (regex)”.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>access token</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>token dostępu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>two-factor authentication</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>uwierzytelnianie dwuskładnikowe</term></tig></langSet>
+                <note from="translator">Skrót: 2FA.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>maintenance mode</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>tryb konserwacji</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>keyboard shortcut</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>skrót klawiszowy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>color scheme</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>motyw kolorystyczny</term></tig></langSet>
+                <note from="translator">Jak w core („Motyw kolorystyczny”).</note>
+            </termEntry>
         </body>
     </text>
 </martif>
